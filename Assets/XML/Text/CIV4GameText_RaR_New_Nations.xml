@@ -644,7 +644,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_MUNK</Tag>
 		<English>Jens Munk</English>
-		<French>Jens Munk</French>
+		<French>&#201;&#229;&#237;&#241; &#204;&#243;&#237;&#234;</French>
 		<German>Jens Munk</German>
 		<Italian>Jens Munk</Italian>
 		<Spanish>Jens Munk</Spanish>
@@ -652,7 +652,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_EGEDE</Tag>
 		<English>Hans Egede</English>
-		<French>Hans Egede</French>
+		<French>&#213;&#224;&#237;&#241; &#221;&#227;&#229;&#228;&#229;</French>
 		<German>Hans Egede</German>
 		<Italian>Hans Egede</Italian>
 		<Spanish>Hans Egede</Spanish>
@@ -660,7 +660,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_DANISH_KING</Tag>
 		<English>King of Denmark</English>
-		<French>King of Denmark</French>
+		<French>&#202;&#238;&#240;&#238;&#235;&#252; &#196;&#224;&#237;&#232;&#232;</French>
 		<German>K&#246;nig von D&#228;nemark</German>
 		<Italian>King of Denmark</Italian>
 		<Spanish>King of Denmark</Spanish>
@@ -668,7 +668,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_DESC</Tag>
 		<English>Danish Colonies</English>
-		<French>Danish Colonies</French>
+		<French>&#196;&#224;&#242;&#241;&#234;&#232;&#229; &#234;&#238;&#235;&#238;&#237;&#232;&#232;</French>
 		<German>D&#228;nische Kolonien</German>
 		<Italian>Danish Colonies</Italian>
 		<Spanish>Danish Colonies</Spanish>
@@ -676,7 +676,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC</Tag>
 		<English>New Denmark</English>
-		<French>New Denmark</French>
+		<French>&#205;&#238;&#226;&#224;&#255; &#196;&#224;&#237;&#232;&#255;</French>
 		<German>Neu D&#228;nemark</German>
 		<Italian>New Denmark</Italian>
 		<Spanish>New Denmark</Spanish>
@@ -696,7 +696,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_EUROPE_DESC</Tag>
 		<English>Kingdom of Denmark</English>
-		<French>Kingdom of Denmark</French>
+		<French>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#196;&#224;&#237;&#232;&#255;</French>
 		<German>K&#246;nigreich von D&#228;nemark</German>
 		<Italian>Kingdom of Denmark</Italian>
 		<Spanish>Kingdom of Denmark</Spanish>
@@ -704,7 +704,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_EUROPE_SHORT_DESC</Tag>
 		<English>Denmark</English>
-		<French>Denmark</French>
+		<French>&#196;&#224;&#237;&#232;&#255;</French>
 		<German>D&#228;nemark</German>
 		<Italian>Denmark</Italian>
 		<Spanish>Denmark</Spanish>
@@ -724,7 +724,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_EUROPE_PEDIA</Tag>
 		<English>Denmark</English>
-		<French>Denmark</French>
+		<French>&#196;&#224;&#237;&#232;&#255;</French>
 		<German>D&#228;nemark</German>
 		<Italian>Denmark</Italian>
 		<Spanish>Denmark</Spanish>
@@ -892,7 +892,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_RISING</Tag>
 		<English>Johan Risingh</English>
-		<French>Johan Risingh</French>
+		<French>&#201;&#238;&#245;&#224;&#237; &#208;&#232;&#231;&#232;&#237;&#227;&#245;</French>
 		<German>Johan Risingh</German>
 		<Italian>Johan Risingh</Italian>
 		<Spanish>Johan Risingh</Spanish>
@@ -900,7 +900,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_PRINTZ</Tag>
 		<English>Johan Printz</English>
-		<French>Johan Printz</French>
+		<French>&#201;&#238;&#245;&#224;&#237; &#207;&#240;&#232;&#237;&#242;&#246;</French>
 		<German>Johan Printz</German>
 		<Italian>Johan Printz</Italian>
 		<Spanish>Johan Printz</Spanish>
@@ -908,7 +908,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SWEDISH_KING</Tag>
 		<English>King of Sweden</English>
-		<French>King of Sweden</French>
+		<French>&#202;&#238;&#240;&#238;&#235;&#252; &#216;&#226;&#229;&#246;&#232;&#232;</French>
 		<German>K&#246;nig von Schweden</German>
 		<Italian>King of Sweden</Italian>
 		<Spanish>King of Sweden</Spanish>
@@ -916,7 +916,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_DESC</Tag>
 		<English>Swedish Colonies</English>
-		<French>Swedish Colonies</French>
+		<French>&#216;&#226;&#229;&#228;&#241;&#234;&#232;&#229; &#234;&#238;&#235;&#238;&#237;&#232;&#232;</French>
 		<German>Schwedische Kolonien</German>
 		<Italian>Swedish Colonies</Italian>
 		<Spanish>Swedish Colonies</Spanish>
@@ -924,7 +924,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_SHORT_DESC</Tag>
 		<English>New Sweden</English>
-		<French>New Sweden</French>
+		<French>&#205;&#238;&#226;&#224;&#255; &#216;&#226;&#229;&#246;&#232;&#255;</French>
 		<German>Neu Schweden</German>
 		<Italian>New Sweden</Italian>
 		<Spanish>New Sweden</Spanish>
@@ -952,7 +952,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_EUROPE_SHORT_DESC</Tag>
 		<English>Sweden</English>
-		<French>Sweden</French>
+		<French>&#216;&#226;&#229;&#246;&#232;&#255;</French>
 		<German>Schweden</German>
 		<Italian>Sweden</Italian>
 		<Spanish>Sweden</Spanish>
@@ -972,7 +972,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_EUROPE_PEDIA</Tag>
 		<English>Sweden</English>
-		<French>Sweden</French>
+		<French>&#216;&#226;&#229;&#246;&#232;&#255;</French>
 		<German>Schweden</German>
 		<Italian>Sweden</Italian>
 		<Spanish>Sweden</Spanish>
@@ -1140,7 +1140,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_ERMAK</Tag>
 		<English>Ermak Timofeyevich</English>
-		<French>Ermak Timofeyevich</French>
+		<French>&#197;&#240;&#236;&#224;&#234; &#210;&#232;&#236;&#238;&#244;&#229;&#229;&#226;&#232;&#247;</French>
 		<German>Ermak Timofeyevich</German>
 		<Italian>Ermak Timofeyevich</Italian>
 		<Spanish>Ermak Timofeyevich</Spanish>
@@ -1148,7 +1148,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_BARANOV</Tag>
 		<English>Aleksandr Baranov</English>
-		<French>Aleksandr Baranov</French>
+		<French>&#192;&#235;&#229;&#234;&#241;&#224;&#237;&#228;&#240; &#193;&#224;&#240;&#224;&#237;&#238;&#226;</French>
 		<German>Aleksandr Baranov</German>
 		<Italian>Aleksandr Baranov</Italian>
 		<Spanish>Aleksandr Baranov</Spanish>
@@ -1156,7 +1156,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_RUSSIAN_KING</Tag>
 		<English>Czar of Russia</English>
-		<French>Czar of Russia</French>
+		<French>&#214;&#224;&#240;&#252; &#208;&#238;&#241;&#241;&#232;&#232;</French>
 		<German>K&#246;nig von Russland</German>
 		<Italian>King of Russia</Italian>
 		<Spanish>King of Russia</Spanish>
@@ -1164,7 +1164,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_DESC</Tag>
 		<English>Russian Colonies</English>
-		<French>Russian Colonies</French>
+		<French>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#232;&#229; &#202;&#238;&#235;&#238;&#237;&#232;&#232;</French>
 		<German>Russische Kolonien</German>
 		<Italian>Russian Colonies</Italian>
 		<Spanish>Russian Colonies</Spanish>
@@ -1172,7 +1172,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SHORT_DESC</Tag>
 		<English>New Russia</English>
-		<French>New Russia</French>
+		<French>&#205;&#238;&#226;&#224;&#255; &#208;&#238;&#241;&#241;&#232;&#255;</French>
 		<German>Neu Russland</German>
 		<Italian>New Russia</Italian>
 		<Spanish>New Russia</Spanish>
@@ -1200,7 +1200,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_EUROPE_SHORT_DESC</Tag>
 		<English>Russia</English>
-		<French>Russia</French>
+		<French>&#208;&#238;&#241;&#241;&#232;&#255;</French>
 		<German>Russland</German>
 		<Italian>Russia</Italian>
 		<Spanish>Russia</Spanish>
@@ -1220,7 +1220,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_EUROPE_PEDIA</Tag>
 		<English>Russia</English>
-		<French>Russia</French>
+		<French>&#208;&#238;&#241;&#241;&#232;&#255;</French>
 		<German>Russland</German>
 		<Italian>Russia</Italian>
 		<Spanish>Russia</Spanish>

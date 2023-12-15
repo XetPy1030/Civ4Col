@@ -640,7 +640,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_EVENTS</Tag>
 		<English>Events</English>
-		<French>Events</French>
+		<French>&#209;&#238;&#225;&#251;&#242;&#232;&#255;</French>
 		<German>Ereignisse und Taten</German>
 		<Italian>Events</Italian>
 		<Spanish>Events</Spanish>
@@ -648,7 +648,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WHALING</Tag>
 		<English>Whaling and Fishing</English>
-		<French>Whaling and Fishing</French>
+		<French>&#202;&#232;&#242;&#238;&#225;&#238;&#233;&#237;&#255; &#232; &#208;&#251;&#225;&#238;&#235;&#238;&#226;&#241;&#242;&#226;&#238;</French>
 		<German>Walfang und Fischfang</German>
 		<Italian>Whaling</Italian>
 		<Spanish>Whaling</Spanish>
@@ -656,7 +656,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_NEW_STORAGE</Tag>
 		<English>City Storage</English>
-		<French>City Storage</French>
+		<French>&#195;&#238;&#240;&#238;&#228;&#241;&#234;&#238;&#229; &#213;&#240;&#224;&#237;&#232;&#235;&#232;&#249;&#229;</French>
 		<German>Lagerhauskapazit&#228;t</German>
 		<Italian>City Storage</Italian>
 		<Spanish>City Storage</Spanish>
@@ -664,7 +664,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SMUGGLING</Tag>
 		<English>Piracy and Smuggling</English>
-		<French>Piracy and Smuggling</French>
+		<French>&#207;&#232;&#240;&#224;&#242;&#241;&#242;&#226;&#238; &#232; &#202;&#238;&#237;&#242;&#240;&#224;&#225;&#224;&#237;&#228;&#224;</French>
 		<German>Piraterie und Schmuggel</German>
 		<Italian>Smuggling</Italian>
 		<Spanish>Smuggling</Spanish>
@@ -680,7 +680,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_DOMESTIC_MARKETS</Tag>
 		<English>Domestic Economy</English>
-		<French>Domestic Economy</French>
+		<French>&#194;&#237;&#243;&#242;&#240;&#229;&#237;&#237;&#255;&#255; &#221;&#234;&#238;&#237;&#238;&#236;&#232;&#234;&#224;</French>
 		<German>Heimische M&#228;rkte</German>
 		<Italian>Domestic Economy</Italian>
 		<Spanish>Domestic Economy</Spanish>
@@ -688,7 +688,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WINDS_AND_STORMS</Tag>
 		<English>Winds and Storms</English>
-		<French>Winds and Storms</French>
+		<French>&#194;&#229;&#242;&#240;&#251; &#232; &#216;&#242;&#238;&#240;&#236;&#251;</French>
 		<German>Wind und St&#252;rme</German>
 		<Italian>Winds and Storms</Italian>
 		<Spanish>Winds and Storms</Spanish>
@@ -696,7 +696,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RELATIONS_TO_KING</Tag>
 		<English>The King</English>
-		<French>The King</French>
+		<French>&#202;&#238;&#240;&#238;&#235;&#252;</French>
 		<German>Beziehungen zum K&#246;nig</German>
 		<Italian>The King</Italian>
 		<Spanish>The King</Spanish>
@@ -704,7 +704,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CHANGES_TO_TREASURES</Tag>
 		<English>Treasures</English>
-		<French>Treasures</French>
+		<French>&#209;&#238;&#234;&#240;&#238;&#226;&#232;&#249;&#224;</French>
 		<German>Hinweise zu Sch&#228;tzen</German>
 		<Italian>Treasures</Italian>
 		<Spanish>Treasures</Spanish>
@@ -712,7 +712,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_AFRICA</Tag>
 		<English>Africa</English>
-		<French>Africa</French>
+		<French>&#192;&#244;&#240;&#232;&#234;&#224;</French>
 		<German>Afrika</German>
 		<Italian>Africa</Italian>
 		<Spanish>Africa</Spanish>
@@ -720,7 +720,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_PORT_ROYAL</Tag>
 		<English>Port Royal</English>
-		<French>Port Royal</French>
+		<French>&#207;&#238;&#240;&#242;-&#208;&#238;&#233;&#224;&#235;</French>
 		<German>Port Royal</German>
 		<Italian>Port Royal</Italian>
 		<Spanish>Port Royal</Spanish>
@@ -728,7 +728,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_HEALTH</Tag>
 		<English>Health and Medical Care</English>
-		<French>Health and Medical Care</French>
+		<French>&#199;&#228;&#238;&#240;&#238;&#226;&#252;&#229; &#232; &#204;&#229;&#228;&#232;&#246;&#232;&#237;&#241;&#234;&#238;&#229; &#206;&#225;&#241;&#235;&#243;&#230;&#232;&#226;&#224;&#237;&#232;&#229;</French>
 		<German>Gesundheit und medizinische Versorgung</German>
 		<Italian>Health and Medical Care</Italian>
 		<Spanish>Health and Medical Care</Spanish>
@@ -736,7 +736,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MONASTERIES</Tag>
 		<English>Monasteries</English>
-		<French>Monasteries</French>
+		<French>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#232;</French>
 		<German>Kl&#246;ster</German>
 		<Italian>Monasteries</Italian>
 		<Spanish>Monasteries</Spanish>
@@ -744,7 +744,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RIVAL_COLONIES</Tag>
 		<English>Rival Colonies</English>
-		<French>Rival Colonies</French>
+		<French>&#209;&#238;&#239;&#229;&#240;&#237;&#232;&#234;&#232;-&#202;&#238;&#235;&#238;&#237;&#232;&#232;</French>
 		<German>Rivalisierende Kolonialm&#246;chte</German>
 		<Italian>Rival Colonies</Italian>
 		<Spanish>Rival Colonies</Spanish>
@@ -752,7 +752,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SLAVES</Tag>
 		<English>Servants, Criminals and Slaves</English>
-		<French>Servants, Criminals and Slaves</French>
+		<French>&#209;&#235;&#243;&#227;&#232;, &#207;&#240;&#229;&#241;&#242;&#243;&#239;&#237;&#232;&#234;&#232; &#232; &#208;&#224;&#225;&#251;</French>
 		<German>Schuldknechte, Kriminelle und Sklaven</German>
 		<Italian>Servants, Criminals and Slaves</Italian>
 		<Spanish>Servants, Criminals and Slaves</Spanish>
@@ -760,7 +760,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CHURCH</Tag>
 		<English>The Church</English>
-		<French>The Church</French>
+		<French>&#214;&#229;&#240;&#234;&#238;&#226;&#252;</French>
 		<German>Die Kirche</German>
 		<Italian>The Church</Italian>
 		<Spanish>The Church</Spanish>
@@ -768,7 +768,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TAX_RATE</Tag>
 		<English>Tax Rate</English>
-		<French>Tax Rate</French>
+		<French>&#205;&#224;&#235;&#238;&#227;</French>
 		<German>Steuerrate</German>
 		<Italian>Tax Rate</Italian>
 		<Spanish>Tax Rate</Spanish>
@@ -776,7 +776,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SHIPS</Tag>
 		<English>Ships</English>
-		<French>Ships</French>
+		<French>&#202;&#238;&#240;&#224;&#225;&#235;&#232;</French>
 		<German>Schiffe</German>
 		<Italian>Ships</Italian>
 		<Spanish>Ships</Spanish>
@@ -784,7 +784,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_INDEPENDENCE_WAR</Tag>
 		<English>War Of Independence</English>
-		<French>War Of Independence</French>
+		<French>&#194;&#238;&#233;&#237;&#224; &#199;&#224; &#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;</French>
 		<German>Unabh&#228;ngigkeitskrieg</German>
 		<Italian>War Of Independence</Italian>
 		<Spanish>War Of Independence</Spanish>
@@ -792,7 +792,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_ANIMALS</Tag>
 		<English>Wild Animals</English>
-		<French>Wild Animals</French>
+		<French>&#196;&#232;&#234;&#232;&#229; &#198;&#232;&#226;&#238;&#242;&#237;&#251;&#229;</French>
 		<German>Wilde Tiere</German>
 		<Italian>Wild Animals</Italian>
 		<Spanish>Wild Animals</Spanish>
@@ -800,7 +800,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MILITARY_UNITS</Tag>
 		<English>Military Units</English>
-		<French>Military Units</French>
+		<French>&#194;&#238;&#229;&#237;&#237;&#251;&#229; &#207;&#238;&#228;&#240;&#224;&#231;&#228;&#229;&#235;&#229;&#237;&#232;&#255;</French>
 		<German>Milit&#228;reinheiten</German>
 		<Italian>Military Units</Italian>
 		<Spanish>Military Units</Spanish>
@@ -808,7 +808,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_FORTS</Tag>
 		<English>Forts</English>
-		<French>Forts</French>
+		<French>&#202;&#240;&#229;&#239;&#238;&#241;&#242;&#232;</French>
 		<German>Forts</German>
 		<Italian>Forts</Italian>
 		<Spanish>Forts</Spanish>
@@ -816,7 +816,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RIVERS</Tag>
 		<English>Rivers</English>
-		<French>Rivers</French>
+		<French>&#208;&#229;&#234;&#232;</French>
 		<German>Fl&#252;sse</German>
 		<Italian>Rivers</Italian>
 		<Spanish>Rivers</Spanish>
