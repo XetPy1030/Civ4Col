@@ -2096,7 +2096,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_MORE_VARIABLES_HIDDEN</Tag>
 		<English>No variables hidden</English>
-		<French>No variables hidden</French>
+		<French>&#205;&#232;&#234;&#224;&#234;&#232;&#245; &#241;&#234;&#240;&#251;&#242;&#251;&#245; &#239;&#229;&#240;&#229;&#236;&#229;&#237;&#237;&#251;&#245;</French>
 		<German>Keine versteckten Variablen mehr</German>
 		<Italian>No more variables hidden</Italian>
 		<Spanish>No more variables hidden</Spanish>
@@ -2104,7 +2104,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>GAMEOPTION_NO_MORE_VARIABLES_HIDDEN_HELP</Tag>
 		<English>The game displays extra infos on attitudes, taxes, Natives etc...</English>
-		<French>The game displays extra infos on attitudes, taxes, Natives etc...</French>
+		<French>&#194; &#232;&#227;&#240;&#229; &#238;&#242;&#238;&#225;&#240;&#224;&#230;&#224;&#229;&#242;&#241;&#255; &#228;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#224;&#255; &#232;&#237;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#255; &#238;&#225; &#238;&#242;&#237;&#238;&#248;&#229;&#237;&#232;&#232;, &#237;&#224;&#235;&#238;&#227;&#224;&#245;, &#242;&#243;&#231;&#229;&#236;&#246;&#224;&#245; &#232; &#242;.&#228;...</French>
 		<German>Im spiel werden zus&#228;tzliche Informationen angzeigt. Zur Attitude, zu den Steuern, zu den Ureinwohnern ...</German>
 		<Italian>The game displays extra infos on attitudes, taxes, Natives etc...</Italian>
 		<Spanish>The game displays extra infos on attitudes, taxes, Natives etc...</Spanish>
@@ -2952,7 +2952,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_NO_WILD_LAND_ANIMALS</Tag>
 		<English>No Wild Land Animals</English>
-		<French>No Wild Land Animals</French>
+		<French>&#193;&#229;&#231; &#196;&#232;&#234;&#232;&#245; &#205;&#224;&#231;&#229;&#236;&#237;&#251;&#245; &#198;&#232;&#226;&#238;&#242;&#237;&#251;&#245;</French>
 		<German>Keine Wilden Tiere an Land</German>
 		<Italian>No Wild Land Animals</Italian>
 		<Spanish>No Wild Land Animals</Spanish>
@@ -2960,7 +2960,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_NO_WILD_LAND_ANIMALS_HELP</Tag>
 		<English>Wild Land Animals will not be spawned</English>
-		<French>Wild Land Animals will not be spawned</French>
+		<French>&#196;&#232;&#234;&#232;&#229; &#237;&#224;&#231;&#229;&#236;&#237;&#251;&#229; &#230;&#232;&#226;&#238;&#242;&#237;&#251;&#229; &#237;&#229; &#225;&#243;&#228;&#243;&#242; &#239;&#238;&#255;&#226;&#235;&#255;&#242;&#252;&#241;&#255;</French>
 		<German>Es werden keine Wilden Tiere an Land erzeugt</German>
 		<Italian>Wild Land Animals will not be spawned</Italian>
 		<Spanish>Wild Land Animals will not be spawned</Spanish>
@@ -2968,7 +2968,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_NO_WILD_SEA_ANIMALS</Tag>
 		<English>No Wild Sea Animals</English>
-		<French>No Wild Sea Animals</French>
+		<French>&#193;&#229;&#231; &#196;&#232;&#234;&#232;&#245; &#204;&#238;&#240;&#241;&#234;&#232;&#245; &#198;&#232;&#226;&#238;&#242;&#237;&#251;&#245;</French>
 		<German>Keine Wilden Tiere im Wasser</German>
 		<Italian>No Wild Sea Animals</Italian>
 		<Spanish>No Wild Sea Animals</Spanish>
@@ -2976,7 +2976,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_NO_WILD_SEA_ANIMALS_HELP</Tag>
 		<English>Wild Sea Animals will not be spawned</English>
-		<French>Wild Sea Animals will not be spawned</French>
+		<French>&#196;&#232;&#234;&#232;&#229; &#236;&#238;&#240;&#241;&#234;&#232;&#229; &#230;&#232;&#226;&#238;&#242;&#237;&#251;&#229; &#237;&#229; &#225;&#243;&#228;&#243;&#242; &#239;&#238;&#255;&#226;&#235;&#255;&#242;&#252;&#241;&#255;</French>
 		<German>Es werden keine Wilden Tiere im Wasser erzeugt</German>
 		<Italian>Wild Sea Animals will not be spawned</Italian>
 		<Spanish>Wild Sea Animals will not be spawned</Spanish>

@@ -5557,7 +5557,7 @@
 			<Plural>0</Plural>
 		</English>
 		<French>
-			<Text>William Penn</Text>
+			<Text>&#211;&#232;&#235;&#252;&#255;&#236; &#207;&#229;&#237;&#237;</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -5613,7 +5613,7 @@
 			<Plural>0</Plural>
 		</English>
 		<French>
-			<Text>Hernan Cortes</Text>
+			<Text>&#221;&#240;&#237;&#224;&#237; &#202;&#238;&#240;&#242;&#229;&#241;</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -5746,29 +5746,29 @@
 		</Spanish>
 	</TEXT>
 <TEXT>
-  <Tag>TXT_KEY_LEADER_DE_SA</Tag>
-  <English>Mem de S&#225;</English>
-		<French>Mem de S&#225;</French>
-  <German>Mem de S&#225;</German>
-  <Italian>Mem de S&#225;</Italian>
-  <Spanish>Mem de S&#225;</Spanish>
- </TEXT>
- <TEXT>
-  <Tag>TXT_KEY_LEADER_PORTUGUESE_KING</Tag>
-  <English>King of Portugal</English>
-		<French>King of Portugal</French>
-  <German>K&#246;nig von Portugal</German>
-  <Italian>Re di Portogallo</Italian>
-  <Spanish>King of Portugal</Spanish>
- </TEXT>
- <TEXT>
-  <Tag>TXT_KEY_LEADER_SOUSA</Tag>
-  <English>Martim Afonso de Sousa</English>
-		<French>Martim Afonso de Sousa</French>
-  <German>Martim Afonso de Sousa</German>
-  <Italian>MMartim Afonso de Sousa</Italian>
-  <Spanish>Martim Afonso de Sousa</Spanish>
- </TEXT>
+    <Tag>TXT_KEY_LEADER_DE_SA</Tag>
+    <English>Mem de S&#225;</English>
+    <French>&#204;&#229;&#236; &#228;&#229; &#209;&#225;</French>
+    <German>Mem de S&#225;</German>
+    <Italian>Mem de S&#225;</Italian>
+    <Spanish>Mem de S&#225;</Spanish>
+</TEXT>
+<TEXT>
+    <Tag>TXT_KEY_LEADER_PORTUGUESE_KING</Tag>
+    <English>King of Portugal</English>
+    <French>&#202;&#238;&#240;&#238;&#235;&#252; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#232;</French>
+    <German>K&#246;nig von Portugal</German>
+    <Italian>Re di Portogallo</Italian>
+    <Spanish>King of Portugal</Spanish>
+</TEXT>
+<TEXT>
+    <Tag>TXT_KEY_LEADER_SOUSA</Tag>
+    <English>Martim Afonso de Sousa</English>
+    <French>&#204;&#224;&#240;&#242;&#232;&#236; &#192;&#244;&#238;&#237;&#241;&#243; &#228;&#229; &#209;&#238;&#243;&#231;&#224;</French>
+    <German>Martim Afonso de Sousa</German>
+    <Italian>MMartim Afonso de Sousa</Italian>
+    <Spanish>Martim Afonso de Sousa</Spanish>
+</TEXT>
  <TEXT>
   <Tag>TXT_KEY_LEADER_PACAL</Tag>
   <English>Tecun Uman</English>

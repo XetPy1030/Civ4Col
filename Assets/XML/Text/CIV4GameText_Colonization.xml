@@ -3584,7 +3584,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_CULTURE_LEVEL_MODIFIER</Tag>
 		<English>[ICON_BULLET]%D1%% %F2_symbol needed for Territorial Expansion</English>
-		<French>[ICON_BULLET]%D1%% %F2_symbol needed for Territorial Expansion</French>
+		<French>[ICON_BULLET]%D1%% %F2_symbol &#237;&#229;&#238;&#225;&#245;&#238;&#228;&#232;&#236;&#238; &#228;&#235;&#255; &#210;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#224;&#235;&#252;&#237;&#238;&#233; &#221;&#234;&#241;&#239;&#224;&#237;&#241;&#232;&#232;</French>
 		<German>[ICON_BULLET]%D1%% %F2_symbol erforderlich f&#252;r territoriale Expansion</German>
 		<Italian>[ICON_BULLET]%D1%% %F2_symbol needed for Territorial Expansion</Italian>
 		<Spanish>[ICON_BULLET]%D1%% %F2_symbol needed for Territorial Expansion</Spanish>
@@ -3616,7 +3616,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SPECIALIST_PRICE_MODIFIER</Tag>
 		<English>[ICON_BULLET]%D1%% Cost of training Colonists in Schools</English>
-		<French>[ICON_BULLET]%D1%% Cost of training Colonists in Schools</French>
+		<French>[ICON_BULLET]%D1%% &#208;&#224;&#241;&#245;&#238;&#228;&#251; &#237;&#224; &#238;&#225;&#243;&#247;&#229;&#237;&#232;&#229; &#202;&#238;&#235;&#238;&#237;&#232;&#241;&#242;&#238;&#226; &#226; &#216;&#234;&#238;&#235;&#224;&#245;</French>
 		<German>[ICON_BULLET]%D1%% Ausbildungskosten von Kolonisten in Schulen</German>
 		<Italian>[ICON_BULLET]%D1%% Cost of training Colonists in Schools</Italian>
 		<Spanish>[ICON_BULLET]%D1%% Cost of training Colonists in Schools</Spanish>
@@ -3624,7 +3624,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_STORAGE_CAPACITY_MODIFIER</Tag>
 		<English>[ICON_BULLET]%D1%% Storage Capacity in all settlements</English>
-		<French>[ICON_BULLET]%D1%% Storage Capacity in all settlements</French>
+		<French>[ICON_BULLET]%D1%% &#209;&#234;&#235;&#224;&#228;&#241;&#234;&#238;&#233; &#204;&#238;&#249;&#237;&#238;&#241;&#242;&#232; &#226;&#238; &#226;&#241;&#229;&#245; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#237;&#251;&#245; &#239;&#243;&#237;&#234;&#242;&#224;&#245;</French>
 		<German>[ICON_BULLET]%D1%% Lagerkapazit&#228;t in allen Siedlungen</German>
 		<Italian>[ICON_BULLET]%D1%% Storage Capacity in all settlements</Italian>
 		<Spanish>[ICON_BULLET]%D1%% Storage Capacity in all settlements</Spanish>
