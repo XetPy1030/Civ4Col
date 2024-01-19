@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text - New -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_PROFESSIONS</Tag>
@@ -168,7 +163,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_REBEL_SENTIMENT</Tag>
 		<English>Rebel Sentiment</English>
-		<French>Rebel Sentiment</French>
+		<French>Ïðîòåñòíûå íàñòðîåíèÿ</French>
 		<German>Rebellische Stimmung</German>
 		<Italian>Rebel Sentiment</Italian>
 		<Spanish>Rebel Sentiment</Spanish>
@@ -176,7 +171,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TOTAL_PRODUCTION</Tag>
 		<English>Total Production</English>
-		<French>Total Production</French>
+		<French>Îáùèé îáúåì ïðîèçâîäñòâà</French>
 		<German>Gesamtproduktion</German>
 		<Italian>Total Production</Italian>
 		<Spanish>Total Production</Spanish>
@@ -604,7 +599,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TOOLS</Tag>
 		<English>Tools</English>
-		<French>&#200;&#237;&#241;&#242;&#240;&#243;&#236;&#229;&#237;&#242;&#251;</French>
+		<French>Èíñòðóìåíòû</French>
 		<German>Eisenwaren</German>
 		<Italian>Attrezzi</Italian>
 		<Spanish>Herramientas</Spanish>
@@ -612,7 +607,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_GUNS</Tag>
 		<English>Guns, Cannons and Blades</English>
-		<French>Guns, Cannons and Blades</French>
+		<French>Ìóøêåòû, ïóøêè è êëèíêè</French>
 		<German>Schusswaffen</German>
 		<Italian>Armi</Italian>
 		<Spanish>Armas</Spanish>
@@ -640,7 +635,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_EVENTS</Tag>
 		<English>Events</English>
-		<French>&#209;&#238;&#225;&#251;&#242;&#232;&#255;</French>
+		<French>Ñîáûòèÿ</French>
 		<German>Ereignisse und Taten</German>
 		<Italian>Events</Italian>
 		<Spanish>Events</Spanish>
@@ -648,7 +643,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WHALING</Tag>
 		<English>Whaling and Fishing</English>
-		<French>&#202;&#232;&#242;&#238;&#225;&#238;&#233;&#237;&#255; &#232; &#208;&#251;&#225;&#238;&#235;&#238;&#226;&#241;&#242;&#226;&#238;</French>
+		<French>Êèòîáîéíûé ïðîìûñåë è ðûáîëîâñòâî</French>
 		<German>Walfang und Fischfang</German>
 		<Italian>Whaling</Italian>
 		<Spanish>Whaling</Spanish>
@@ -656,7 +651,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_NEW_STORAGE</Tag>
 		<English>City Storage</English>
-		<French>&#195;&#238;&#240;&#238;&#228;&#241;&#234;&#238;&#229; &#213;&#240;&#224;&#237;&#232;&#235;&#232;&#249;&#229;</French>
+		<French>Ãîðîäñêîå õðàíèëèùå</French>
 		<German>Lagerhauskapazit&#228;t</German>
 		<Italian>City Storage</Italian>
 		<Spanish>City Storage</Spanish>
@@ -672,7 +667,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CATTLE_OR_SHEEP_BREEDING</Tag>
 		<English>Breeding Horses, Cattle and Sheep</English>
-		<French>Breeding Horses, Cattle and Sheep</French>
+		<French>Ðàçâåäåíèå ëîøàäåé, êðóïíîãî ðîãàòîãî ñêîòà è îâåö (â áóäóùåì êîçû, ñâèíüè è äîìàøíÿÿ ïòèöà)</French>
 		<German>Pferde-, Rinder- und Schafszucht</German>
 		<Italian>Breeding Horses, Cattle and Sheep</Italian>
 		<Spanish>Breeding Horses, Cattle and Sheep</Spanish>
@@ -680,7 +675,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_DOMESTIC_MARKETS</Tag>
 		<English>Domestic Economy</English>
-		<French>&#194;&#237;&#243;&#242;&#240;&#229;&#237;&#237;&#255;&#255; &#221;&#234;&#238;&#237;&#238;&#236;&#232;&#234;&#224;</French>
+		<French>Âíóòðåííÿÿ ýêîíîìèêà</French>
 		<German>Heimische M&#228;rkte</German>
 		<Italian>Domestic Economy</Italian>
 		<Spanish>Domestic Economy</Spanish>
@@ -688,7 +683,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_WINDS_AND_STORMS</Tag>
 		<English>Winds and Storms</English>
-		<French>&#194;&#229;&#242;&#240;&#251; &#232; &#216;&#242;&#238;&#240;&#236;&#251;</French>
+		<French>Âåòðû è øòîðìû</French>
 		<German>Wind und St&#252;rme</German>
 		<Italian>Winds and Storms</Italian>
 		<Spanish>Winds and Storms</Spanish>
@@ -696,7 +691,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RELATIONS_TO_KING</Tag>
 		<English>The King</English>
-		<French>&#202;&#238;&#240;&#238;&#235;&#252;</French>
+		<French>Êîðîëü</French>
 		<German>Beziehungen zum K&#246;nig</German>
 		<Italian>The King</Italian>
 		<Spanish>The King</Spanish>
@@ -704,7 +699,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CHANGES_TO_TREASURES</Tag>
 		<English>Treasures</English>
-		<French>&#209;&#238;&#234;&#240;&#238;&#226;&#232;&#249;&#224;</French>
+		<French>Ïðèìå÷àíèÿ î ñîêðîâèùàõ</French>
 		<German>Hinweise zu Sch&#228;tzen</German>
 		<Italian>Treasures</Italian>
 		<Spanish>Treasures</Spanish>
@@ -712,7 +707,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_AFRICA</Tag>
 		<English>Africa</English>
-		<French>&#192;&#244;&#240;&#232;&#234;&#224;</French>
+		<French>Àôðèêà</French>
 		<German>Afrika</German>
 		<Italian>Africa</Italian>
 		<Spanish>Africa</Spanish>
@@ -720,7 +715,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_PORT_ROYAL</Tag>
 		<English>Port Royal</English>
-		<French>&#207;&#238;&#240;&#242;-&#208;&#238;&#233;&#224;&#235;</French>
+		<French>Ïîðò Ðîéàë</French>
 		<German>Port Royal</German>
 		<Italian>Port Royal</Italian>
 		<Spanish>Port Royal</Spanish>
@@ -728,7 +723,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_HEALTH</Tag>
 		<English>Health and Medical Care</English>
-		<French>&#199;&#228;&#238;&#240;&#238;&#226;&#252;&#229; &#232; &#204;&#229;&#228;&#232;&#246;&#232;&#237;&#241;&#234;&#238;&#229; &#206;&#225;&#241;&#235;&#243;&#230;&#232;&#226;&#224;&#237;&#232;&#229;</French>
+		<French>Çäîðîâüå è ìåäèöèíñêîå îáñëóæèâàíèå</French>
 		<German>Gesundheit und medizinische Versorgung</German>
 		<Italian>Health and Medical Care</Italian>
 		<Spanish>Health and Medical Care</Spanish>
@@ -736,7 +731,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MONASTERIES</Tag>
 		<English>Monasteries</English>
-		<French>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#232;</French>
+		<French>Ìîíàñòûðè</French>
 		<German>Kl&#246;ster</German>
 		<Italian>Monasteries</Italian>
 		<Spanish>Monasteries</Spanish>
@@ -744,7 +739,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RIVAL_COLONIES</Tag>
 		<English>Rival Colonies</English>
-		<French>&#209;&#238;&#239;&#229;&#240;&#237;&#232;&#234;&#232;-&#202;&#238;&#235;&#238;&#237;&#232;&#232;</French>
+		<French>Êîíêóðèðóþùèå êîëîíèè</French>
 		<German>Rivalisierende Kolonialm&#246;chte</German>
 		<Italian>Rival Colonies</Italian>
 		<Spanish>Rival Colonies</Spanish>
@@ -752,7 +747,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SLAVES</Tag>
 		<English>Servants, Criminals and Slaves</English>
-		<French>&#209;&#235;&#243;&#227;&#232;, &#207;&#240;&#229;&#241;&#242;&#243;&#239;&#237;&#232;&#234;&#232; &#232; &#208;&#224;&#225;&#251;</French>
+		<French>Ñëóãè, ïðåñòóïíèêè è ðàáû</French>
 		<German>Schuldknechte, Kriminelle und Sklaven</German>
 		<Italian>Servants, Criminals and Slaves</Italian>
 		<Spanish>Servants, Criminals and Slaves</Spanish>
@@ -760,7 +755,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_CHURCH</Tag>
 		<English>The Church</English>
-		<French>&#214;&#229;&#240;&#234;&#238;&#226;&#252;</French>
+		<French>Öåðêîâü</French>
 		<German>Die Kirche</German>
 		<Italian>The Church</Italian>
 		<Spanish>The Church</Spanish>
@@ -768,7 +763,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_TAX_RATE</Tag>
 		<English>Tax Rate</English>
-		<French>&#205;&#224;&#235;&#238;&#227;</French>
+		<French>Íàëîãîâàÿ ñòàâêà</French>
 		<German>Steuerrate</German>
 		<Italian>Tax Rate</Italian>
 		<Spanish>Tax Rate</Spanish>
@@ -776,7 +771,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_SHIPS</Tag>
 		<English>Ships</English>
-		<French>&#202;&#238;&#240;&#224;&#225;&#235;&#232;</French>
+		<French>Êîðàáëè</French>
 		<German>Schiffe</German>
 		<Italian>Ships</Italian>
 		<Spanish>Ships</Spanish>
@@ -784,7 +779,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_INDEPENDENCE_WAR</Tag>
 		<English>War Of Independence</English>
-		<French>&#194;&#238;&#233;&#237;&#224; &#199;&#224; &#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;</French>
+		<French>Âîéíà çà íåçàâèñèìîñòü</French>
 		<German>Unabh&#228;ngigkeitskrieg</German>
 		<Italian>War Of Independence</Italian>
 		<Spanish>War Of Independence</Spanish>
@@ -792,7 +787,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_ANIMALS</Tag>
 		<English>Wild Animals</English>
-		<French>&#196;&#232;&#234;&#232;&#229; &#198;&#232;&#226;&#238;&#242;&#237;&#251;&#229;</French>
+		<French>Äèêèå æèâîòíûå</French>
 		<German>Wilde Tiere</German>
 		<Italian>Wild Animals</Italian>
 		<Spanish>Wild Animals</Spanish>
@@ -800,7 +795,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MILITARY_UNITS</Tag>
 		<English>Military Units</English>
-		<French>&#194;&#238;&#229;&#237;&#237;&#251;&#229; &#207;&#238;&#228;&#240;&#224;&#231;&#228;&#229;&#235;&#229;&#237;&#232;&#255;</French>
+		<French>Âîåííûå îòðÿäû</French>
 		<German>Milit&#228;reinheiten</German>
 		<Italian>Military Units</Italian>
 		<Spanish>Military Units</Spanish>
@@ -808,7 +803,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_FORTS</Tag>
 		<English>Forts</English>
-		<French>&#202;&#240;&#229;&#239;&#238;&#241;&#242;&#232;</French>
+		<French>Ôîðòû</French>
 		<German>Forts</German>
 		<Italian>Forts</Italian>
 		<Spanish>Forts</Spanish>
@@ -816,7 +811,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_RIVERS</Tag>
 		<English>Rivers</English>
-		<French>&#208;&#229;&#234;&#232;</French>
+		<French>Ðåêè</French>
 		<German>Fl&#252;sse</German>
 		<Italian>Rivers</Italian>
 		<Spanish>Rivers</Spanish>
@@ -928,7 +923,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_REBEL_SENTIMENT_PEDIA</Tag>
 		<English>[H1]REBEL SENTIMENT[\H1][NEWLINE][NEWLINE]One way to win a game of Colonization consists of accumulating enough [LINK=YIELD_BELLS]Liberty Bells[\LINK] to declare [COLOR_HIGHLIGHT_TEXT]Independence[COLOR_REVERT] from [LINK=CONCEPT_EUROPE]Europe[\LINK] and then withstand the resulting onslaught of European troops. This concept explains how to earn enough Liberty Bells to begin your [COLOR_HIGHLIGHT_TEXT]Revolution[COLOR_REVERT]. For information on how to win the resulting [LINK=CONCEPT_WAR]War[\LINK], see [LINK=CONCEPT_INDEPENDENCE_WAR]War Of Independence[\LINK].[NEWLINE][NEWLINE][BOLD]Statesmen[\BOLD][PARAGRAPH:1]There are numerous ways for you to earn [COLOR_HIGHLIGHT_TEXT]Liberty Bells[COLOR_REVERT]. The earliest method you can adopt is to assign a [LINK=CONCEPT_UNITS]Colonist[\LINK] in your [LINK=CONCEPT_SETTLEMENTS]Settlement[\LINK] to the [LINK=PROFESSION_STATESMAN]Statesman[\LINK] profession, which will instantly send the colonist to work in the Settlement's [LINK=BUILDING_VILLAGEHALL]Village Hall[\LINK] building, or one of its upgrades. Employing [LINK=UNIT_STATESMAN]Elder Statesmen[\LINK] or even the rare [LINK=UNIT_NOBLE]Famous Noblemen[\LINK] for this job greatly increases the output of Liberty Bells. The Village Hall building chain is also quite long, and it ends with the [LINK=BUILDING_PALACE]Government Palace[\LINK] (except for the [LINK=CONCEPT_BUILDINGS]National Wonder[\LINK] of the [LINK=BUILDING_COLONIAL_CONGRESS]Colonial Congress[\LINK], which can be built in only one Settlement). In the Government Palace, no less than six Statesmen can work simultaneously, so that massive amounts of [COLOR_HIGHLIGHT_TEXT]Liberty Bells[COLOR_REVERT] can be generated.[NEWLINE][BOLD]The Free Press[\BOLD][PARAGRAPH:1]You can also construct [LINK=BUILDING_PRINTING_PRESS]Printing Presses[\LINK] and [LINK=BUILDING_NEWSPAPER]Newspapers[\LINK] in your Settlements. These buildings require no workers and provide the colony with a significant boost of Liberty Bells, +50% and +100% respectively. In one colony, you can also build a [COLOR_HIGHLIGHT_TEXT]National Wonder[COLOR_REVERT] that functions as an upgrade to the Newspaper: the [LINK=BUILDING_PUBLISHING]Colonial Publisher[\LINK]. This building increases the Liberty Bell output by 150%.[NEWLINE][BOLD]Founding Fathers[\BOLD][PARAGRAPH:1]You can also receive Liberty Bells by convincing [LINK=CONCEPT_FATHERS]Founding Fathers[\LINK] from the [COLOR_HIGHLIGHT_TEXT]Political[COLOR_REVERT] category to join your side. Many of them increase Liberty Bell output in all Settlements, or give buildings the ability to generate additional Liberty Bells.[NEWLINE][NEWLINE][BOLD]Liberty Bell Percentage[\BOLD][PARAGRAPH:1]Every one of your settlements has its own individual Liberty Bell Percentage (also referred to as [COLOR_HIGHLIGHT_TEXT]Rebel Sentiment[COLOR_REVERT]). Your Liberty Bell percentage represents how much of your colonial society is prepared to [COLOR_HIGHLIGHT_TEXT]secede[COLOR_REVERT] from their mother country. The higher the percentage, the more citizens who are willing to join the rebel cause.[PARAGRAPH:1]To increase your Liberty Bell percentage, you must generate more Liberty Bells relative to the [COLOR_HIGHLIGHT_TEXT]Number of Citizens[COLOR_REVERT] in your Settlement. Generating two Liberty Bells a turn in a settlement with two citizens is going to yield a much higher Rebel Sentiment than generating two per turn in a settlement with 10 citizens.[NEWLINE][NEWLINE][BOLD]Liberty Bell Benefits[\BOLD][NEWLINE][NEWLINE][BOLD]Defense Bonus[\BOLD][PARAGRAPH:1]Any unit defending a settlement will receive a [COLOR_HIGHLIGHT_TEXT]Defensive Combat Bonus[COLOR_REVERT] equal to the current Liberty Bell percentage of the settlement minus 50. So if your settlement has a [COLOR_HIGHLIGHT_TEXT]75%% Liberty Bell Percentage[COLOR_REVERT], all defending units will receive a [COLOR_HIGHLIGHT_TEXT]25% Defensive Combat Bonus[COLOR_REVERT].[NEWLINE][NEWLINE][BOLD]Production Bonus[\BOLD][PARAGRAPH:1]As your colonists produce Goods, the amount they create is [COLOR_HIGHLIGHT_TEXT]increased[COLOR_REVERT] by half the Liberty Bell percentage of your colony. This means that a Settlement producing four [LINK=YIELD_SILVER]Silver[\LINK] per turn with a 50%% Liberty Bell rate will actually yield five Silver![NEWLINE]Note that this production bonus applies equally to all goods, and doesn't require extra [COLOR_HIGHLIGHT_TEXT]Raw Materials[COLOR_REVERT]. So if you would produce 6 [LINK=YIELD_COFFEE]Coffee[\LINK] by having a [LINK=PROFESSION_DRIER]Drier[\LINK] convert 6 [LINK=YIELD_COFFEE_BERRIES]Coffee Berries[\LINK] into Coffee, and the colony has a Rebel Sentiment of 100%, the 3 extra Coffee that is generated does not require extra Coffee Berries to be present. You will produce 9 Coffee, but still consume only 6 Coffee Berries to do so.[NEWLINE][NEWLINE][BOLD]Founding Fathers[\BOLD][PARAGRAPH:1]Liberty Bells generate [COLOR_HIGHLIGHT_TEXT]Political Points[COLOR_REVERT], which are a necessity to attract [COLOR_HIGHLIGHT_TEXT]Founding Fathers[COLOR_REVERT] to your side. While different Founding Father types require different point types to convince them to join your cause, all Fathers require Political Points. See the [LINK=CONCEPT_FATHERS]Founding Fathers[\LINK] section for more information.[NEWLINE][NEWLINE][BOLD]Revolution![\BOLD][PARAGRAPH:1]Once your total Rebel Sentiment over your entire domain exceeds 50%, you can [COLOR_HIGHLIGHT_TEXT]Declare Independence[COLOR_REVERT]. This is the first step towards achieving an [LINK=CONCEPT_VICTORY]Independence Victory[\LINK], but be cautious: you need to win the [LINK=CONCEPT_INDEPENDENCE_WAR]War of Independence[\LINK] first.</English>
-		<French>[H1]REBEL SENTIMENT[\H1][NEWLINE][NEWLINE]One way to win a game of Colonization consists of accumulating enough [LINK=YIELD_BELLS]Liberty Bells[\LINK] to declare [COLOR_HIGHLIGHT_TEXT]Independence[COLOR_REVERT] from [LINK=CONCEPT_EUROPE]Europe[\LINK] and then withstand the resulting onslaught of European troops. This concept explains how to earn enough Liberty Bells to begin your [COLOR_HIGHLIGHT_TEXT]Revolution[COLOR_REVERT]. For information on how to win the resulting [LINK=CONCEPT_WAR]War[\LINK], see [LINK=CONCEPT_INDEPENDENCE_WAR]War Of Independence[\LINK].[NEWLINE][NEWLINE][BOLD]Statesmen[\BOLD][PARAGRAPH:1]There are numerous ways for you to earn [COLOR_HIGHLIGHT_TEXT]Liberty Bells[COLOR_REVERT]. The earliest method you can adopt is to assign a [LINK=CONCEPT_UNITS]Colonist[\LINK] in your [LINK=CONCEPT_SETTLEMENTS]Settlement[\LINK] to the [LINK=PROFESSION_STATESMAN]Statesman[\LINK] profession, which will instantly send the colonist to work in the Settlement's [LINK=BUILDING_VILLAGEHALL]Village Hall[\LINK] building, or one of its upgrades. Employing [LINK=UNIT_STATESMAN]Elder Statesmen[\LINK] or even the rare [LINK=UNIT_NOBLE]Famous Noblemen[\LINK] for this job greatly increases the output of Liberty Bells. The Village Hall building chain is also quite long, and it ends with the [LINK=BUILDING_PALACE]Government Palace[\LINK] (except for the [LINK=CONCEPT_BUILDINGS]National Wonder[\LINK] of the [LINK=BUILDING_COLONIAL_CONGRESS]Colonial Congress[\LINK], which can be built in only one Settlement). In the Government Palace, no less than six Statesmen can work simultaneously, so that massive amounts of [COLOR_HIGHLIGHT_TEXT]Liberty Bells[COLOR_REVERT] can be generated.[NEWLINE][BOLD]The Free Press[\BOLD][PARAGRAPH:1]You can also construct [LINK=BUILDING_PRINTING_PRESS]Printing Presses[\LINK] and [LINK=BUILDING_NEWSPAPER]Newspapers[\LINK] in your Settlements. These buildings require no workers and provide the colony with a significant boost of Liberty Bells, +50% and +100% respectively. In one colony, you can also build a [COLOR_HIGHLIGHT_TEXT]National Wonder[COLOR_REVERT] that functions as an upgrade to the Newspaper: the [LINK=BUILDING_PUBLISHING]Colonial Publisher[\LINK]. This building increases the Liberty Bell output by 150%.[NEWLINE][BOLD]Founding Fathers[\BOLD][PARAGRAPH:1]You can also receive Liberty Bells by convincing [LINK=CONCEPT_FATHERS]Founding Fathers[\LINK] from the [COLOR_HIGHLIGHT_TEXT]Political[COLOR_REVERT] category to join your side. Many of them increase Liberty Bell output in all Settlements, or give buildings the ability to generate additional Liberty Bells.[NEWLINE][NEWLINE][BOLD]Liberty Bell Percentage[\BOLD][PARAGRAPH:1]Every one of your settlements has its own individual Liberty Bell Percentage (also referred to as [COLOR_HIGHLIGHT_TEXT]Rebel Sentiment[COLOR_REVERT]). Your Liberty Bell percentage represents how much of your colonial society is prepared to [COLOR_HIGHLIGHT_TEXT]secede[COLOR_REVERT] from their mother country. The higher the percentage, the more citizens who are willing to join the rebel cause.[PARAGRAPH:1]To increase your Liberty Bell percentage, you must generate more Liberty Bells relative to the [COLOR_HIGHLIGHT_TEXT]Number of Citizens[COLOR_REVERT] in your Settlement. Generating two Liberty Bells a turn in a settlement with two citizens is going to yield a much higher Rebel Sentiment than generating two per turn in a settlement with 10 citizens.[NEWLINE][NEWLINE][BOLD]Liberty Bell Benefits[\BOLD][NEWLINE][NEWLINE][BOLD]Defense Bonus[\BOLD][PARAGRAPH:1]Any unit defending a settlement will receive a [COLOR_HIGHLIGHT_TEXT]Defensive Combat Bonus[COLOR_REVERT] equal to the current Liberty Bell percentage of the settlement minus 50. So if your settlement has a [COLOR_HIGHLIGHT_TEXT]75%% Liberty Bell Percentage[COLOR_REVERT], all defending units will receive a [COLOR_HIGHLIGHT_TEXT]25% Defensive Combat Bonus[COLOR_REVERT].[NEWLINE][NEWLINE][BOLD]Production Bonus[\BOLD][PARAGRAPH:1]As your colonists produce Goods, the amount they create is [COLOR_HIGHLIGHT_TEXT]increased[COLOR_REVERT] by half the Liberty Bell percentage of your colony. This means that a Settlement producing four [LINK=YIELD_SILVER]Silver[\LINK] per turn with a 50%% Liberty Bell rate will actually yield five Silver![NEWLINE]Note that this production bonus applies equally to all goods, and doesn't require extra [COLOR_HIGHLIGHT_TEXT]Raw Materials[COLOR_REVERT]. So if you would produce 6 [LINK=YIELD_COFFEE]Coffee[\LINK] by having a [LINK=PROFESSION_DRIER]Drier[\LINK] convert 6 [LINK=YIELD_COFFEE_BERRIES]Coffee Berries[\LINK] into Coffee, and the colony has a Rebel Sentiment of 100%, the 3 extra Coffee that is generated does not require extra Coffee Berries to be present. You will produce 9 Coffee, but still consume only 6 Coffee Berries to do so.[NEWLINE][NEWLINE][BOLD]Founding Fathers[\BOLD][PARAGRAPH:1]Liberty Bells generate [COLOR_HIGHLIGHT_TEXT]Political Points[COLOR_REVERT], which are a necessity to attract [COLOR_HIGHLIGHT_TEXT]Founding Fathers[COLOR_REVERT] to your side. While different Founding Father types require different point types to convince them to join your cause, all Fathers require Political Points. See the [LINK=CONCEPT_FATHERS]Founding Fathers[\LINK] section for more information.[NEWLINE][NEWLINE][BOLD]Revolution![\BOLD][PARAGRAPH:1]Once your total Rebel Sentiment over your entire domain exceeds 50%, you can [COLOR_HIGHLIGHT_TEXT]Declare Independence[COLOR_REVERT]. This is the first step towards achieving an [LINK=CONCEPT_VICTORY]Independence Victory[\LINK], but be cautious: you need to win the [LINK=CONCEPT_INDEPENDENCE_WAR]War of Independence[\LINK] first.</French>
+		<French>[H1]Ìÿòåæíûå íàñòðîåíèÿ[\H1][PARAGRAPH:2]Îáû÷íûé ñïîñîá ïîáåäèòü â èãðå "We The People" — íàêîïèòü äîñòàòî÷íî [LINK=YIELD_BELLS]êîëîêîëîâ ñâîáîäû[\LINK], ÷òîáû ïðîâîçãëàñèòü [COLOR_HIGHLIGHT_TEXT]íåçàâèñèìîñòü[COLOR_REVERT] îò [LINK=CONCEPT_EUROPE]Åâðîïû[\LINK], à çàòåì ïðîòèâîñòîÿòü íàòèñêó åâðîïåéñêèõ âîéñê. Ýòà êîíöåïöèÿ îáúÿñíÿåò, êàê çàðàáîòàòü äîñòàòî÷íî êîëîêîëîâ ñâîáîäû, ÷òîáû íà÷àòü ñâîþ [COLOR_HIGHLIGHT_TEXT]ðåâîëþöèþ[COLOR_REVERT]. Èíôîðìàöèþ î òîì, êàê ïîáåäèòü â ýòîé [LINK=CONCEPT_WAR]âîéíå[\LINK], ñìîòðèòå ðàçäåë [LINK=CONCEPT_INDEPENDENCE_WAR]Âîéíà çà íåçàâèñèìîñòü[\LINK].[PARAGRAPH:2][BOLD]Ãîñóäàðñòâåííûå äåÿòåëè[\BOLD][PARAGRAPH:1]Åñòü ìíîæåñòâî ñïîñîáîâ çàðàáîòàòü [COLOR_HIGHLIGHT_TEXT]êîëîêîëà ñâîáîäû[COLOR_REVERT]. Ñàìûé ðàííèé ìåòîä, êîòîðûé âû ìîæåòå èñïîëüçîâàòü, ýòî äàòü [LINK=PROFESSION_COLONIST]êîëîíèñòó[\LINK] â âàøåì [LINK=CONCEPT_SETTLEMENTS]ïîñåëåíèè[\LINK] ïðîôåññèþ [LINK=PROFESSION_STATESMAN]ãîñóäàðñòâåííîãî äåÿòåëÿ[\LINK], êîòîðàÿ ìãíîâåííî îòïðàâëÿåò ýòîãî êîëîíèñòà â çäàíèå [LINK=BUILDING_VILLAGEHALL]àäìèíèñòðàöèè ïîñåëåíèÿ[\LINK] èëè â îäíî èç åãî óëó÷øåíèé. Íàåì [LINK=UNIT_STATESMAN]ìàñòèòûõ ïîëèòèêîâ[\LINK] èëè äàæå [LINK=UNIT_NOBLE]ïîòîìñòâåííûõ äâîðÿí[\LINK] äëÿ ýòîé ðàáîòû çíà÷èòåëüíî óâåëè÷èâàåò ïðîèçâîäñòâî êîëîêîëîâ ñâîáîäû. Íå âñå îòðÿäû îäèíàêîâî ýôôåêòèâíû â ýòîé ïðîôåññèè: ìàñòèòûå ïîëèòèêè ïðîèçâîäÿò â äâà ðàçà áîëüøå êîëîêîëîâ, ÷åì ñâîáîäíûå êîëîíèñòû; íàåìíûå ñëóãè è íîâîîáðàùåííûå òóçåìöû çàðàáàòûâàþò íà îäèí êîëîêîë ñâîáîäû ìåíüøå, à ìåëêèå ïðåñòóïíèêè — íà äâà ìåíüøå.[PARAGRAPH:1]Êàòåãîðèÿ çäàíèÿ ðàòóøè äîâîëüíî äëèííàÿ, çàêàí÷èâàåòñÿ [LINK=BUILDING_PALACE]ïðàâèòåëüñòâåííûì äâîðöîì[\LINK] (çà èñêëþ÷åíèåì [COLOR_CYAN]íàöèîíàëüíîãî ÷óäà[COLOR_REVERT] [LINK=BUILDING_COLONIAL_CONGRESS]Êîëîíèàëüíîãî Êîíãðåññà[\LINK], êîòîðûé ìîæíî [LINK=CONCEPT_BUILDINGS]ïîñòðîèòü[\LINK] òîëüêî â îäíîì ïîñåëåíèè). Â ïðàâèòåëüñòâåííîì äâîðöå îäíîâðåìåííî ìîãóò ðàáîòàòü íå ìåíåå øåñòè ãîñóäàðñòâåííûõ äåÿòåëåé, à ýòî îçíà÷àåò, ÷òî ãåíåðèðóåòñÿ îãðîìíîå êîëè÷åñòâî [COLOR_HIGHLIGHT_TEXT]êîëîêîëîâ ñâîáîäû[COLOR_REVERT].[PARAGRAPH:1]Íà ýêðàíå [COLOR_SELECTED_TEXT]Ðåâîëþöèîííîãî ñîâåòíèêà[COLOR_REVERT] ([COLOR:140:255:40:255]&lt; F3 &gt;[COLOR_REVERT]) ãîðèçîíòàëüíàÿ ïîëîñà ââåðõó ïîêàçûâàåò, íàñêîëüêî âûñîêè ïîâñòàí÷åñêèå íàñòðîåíèÿ âî âñåé âàøåé êîëîíèàëüíîé èìïåðèè. Ýòî íå ñðåäíèé ïîêàçàòåëü ìÿòåæíûõ íàñòðîåíèé, ýòî ìÿòåæíûå íàñòðîåíèÿ ñðåäè âñåõ âàøèõ ãðàæäàí; íå òîëüêî ìíîãî÷èñëåííûõ ãîðîæàí, ðàáîòàþùèõ â ãîðîäàõ, íî è òåõ, êòî íàõîäèòñÿ â äâèæåíèè â êà÷åñòâå ðàçâåä÷èêîâ, ïåðâîïðîõîäöåâ, ìèññèîíåðîâ, êîëîíèñòîâ èëè ñîëäàò. Ó÷èòûâàþòñÿ âñå þíèòû, íåçàâèñèìî îò òîãî, ãäå îíè íàõîäÿòñÿ. Äàæå òå, êîòîðûå âñ¸ åùå íàõîäÿòñÿ â Åâðîïå, íà êîðàáëÿõ â ìîðå èëè ïðîõîäÿò îáó÷åíèå â äåðåâíÿõ èíäåéöåâ. Åäèíñòâåííûìè èñêëþ÷åíèÿìè ÿâëÿþòñÿ âåëèêèå ïîëêîâîäöû è íåîäóøåâëåííûå þíèòû (êîíâîè, êîðàáëè, àðòèëëåðèÿ, ñîêðîâèùà).[PARAGRAPH:2][BOLD]Ïîëèòè÷åñêèå òåíäåíöèè[\BOLD][PARAGRAPH:1]Ïîñëå êàæäîãî ðàóíäà íàñòðîåíèÿ ïîâñòàíöåâ ïåðåñ÷èòûâàþòñÿ — êàê âî âñåé êîëîíèàëüíîé èìïåðèè, òàê è â îòäåëüíûõ ãîðîäàõ. Íàñòðîåíèå ìîæåò êàê óïàñòü, òàê è ïîäíÿòüñÿ. Ýìïèðè÷åñêîå ïðàâèëî çàêëþ÷àåòñÿ â òîì, ÷òî ÷åì áîëåå ìÿòåæíûì ÿâëÿåòñÿ ãîðîä â ïðîöåíòíîì îòíîøåíèè, òåì áîëüøå êîëîêîëîâ ñâîáîäû îí äîëæåí ïðîèçâîäèòü, ÷òîáû ïîääåðæèâàòü èëè óâåëè÷èâàòü ýòó öåííîñòü. Ïîýòîìó, åñëè áóíòàðñêèå íàñòðîåíèÿ â ïîñåëåíèè óæå äîñòàòî÷íî âûñîêè è âäðóã òàì íå ïðîèçâîäèòñÿ èëè ïðîèçâîäèòñÿ òîëüêî íåñêîëüêî êîëîêîëîâ ñâîáîäû, áóíòàðñêèå íàñòðîåíèÿ ðåçêî óïàäóò â ñëåäóþùåì ðàóíäå. Êîíå÷íî, ýòî ïðèìåíèìî òîëüêî òîãäà, êîãäà íàñåëåíèå ãîðîäà îñòàåòñÿ ïîñòîÿííûì. Åñëè êîëè÷åñòâî ãîðîæàí, ðàáîòàþùèõ íà [COLOR_SELECTED_TEXT]ýêðàíå ïîñåëåíèÿ[COLOR_REVERT], óìåíüøàåòñÿ, óðîâåíü ïîâñòàí÷åñêèõ íàñòðîåíèé â ýòîì ïîñåëåíèè ñðàçó æå óâåëè÷èâàåòñÿ. Åñëè êîëè÷åñòâî ãîðîæàí óâåëè÷èâàåòñÿ, ïîâñòàí÷åñêèå íàñòðîåíèÿ ñðàçó ïàäàþò.[PARAGRAPH:1]Ìÿòåæíûå íàñòðîåíèÿ â ëþáîì ãîðîäå ìîãóò âûðàñòè áîëåå ÷åì íà 100%. Îäíàêî êîãäà ýòî ïðîèñõîäèò, ýòî íå îòîáðàæàåòñÿ íè íà [COLOR_SELECTED_TEXT]ýêðàíå ïîñåëåíèÿ[COLOR_REVERT], íè íà èíôîðìàöèîííîé ïàíåëè ïîñåëåíèÿ íà êàðòå — âû âñ¸ ðàâíî áóäåòå âèäåòü òîëüêî 100%. Äëÿ ýòîãî ãîðîäà èíôîðìàöèÿ äîñòîâåðíî íåâåðíà, òàê êàê ôàéëû ïðîãðàììû ðàáîòàþò ñ áîëåå âûñîêèìè çíà÷åíèÿìè, íî îáùèé ïðîöåíò êîëîíèè âñå ðàâíî áóäåò òî÷íûì.[PARAGRAPH:2][BOLD]Ñâîáîäíàÿ ïðåññà[\BOLD][PARAGRAPH:1]Âû òàêæå ìîæåòå ñòðîèòü [LINK=BUILDING_PRINTING_PRESS]ïå÷àòíûé ïðåññ[\LINK] è [LINK=BUILDING_NEWSPAPER]ãîðîäñêóþ ãàçåòó[\LINK] â ñâîèõ ïîñåëåíèÿõ. Ýòè ïîñòðîéêè íå òðåáóþò ðàáî÷èõ è äàþò êîëîíèè çíà÷èòåëüíûé ïðèðîñò êîëîêîëîâ ñâîáîäû, +50% è +100% ñîîòâåòñòâåííî. Â îäíîé èç êîëîíèé âû òàêæå ìîæåòå ïîñòðîèòü [COLOR_CYAN]íàöèîíàëüíîå ÷óäî[COLOR_REVERT], êîòîðîå ÿâëÿåòñÿ óëó÷øåíèåì ãîðîäñêîé ãàçåòû: [LINK=BUILDING_PUBLISHING]Êîëîíèàëüíîå èçäàòåëüñòâî[\LINK]. Ýòî çäàíèå óâåëè÷èâàåò ïðîèçâîäñòâî êîëîêîëà ñâîáîäû íà 150%.[PARAGRAPH:2][BOLD]Îòöû îñíîâàòåëè[\BOLD][PARAGRAPH:1]Âû òàêæå ìîæåòå ïîëó÷èòü êîëîêîëà ñâîáîäû, óáåäèâ [LINK=CONCEPT_FATHERS]îòöîâ îñíîâàòåëåé[\LINK] èç êàòåãîðèè [COLOR_HIGHLIGHT_TEXT]Ïîëèòèêà[COLOR_REVERT] ïðèñîåäèíèòüñÿ ê âàì. Ìíîãèå èç íèõ óâåëè÷èâàþò ïðîèçâîäñòâî êîëîêîëîâ ñâîáîäû âî âñåõ ïîñåëåíèÿõ èëè äàþò çäàíèÿì âîçìîæíîñòü ãåíåðèðîâàòü áîëüøå êîëîêîëîâ ñâîáîäû.[PARAGRAPH:2][BOLD]Ïðîöåíò Êîëîêîëîâ Ñâîáîäû[\BOLD][PARAGRAPH:1]Êàæäîå èç âàøèõ ïîñåëåíèé èìååò ñâîé èíäèâèäóàëüíûé ïðîöåíò êîëîêîëîâ ñâîáîäû (òàêæå íàçûâàåìûé [COLOR_HIGHLIGHT_TEXT]ìÿòåæíûìè íàñòðîåíèÿìè[COLOR_REVERT]). Ïðîöåíò âàøèõ êîëîêîëîâ ñâîáîäû ïîêàçûâàåò, ñêîëüêî ÷ëåíîâ âàøåãî êîëîíèàëüíîãî îáùåñòâà ãîòîâû [COLOR_HIGHLIGHT_TEXT]îòäåëèòüñÿ[COLOR_REVERT] îò ñâîåé ðîäèíû. ×åì âûøå ïðîöåíò, òåì áîëüøå ãðàæäàí ãîòîâû ïðèñîåäèíèòüñÿ ê äåëó ìÿòåæíèêîâ.[PARAGRAPH:1]×òîáû óâåëè÷èòü ïðîöåíò êîëîêîëîâ ñâîáîäû, âû äîëæíû ãåíåðèðîâàòü áîëüøå êîëîêîëîâ ñâîáîäû ïî îòíîøåíèþ ê [COLOR_HIGHLIGHT_TEXT]êîëè÷åñòâó æèòåëåé[COLOR_REVERT] â âàøåì ïîñåëåíèè. Ãåíåðàöèÿ äâóõ êîëîêîëîâ ñâîáîäû çà õîä â ïîñåëåíèè ñ äâóìÿ æèòåëÿìè âûçîâåò ãîðàçäî áîëåå ñèëüíûé áóíòàðñêèé äóõ, ÷åì ñîçäàíèå äâóõ çà õîä â ïîñåëåíèè ñ äåñÿòüþ æèòåëÿìè.[PARAGRAPH:2][BOLD]Ïðåèìóùåñòâà Êîëîêîëîâ Ñâîáîäû[\BOLD][PARAGRAPH:2][BOLD]Áîíóñ çàùèòû[\BOLD][PARAGRAPH:1]Ëþáîé þíèò, çàùèùàþùèé ïîñåëåíèå, ïîëó÷èò [COLOR_HIGHLIGHT_TEXT]çàùèòíûé áîåâîé áîíóñ[COLOR_REVERT], ðàâíûé òåêóùåìó ïðîöåíòó êîëîêîëà ñâîáîäû ïîñåëåíèÿ ìèíóñ 50. Òàêèì îáðàçîì, åñëè â âàøåì ïîñåëåíèè [COLOR_HIGHLIGHT_TEXT]ïðîöåíò êîëîêîëîâ ñâîáîäû ñîñòàâëÿåò 75%[COLOR_REVERT], âñå îáîðîíÿþùèåñÿ þíèòû ïîëó÷àò [COLOR_HIGHLIGHT_TEXT]áîåâîé áîíóñ çà îáîðîíó â ðàçìåðå 25%[COLOR_REVERT].[PARAGRAPH:2][BOLD]Áîíóñ ïðîèçâîäñòâà[\BOLD][PARAGRAPH:1]Êîãäà âàøè êîëîíèñòû ïðîèçâîäÿò òîâàðû, èõ êîëè÷åñòâî [COLOR_HIGHLIGHT_TEXT]óâåëè÷èâàåòñÿ[COLOR_REVERT] íà ïîëîâèíó ïðîöåíòà êîëîêîëà ñâîáîäû âàøåé êîëîíèè. Ýòî îçíà÷àåò, ÷òî ïîñåëåíèå, ïðîèçâîäÿùåå ÷åòûðå [LINK=YIELD_SILVER]ñåðåáðà[\LINK] çà õîä ïðè ñòàâêå êîëîêîëà ñâîáîäû 50%, íà ñàìîì äåëå ïðèíåñåò ïÿòü ñåðåáðà![PARAGRAPH:1]Îáðàòèòå âíèìàíèå, ÷òî ýòîò ïðîèçâîäñòâåííûé áîíóñ ïðèìåíÿåòñÿ êî âñåì òîâàðàì â ðàâíîé ñòåïåíè è íå òðåáóåò äîïîëíèòåëüíîãî [COLOR_HIGHLIGHT_TEXT]ñûðüÿ[COLOR_REVERT]. Íàïðèìåð, êîãäà âû ïðîèçâîäèòå 6 [LINK=YIELD_COFFEE]êîôå[\LINK], çàñòàâëÿÿ [LINK=PROFESSION_COFFEE_ROASTER]îáæàðùèêà êîôå[\LINK] ïðåâðàùàòü 6 [LINK=YIELD_COFFEE_BERRIES]êîôåéíûõ ÿãîä[\LINK] â êîôå, â òî âðåìÿ êàê ìÿòåæíîå íàñòðîåíèå êîëîíèè ñîñòàâëÿåò 100%, âû óâèäèòå íà ñâîåì ñêëàäå 3 äîïîëíèòåëüíûõ êîôå, êîòîðûå íå áóäóò ïîòðåáëÿòü íèêàêèõ äîïîëíèòåëüíûõ êîôåéíûõ ÿãîä. Âû ïðîèçâåäåòå 9 êîôå, íî ïîòðàòèòå äëÿ ýòîãî òîëüêî 6 êîôåéíûõ ÿãîä.[PARAGRAPH:2][BOLD]Îòöû îñíîâàòåëè[\BOLD][PARAGRAPH:1]Êîëîêîëà ñâîáîäû ïðèíîñÿò [COLOR_HIGHLIGHT_TEXT]ïîëèòè÷åñêèå î÷êè[COLOR_REVERT], íåîáõîäèìûå äëÿ ïðèâëå÷åíèÿ [COLOR_HIGHLIGHT_TEXT]îòöîâ îñíîâàòåëåé[COLOR_REVERT] íà âàøó ñòîðîíó. Â òî âðåìÿ êàê ðàçíûå òèïû Îòöîâ îñíîâàòåëåé îæèäàþò ðàçíûõ òèïîâ î÷êîâ, ÷òîáû óáåäèòü èõ ïðèñîåäèíèòüñÿ ê âàøåìó äåëó, âñåì èì òðåáóþòñÿ ïîëèòè÷åñêèå î÷êè. Äîïîëíèòåëüíóþ èíôîðìàöèþ ñìîòðèòå â ðàçäåëå [LINK=CONCEPT_FATHERS]Îòöû îñíîâàòåëè[\LINK].[PARAGRAPH:2][BOLD]Ðåâîëþöèÿ![\BOLD][PARAGRAPH:1]Êàê òîëüêî îáùåå êîëè÷åñòâî ìÿòåæíûõ íàñòðîåíèé íà âñåé âàøåé òåðèòîðèè ïðåâûñèò 50%, âû ìîæåòå [COLOR_HIGHLIGHT_TEXT]îáúÿâèòü íåçàâèñèìîñòü[COLOR_REVERT]. Ýòî ïåðâûé øàã ê [LINK=CONCEPT_VICTORY]ïîáåäå[\LINK] çà íåçàâèñèìîñòü, íî íå çàçíàâàéòåñü! Âàì âñå åùå íóæíî âûèãðàòü [LINK=CONCEPT_INDEPENDENCE_WAR]âîéíó çà íåçàâèñèìîñòü[\LINK] è âàø êîðîëü íå ñîáèðàåòñÿ îáëåã÷àòü âàì ýòó çàäà÷ó!</French>
 		<German>[H1]Rebellische Stimmung[\H1][NEWLINE][NEWLINE]Bei Standard-[LINK=CONCEPT_VICTORY]Siegbedingungen[\LINK] ist es die Aufgabe des Spielers, die so genannte Rebellische Stimmung seiner B&#252;rger zu steigern, bis eine Mehrheit von ihnen davon &#252;berzeugt ist, dass sich die Kolonien vom Mutterland lossagen sollen. Dann erkl&#228;rt der Spieler als Oberhaupt des Kolonialreiches dessen Unabh&#228;ngigkeit und versucht, sie milit&#228;risch gegen den K&#246;nig und seine Expeditionsstreitmacht durchzusetzen.[PARAGRAPH:2]Durch die Produktion von [LINK=YIELD_BELLS]Freiheitsglocken[\LINK] in den Siedlungen steigt die Rebellische Stimmung. Freiheitsglocken werden erzeugt, indem man im Stadtbildschirm B&#252;rger ins Rathaus stellt. In diesem Beruf sind nicht alle Einheiten gleich effektiv: Weise Staatsm&#228;nner erzeugen doppelt so viele Freiheitsglocken als Freie Kolonisten; Schuldknechte und Konvertierte Ureinwohner erwirtschaften eine Freiheitsglocke weniger und Kleinkriminelle gleich zwei weniger. Der Bau verschiedener Geb&#228;ude und auch verschiedene Gr&#252;nderv&#228;ter steigern die Produktion von Freiheitsglocken.[PARAGRAPH:2]Im Bildschirm des Revolutionsberaters (erreichbar &#252;ber die Taste F3) kann man oben an einem waagerechten Balken ablesen, wie hoch die Rebellische Stimmung im gesamten Kolonialreich ist, das man als Spieler f&#252;hrt. Dieser Wert ist nicht etwa der durchschnittliche Prozentwert der Rebellischen Stimmung in den Siedlungen. Er erfasst vielmehr die Rebellische Stimmung unter allen menschlichen Einheiten, die man anf&#252;hrt. Die Bezugsgr&#246;&#223;e sind also nicht nur die B&#252;rger, die in den Stadtbildschirmen zur Arbeit eingeteilt sind, sondern auch die B&#252;rger, die als Sp&#228;her, Pioniere, Missionare, als Kolonisten oder in Milit&#228;rberufen unterwegs sind. Erfasst werden alle diese Einheiten, egal wo sie sich befinden, also zum Beispiel auch diejenigen, die noch in Europa sind, auf Schiffen transportiert werden oder gerade in Indianerd&#246;rfern ausgebildet werden. Ausgenommen sind nur die Gro&#223;en Gener&#228;le sowie alle unbelebten Einheiten (Konvois, Schiffe, Artillerien, Sch&#228;tze).[PARAGRAPH:2]Nach jeder Runde wird die Rebellische Stimmung neu berechnet - sowohl im gesamten Kolonialreich, also auch in den einzelnen St&#228;dten. Die Stimmung kann dabei sowohl steigen als auch fallen. Die Faustregel hei&#223;t: Je rebellischer eine Stadt in Prozentzahlen bereits ist, desto mehr Freiheitsglocken muss sie produzieren, um diesen Wert zu halten oder gar zu steigern. Das hei&#223;t: Wenn in einer Siedlung die Rebellische Stimmung schon recht hoch ist und dort pl&#246;tzlich keine (oder nur noch wenige) Freiheitsglocken mehr produziert werden, kann die Rebellische Stimmung in der n&#228;chsten Runde gesunken sein.[PARAGRAPH:2]Das gilt selbstverst&#228;ndlich nur, wenn die Bev&#246;lkerungszahl in der Stadt konstant bleibt. Sinkt die Zahl der B&#252;rger, die im Stadtbildschirm arbeiten, dann steigt sofort der Prozentsatz der Rebellischen Stimmung in dieser Siedlung an. Steigt die B&#252;rgerzahl, dann sinkt sofort der Prozentwert der Rebellischen Stimmung.[PARAGRAPH:2]Die Rebellische Stimmung in einer Stadt kann &#252;ber 100 % wachsen. Wenn dies geschieht, wird dies allerdings weder im Stadtbildschirm, noch auf dem Infobalken der Siedlung auf der Landkarte angezeigt - dort steht jeweils unver&#228;ndert 100 %. Diese Angabe ist aber nachpr&#252;fbar falsch, die Programmdateien arbeiten mit h&#246;heren Werten.[PARAGRAPH:2]Die Rebellische Stimmung einer Siedlung steigert dort die Produktivit&#228;t. Jeder B&#252;rger, egal ob er Rohstoffe, Fertigwaren oder etwas anderes erzeugt, arbeitet h&#228;rter. Der Produktionsbonus ist immer halb so hoch wie die Rebellische Stimmung in der Stadt und kann niemals h&#246;her als 50 % werden. Beispiele: Liegt die Rebellische Stimmung einer Siedlung bei 40 %, beziffert sich der Produktionsbonus auf 20 %. Liegt die Rebellische Stimmung bei 100 % oder beliebig h&#246;her, betr&#228;gt der Produktionsbonus genau 50 %.[PARAGRAPH:2]Eine Milit&#228;reinheit, die in einer Stadt stationiert ist, erh&#228;lt einen Verteidigungsbonus, sobald der Prozentsatz der Rebellischen Stimmung in dieser Siedlung mindestens 51 % betr&#228;gt. Der Bonus f&#228;llt um so h&#246;her aus, je gr&#246;&#223;er der Prozentwert der Rebellischen Stimmung in dieser Stadt ist. Dieser Bonus berechnet sich nach der Formel: Lokaler Prozentsatz der Stimmung minus 50. Beispiel: Greift eine Schwere Artillerie des K&#246;nigs einen Infanteristen an, der in einer Stadt mit 70 % Rebellischer Stimmung postiert ist, erh&#228;lt der Infanterist einen Verteidigungsbonus von 20 % (70 minus 50), der auf m&#246;gliche andere Verteidigungsboni aufaddiert wird.[PARAGRAPH:2]Sobald die Rebellische Stimmung in der gesamten Zivilisation bei mindestens 50 % liegt, kann man die Unabh&#228;ngigkeit erkl&#228;ren und damit den finalen Angriff des K&#246;nigs ausl&#246;sen. Das Ziel des Spieles ist es, gegen Ende der Partie die Unabh&#228;ngigkeit der Kolonien zu erkl&#228;ren und s&#228;mtliche Landeinheiten der Expeditionsstreitmacht, die der K&#246;nig entsendet, zu vernichten. Die k&#246;niglichen Truppen kommen stets in einer &#220;bermacht an, doch mit geschicktem strategischen Vorgehen lassen sie sich ausschalten.[PARAGRAPH:2]Um eine Revolution zu beginnen, klickt man im Revolutionsbildschirm auf "Revolution starten". Auf der rechten Seite sieht man die K&#246;niglichen Expeditionsstreitm&#228;chte, die einen als Gegner erwarten. Wenn die letzte Landeinheit der K&#246;niglichen Expeditionsstreitmacht besiegt ist, ist das Spiel gewonnen. Wenn der K&#246;nig jedoch alle Siedlungen einnehmen kann oder eine andere Kolonie erfolgreich eine Revolution durchf&#252;hrt, verliert man.</German>
 		<Italian>[H1]REBEL SENTIMENT[\H1][NEWLINE][NEWLINE]Per vincere una partita a Colonization devi accumulare abbastanza campane della libert&#224; per dichiarare l'indipendenza dall'[LINK=CONCEPT_EUROPE]Europa[\LINK] e quindi sostenere il conseguente attacco da parte delle truppe europee. Qui di seguito ti verr&#224; spiegato come ottenere abbastanza campane della libert&#224; per dare il via alla tua rivoluzione e come vincerla.[NEWLINE][NEWLINE][BOLD]Guadagnare campane della libert&#224;[\BOLD][PARAGRAPH:1]Ci sono molti modi per ottenere le campane della libert&#224;. Il primo metodo che puoi adottare &#232; quello di assegnare un colono del tuo [LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK] alla professione di [LINK=PROFESSION_STATESMAN]statista[\LINK]; cos&#236; lo manderai istantaneamente a lavorare nel [LINK=BUILDING_TOWNHALL]municipio[\LINK] del tuo [LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK].[PARAGRAPH:2]Puoi anche costruire [LINK=BUILDING_PRINTING_PRESS]tipografie[\LINK] e [LINK=BUILDING_NEWSPAPER]giornali[\LINK]. Questi edifici non hanno bisogno di lavoratori e forniscono un significativo aumento di campane della libert&#224; alla colonia. Puoi anche ottenere campane della libert&#224; convincendo dei [LINK=CONCEPT_FATHERS]Padri Fondatori[\LINK] della categoria politica a unirsi alla tua causa.[PARAGRAPH:2]Ognuno dei tuoi [LINK=CONCEPT_SETTLEMENTS]insediamenti[\LINK] alla propria percentuale individuale di campane della libert&#224; (chiamata anche sentimento di ribellione). La percentuale di campane della libert&#224; mostra che parte della societ&#224; coloniale &#232; pronta alla secessione della madrepatria: pi&#249; &#232; alta, pi&#249; cittadini sono pronti a unirsi alla causa dei ribelli.[PARAGRAPH:2]Per incrementare la percentuale di campane della libert&#224;, devi aumentare il numero di campane della libert&#224; in relazione al numero di cittadini dell'[LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK]. Generare due campane della libert&#224; per turno in un [LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK] con due cittadini dar&#224; una percentuale di campane della libert&#224; molto pi&#249; alta rispetto a quella data dalla creazione di due campane della libert&#224; per turno in un [LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK] con 10 cittadini. [NEWLINE][NEWLINE][BOLD]Benefici delle campane della libert&#224;[\BOLD][NEWLINE][NEWLINE][BOLD]Espansione dei confini[\BOLD][PARAGRAPH:1]Le campane della libert&#224; influenzano in maniera diretta i confini dell'insediamento. Pi&#249; sono le campane generate dall'insediamento e pi&#249; se ne allargheranno i confini. E anche se il sentimento di ribellione dell'insediamento pu&#242; sia aumentare che diminuire, i confini non diminuiranno mai. Anche se la percentuale di sentimento di ribellione precipita, i confini rimarranno delle dimensioni raggiunte in precedenza.[NEWLINE][NEWLINE][BOLD]Bonus difensivo[\BOLD][PARAGRAPH:1]Un'unit&#224; che difende un [LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK] ricever&#224; un bonus difensivo pari alla percentuale di campane della libert&#224; dell'[LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK] stesso, meno 50. Cos&#236; se l'insediamento ha una percentuale di campane della libert&#224; del 75%% tutte le unit&#224; difensive otterranno un bonus di combattimento difensivo del 25%%.[NEWLINE] [NEWLINE][BOLD]Bonus produttivo[\BOLD][PARAGRAPH:1]Quando i tuoi coloni producono beni, la quantit&#224; creata viene aumentata di met&#224; della percentuale di campane della libert&#224; della tua colonia. Ci&#242; significa che un [LINK=CONCEPT_SETTLEMENTS]insediamento[\LINK] che produce quattro unit&#224; d'argento per turno con una percentuale di campane della libert&#224; del 50%% produrr&#224; in realt&#224; cinque unit&#224; d'argento! [NEWLINE][NEWLINE][BOLD]Padri Fondatori[\BOLD][PARAGRAPH:1]Le campane della libert&#224; sono necessarie per attirare i [LINK=CONCEPT_FATHERS]Padri Fondatori[\LINK] dalla tua parte. Anche se i diversi tipi di [LINK=CONCEPT_FATHERS]Padre Fondatore[\LINK] necessitano di diverse tipologie di punti per unirsi alla tua causa, per tutti i [LINK=CONCEPT_FATHERS]Padri Fondatori[\LINK] servono le campane della libert&#224;. Per ulteriori informazioni consulta la voce [LINK=CONCEPT_FATHERS]Padri Fondatori[\LINK]. [NEWLINE][NEWLINE][BOLD]Rivoluzione![\BOLD][PARAGRAPH:1]Per far scoppiare una rivoluzione, e vincere il gioco, devi avere una percentuale generale di campane della libert&#224; almeno del 50%%. Puoi vedere qual &#232; la tua percentuale attuale di campane della libert&#224; nella schermata del consigliere per la rivoluzione [F3].[PARAGRAPH:2]Una volta ottenute abbastanza campane della libert&#224;, puoi dichiarare la rivoluzione andando nella relativa schermata e selezionando il pulsante "Scatena la rivoluzione". [PARAGRAPH:2]Prima di liberarti delle catene dell'oppressione, devi per&#242; assicurarti di dare un'occhiata in basso nella schermata della rivoluzione, che ti fornir&#224; un'esatta immagine di quanto ti aspetta. Sulla destra sono elencati tutti i corpi di spedizione reale che ti attaccheranno non appena inizierai la rivoluzione. Sulla sinistra trovi invece le tue forze.[PARAGRAPH:2]Una volta eliminata ogni singola unit&#224; terrestre del corpo di spedizione reale (non hai bisogno di sconfiggere l'intera marina europea), avrai vinto la partita! Se per&#242; il corpo di spedizione reale conquista tutti i tuoi [LINK=CONCEPT_SETTLEMENTS]insediamenti[\LINK], o un'altra colonia porta a termine con successo la propria rivoluzione, la perderai.[PARAGRAPH:2]Puoi vincere anche ottenendo il punteggio pi&#249; alto alla fine di 300 turni. Pu&#242; essere rischioso provarci, per&#242;: infatti se un altro giocatore riesce a dichiarare l'indipendenza prima della fine dei 300 turni, sar&#224; il vincitore.[NEWLINE][NEWLINE][BOLD]Costituzione[\BOLD][PARAGRAPH:1]Non appena comincer&#224; la rivoluzione, ti verr&#224; data la possibilit&#224; di scrivere una costituzione. Redigendo la costituzione potrai scegliere le libert&#224; che il nuovo paese garantir&#224;, o sottrarr&#224;, ai propri cittadini. Potrai scegliere un'opzione in ognuna di queste cinque categorie: schiavit&#249;, controllo delle armi, successione, separazione tra Chiesa e Stato, diritti dei nativi. Ogni scelta che farai dar&#224; un importante bonus alla tua neonata colonia.</Italian>
 		<Spanish>[H1]REBEL SENTIMENT[\H1][NEWLINE][NEWLINE]Para ganar una partida de Colonization, debes acumular las Campanas de la libertad suficientes para declararte independiente de [LINK=CONCEPT_EUROPE]Europa[\LINK] y luego aguantar la avalancha consiguiente de tropas europeas. Este art&#237;culo explica c&#243;mo conseguir suficientes Campanas de la libertad para empezar la revoluci&#243;n y c&#243;mo ganarla cuando estalle.[NEWLINE][NEWLINE][BOLD]C&#243;mo ganar Campanas de la libertad[\BOLD][PARAGRAPH:1]Hay diversas maneras de ganar Campanas de la libertad. El m&#233;todo que puedes adoptar m&#225;s pronto es asignar a un Colono de tu [LINK=CONCEPT_SETTLEMENTS]asentamiento[\LINK] a la profesi&#243;n de [LINK=PROFESSION_STATESMAN]Estadista[\LINK], lo cual lo pondr&#225; a trabajar de inmediato en el [LINK=BUILDING_TOWNHALL]Ayuntamiento[\LINK].[PARAGRAPH:2]Tambi&#233;n puedes construir [LINK=BUILDING_PRINTING_PRESS]Imprentas[\LINK] y [LINK=BUILDING_NEWSPAPER]Peri&#243;dicos[\LINK]. Estos edificios no necesitan trabajadores y dan a la colonia un buen aumento de Campanas de la libertad. Tambi&#233;n puedes recibirlas si convences a los [LINK=CONCEPT_FATHERS]Padres fundadores[\LINK] que sean pol&#237;ticos de que se unan a tu causa.[PARAGRAPH:2]Cada uno de tus [LINK=CONCEPT_SETTLEMENTS]asentamientos[\LINK] cuenta con su propio porcentaje de Campanas de la libertad (tambi&#233;n llamado "sentimiento de rebeli&#243;n"). Tu porcentaje de Campanas de la libertad representa la cantidad de personas de la sociedad colonial que est&#225;n dispuestas a escindirse de la madre patria. Cuanto m&#225;s alto sea el porcentaje, m&#225;s ciudadanos querr&#225;n unirse a la causa rebelde.[PARAGRAPH:2]Para aumentar tu porcentaje de Campanas de la libertad, debes generar m&#225;s de ellas en relaci&#243;n al n&#250;mero de ciudadanos que hay en tu [LINK=CONCEPT_SETTLEMENTS]asentamiento[\LINK]. Generar dos Campanas de la libertad por turno en un [LINK=CONCEPT_SETTLEMENTS]asentamiento[\LINK] con dos ciudadanos dar&#225; un porcentaje mucho mayor de Campanas de la libertad que generar las mismas en un [LINK=CONCEPT_SETTLEMENTS]asentamiento[\LINK] con diez ciudadanos. [NEWLINE][NEWLINE][BOLD]Beneficios de las Campanas de la libertad[\BOLD][NEWLINE][NEWLINE][BOLD]Ampliaci&#243;n de fronteras[\BOLD][PARAGRAPH:1]Las Campanas de la libertad afectan directamente al tama&#241;o de las fronteras del asentamiento. Cuantas m&#225;s Campanas de la libertad genere un asentamiento, m&#225;s grandes ser&#225;n las fronteras de &#233;ste. Y, aunque el valor de sentimiento de rebeli&#243;n del asentamiento pueda subir o bajar, tus fronteras nunca se reducir&#225;n. Aunque el porcentaje de sentimiento de rebeli&#243;n del asentamiento caiga, tus fronteras seguir&#225;n siendo del tama&#241;o que conseguiste previamente.[PARAGRAPH:2][BOLD]Bonificaci&#243;n de defensa[\BOLD][PARAGRAPH:1]Toda unidad que defienda un [LINK=CONCEPT_SETTLEMENTS]asentamiento[\LINK] recibir&#225; una bonificaci&#243;n defensiva al combate igual al porcentaje de Campanas de la libertad de &#233;ste menos 50. Por tanto, si tu asentamiento tiene un 75%% de Campanas de la libertad, todas las unidades defensivas obtendr&#225;n un 25%% de bonificaci&#243;n defensiva al combate.[NEWLINE] [NEWLINE][BOLD]Bonificaci&#243;n a la producci&#243;n[\BOLD][PARAGRAPH:1]Cuando tus Colonos produzcan mercanc&#237;as, la cantidad que creen aumentar&#225; la mitad del porcentaje de Campanas de la libertad de la colonia. Esto significa que un [LINK=CONCEPT_SETTLEMENTS]asentamiento[\LINK] que produzca 4 de Plata por turno con un 50%% de porcentaje de Campanas de la libertad producir&#225; en realidad 5 de Plata. [NEWLINE][NEWLINE][BOLD]Padres fundadores[\BOLD][PARAGRAPH:1]Las Campanas de la libertad son necesarias para atraer a los [LINK=CONCEPT_FATHERS]Padres fundadores[\LINK] a tu lado. Aunque convencer de ello a cada tipo de [LINK=CONCEPT_FATHERS]Padre fundador[\LINK] requiere un tipo distinto de puntos, para todos son necesarias las Campanas de la libertad. Consulta la secci&#243;n [LINK=CONCEPT_FATHERS]Padres fundadores[\LINK] para m&#225;s informaci&#243;n sobre ellos. [NEWLINE][NEWLINE][BOLD]&#161;Revoluci&#243;n![\BOLD][PARAGRAPH:1]Para empezar una revoluci&#243;n _y ganar la partida_ debes tener un porcentaje total de Campanas de la libertad de al menos un 50%%. Puedes consultar las Campanas de la libertad que tu colonia tiene en cada momento en la pantalla del consejero de la Revoluci&#243;n [F3].[PARAGRAPH:2]Cuando hayas ganado bastantes Campanas de la libertad, puedes declarar la Revoluci&#243;n si vas a la pantalla de &#233;sta y pulsas el bot&#243;n "Iniciar Revoluci&#243;n". [PARAGRAPH:2]No obstante, antes de romper los grilletes de la opresi&#243;n, deber&#237;as echar un vistazo a la parte inferior de la pantalla de la revoluci&#243;n. Ah&#237; ver&#225;s exactamente a qu&#233; te est&#225;s enfrentando. A la derecha se encuentran listadas las Reales Fuerzas Expedicionarias, que te atacar&#225;n en cuanto declares la Revoluci&#243;n. A la izquierda se encuentran tus fuerzas.[PARAGRAPH:2]Cuando hasta la &#250;ltima unidad terrestre de la Real Fuerza Expedicionaria quede destruida (no tienes por qu&#233; derrotar a toda la armada europea), habr&#225;s ganado la partida. No obstante, si la Real Fuerza Expedicionaria captura todos tus [LINK=CONCEPT_SETTLEMENTS]asentamientos[\LINK] u otra colonia consigue acabar su propia Revoluci&#243;n antes que t&#250;, perder&#225;s la partida.[PARAGRAPH:2]Los jugadores que tengan la puntuaci&#243;n m&#225;s alta tras 300 turnos tambi&#233;n pueden ganar. &#201;sta puede ser una empresa arriesgada ya que, si otro jugador logra declarar la independencia antes de los 300 turnos, se llevar&#225; la victoria.[NEWLINE][NEWLINE][BOLD]Constituci&#243;n[\BOLD][PARAGRAPH:1]Tan pronto como empieces tu Revoluci&#243;n, se te dar&#225; la opci&#243;n de redactar una constituci&#243;n. Al redactarla, podr&#225;s elegir las libertades que dar&#225;s _o quitar&#225;s_ al nuevo pa&#237;s y a sus ciudadanos. Podr&#225;s elegir una postura sobre cada una de las cuestiones siguientes: esclavitud, seguridad terrestre (derecho a llevar armas), elecciones, religi&#243;n (estado laico o no) y derechos de los nativos. Cada elecci&#243;n que hagas dar&#225; una bonificaci&#243;n significativa a la colonia reci&#233;n fundada. </Spanish>

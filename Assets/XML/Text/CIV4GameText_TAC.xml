@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text - New -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_EUROPE_ADJECTIVE</Tag>
@@ -480,7 +475,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC</Tag>
 		<English>Portuguese Colonies</English>
-		<French>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#232;&#229; &#234;&#238;&#235;&#238;&#237;&#232;&#232;</French>
+		<French>Ïîðòóãàëüñêèå êîëîíèè</French>
 		<German>Col&#243;nias Portuguesas</German>
 		<Italian>Colonie portoghesi</Italian>
 		<Spanish>Portuguese Colonies</Spanish>
@@ -488,7 +483,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_SHORT_DESC</Tag>
 		<English>New Portugal</English>
-		<French>&#205;&#238;&#226;&#224;&#255; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</French>
+		<French>Íîâàÿ Ïîðòóãàëèÿ</French>
 		<German>Col&#243;nias Portuguesas</German>
 		<Italian>Nuovo Portogallo</Italian>
 		<Spanish>New Portugal</Spanish>
@@ -496,7 +491,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_EUROPE_DESC</Tag>
 		<English>Portuguese Empire</English>
-		<French>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</French>
+		<French>Ïîðòóãàëüñêàÿ èìïåðèÿ</French>
 		<German>K&#246;nigreich Portugal</German>
 		<Italian>Impero Portoghese</Italian>
 		<Spanish>Portuguese Empire</Spanish>
@@ -504,7 +499,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_EUROPE_SHORT_DESC</Tag>
 		<English>Portugal</English>
-		<French>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</French>
+		<French>Ïîðòóãàëèè</French>
 		<German>Portugal</German>
 		<Italian>Portogallo</Italian>
 		<Spanish>Portugal</Spanish>
@@ -552,7 +547,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_EXPLORERS_SHORT</Tag>
 		<English>Exp</English>
-		<French>Exp</French>
+		<French>Èññëåä.</French>
 		<German>For</German>
 		<Italian>Exp</Italian>
 		<Spanish>Exp</Spanish>
@@ -560,7 +555,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_FW_DESCR</Tag>
 		<English>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</English>
-		<French>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</French>
+		<French>Ñëó÷àéíàÿ êàðòà, êîòîðàÿ èìèòèðóåò çåìíóþ òåêòîíèêó ïëèò, ãåîñòðîôè÷åñêèå è ìóññîííûå âåòðû è îñàäêè.</French>
 		<German>Zufallsgenerierte Karte mit gro&#223;en zusammenh&#228;ngenden Klimazonen und Gebirgsz&#252;gen</German>
 		<Italian>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</Italian>
 		<Spanish>Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</Spanish>
@@ -664,7 +659,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_OFFER_CITY_2</Tag>
 		<English>We would like to offer you the lands this settlement is on as a sign of our respect.</English>
-		<French>We would like to offer you the lands this settlement is on as a sign of our respect.</French>
+		<French>Ìû õîòåëè áû ïðåäëîæèòü âàì çåìëè ýòîãî ïîñåëåíèÿ â çíàê íàøåãî óâàæåíèÿ.</French>
 		<German>Wir m&#246;chten diese Siedlung zu Euren Gunsten aufgeben, seid Ihr damit einverstanden?</German>
 		<Italian>Vorremmo offrirti questo insediamento in segno di rispetto.</Italian>
 		<Spanish>Nos gustar&#237;a ofreceros este asentamiento como muestra de respeto.</Spanish>
@@ -680,7 +675,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TRADE</Tag>
 		<English>Turn trade messages [COLOR_HIGHLIGHT_TEXT]on/off[COLOR_REVERT]</English>
-		<French>Turn trade messages [COLOR_HIGHLIGHT_TEXT]on/off[COLOR_REVERT]</French>
+		<French>Òîðãîâûå ñîîáùåíèÿ [COLOR_HIGHLIGHT_TEXT]âêë/âûêë[COLOR_REVERT]</French>
 		<German>Handels-Anzeige [COLOR_HIGHLIGHT_TEXT]Ein/Aus[COLOR_REVERT]</German>
 		<Italian>Turn trade messages [COLOR_HIGHLIGHT_TEXT]on/off[COLOR_REVERT]</Italian>
 		<Spanish>Turn trade messages [COLOR_HIGHLIGHT_TEXT]on/off[COLOR_REVERT]</Spanish>
@@ -688,7 +683,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTE_DESCRIPTION</Tag>
 		<English>%s1_yield from %s2_city to %s3_city</English>
-		<French>%s1_yield &#238;&#242; %s2_city &#234; %s3_city</French>
+		<French>%s1_yield èç [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT] â [COLOR_SELECTED_TEXT]%s3_city[COLOR_REVERT]</French>
 		<German>%s1_yield von %s2_city nach %s3_city</German>
 		<Italian>%s1_yield da %s2_city a %s3_city</Italian>
 		<Spanish>%s1_yield por ruta de %s2_city a %s3_city</Spanish>
@@ -708,7 +703,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_DEVOUT_SHORT</Tag>
 		<English>Dev</English>
-		<French>Dev</French>
+		<French>Íàá.</French>
 		<German>Frm</German>
 		<Italian>Dev</Italian>
 		<Spanish>Dev</Spanish>
@@ -716,7 +711,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_DOMINATION</Tag>
 		<English>Domination</English>
-		<French>&#196;&#238;&#236;&#232;&#237;&#232;&#240;&#238;&#226;&#224;&#237;&#232;&#229;</French>
+		<French>Äîìèíèðîâàíèå</French>
 		<German>Vorherrschaft</German>
 		<Italian>Domination</Italian>
 		<Spanish>Domination</Spanish>
@@ -724,7 +719,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_DOMINATION_PEDIA</Tag>
 		<English>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</English>
-		<French>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</French>
+		<French>Â êîëîíèàëüíûå âðåìåíà åâðîïåéñêèå äåðæàâû áîðîëèñü çà ãîñïîäñòâî â Íîâîì Ñâåòå. Ýòîò ìîä «We The People» èññëåäóåò èñòîðèþ ýòîé êîëîíèçàöèè. Âû áóäåòå âåñòè ïåðåãîâîðû èëè áîðîòüñÿ ïðîòèâ êîðåííûõ íàðîäîâ è äðóãèõ åâðîïåéñêèõ êîëîíèé, ðàáîòàÿ íàä ñîçäàíèåì ñàìîé óñïåøíîé íàöèè, êîòîðóþ êîãäà-ëèáî âèäåë Íîâûé Ñâåò.</French>
 		<German>In den Zeiten der Kolonialisierung k&#228;mpften die Europ&#228;ischen M&#228;chte um die Seeherrschaft in der Neuen Welt. Diese M&#246;glichkeiten habt Ihr auch. K&#228;mpft gegen die Ureinwohner und die anderen Kolonialm&#228;chte, um die gr&#246;&#223;te Nation in der Neuen Welt zu werden.</German>
 		<Italian>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</Italian>
 		<Spanish>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</Spanish>
@@ -732,7 +727,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONQUEST</Tag>
 		<English>Conquest</English>
-		<French>Conquest</French>
+		<French>Çàâîåâàíèå</French>
 		<German>Eroberung</German>
 		<Italian>Conquest</Italian>
 		<Spanish>Conquest</Spanish>
@@ -740,7 +735,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONQUEST_PEDIA</Tag>
 		<English>Eliminate all rivals</English>
-		<French>Eliminate all rivals</French>
+		<French>Óñòðàíèòü âñåõ ñîïåðíèêîâ</French>
 		<German>Vernichte alle Rivalen ...</German>
 		<Italian>Eliminate all rivals</Italian>
 		<Spanish>Eliminate all rivals</Spanish>
@@ -748,7 +743,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_VULKAN</Tag>
 		<English>Vulcan</English>
-		<French>Vulcan</French>
+		<French>Âóëêàí</French>
 		<German>Vulkan</German>
 		<Italian>Vulcan</Italian>
 		<Spanish>Vulcan</Spanish>
@@ -756,7 +751,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_VULKAN_PEDIA</Tag>
 		<English>Vulcan</English>
-		<French>Vulcan</French>
+		<French>Âóëêàí</French>
 		<German>Vulkan</German>
 		<Italian>Vulcan</Italian>
 		<Spanish>Vulcan</Spanish>
@@ -820,7 +815,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_YOU_GOLD_CAPTURE</Tag>
 		<English>You captured %d1 gold from the enemy</English>
-		<French>You captured %d1 gold from the enemy</French>
+		<French>Âû çàõâàòèëè %d1[ICON_GOLD] ó âðàãà</French>
 		<German>Ihr habt %d1 Gold von Eurem Feind erbeutet</German>
 		<Italian>You captured %d1 gold from the enemy</Italian>
 		<Spanish>You captured %d1 gold from the enemy</Spanish>
@@ -828,7 +823,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HIM_GOLD_CAPTURE</Tag>
 		<English>You lost %d1 gold to Pirates</English>
-		<French>You lost %d1 gold to Pirates</French>
+		<French>Âû ïîòåðÿëè %d1[ICON_GOLD] èç-çà ïèðàòîâ</French>
 		<German>Ihr verliert %d1 Gold an die Piraten</German>
 		<Italian>You lost %d1 gold to Pirates</Italian>
 		<Spanish>You lost %d1 gold to Pirates</Spanish>
@@ -836,7 +831,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_NATIVE_ATTITUDE_GOOD2</Tag>
 		<English>[ICON_BULLET]Auto-peace with Natives</English>
-		<French>[ICON_BULLET]Auto-peace with Natives</French>
+		<French>[ICON_BULLET]Çàâåðøàåò âñå âîéíû ñ èíäåéöàìè</French>
 		<German>[ICON_BULLET]Laufende Kriege mit den Ureinwohnern werden sofort friedlich beigelegt</German>
 		<Italian>[ICON_BULLET]Auto-peace with Natives</Italian>
 		<Spanish>[ICON_BULLET]Auto-peace with Natives</Spanish>
@@ -844,7 +839,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_SCREEN_TOP</Tag>
 		<English>Top</English>
-		<French>&#194; &#237;&#224;&#247;&#224;&#235;&#238;</French>
+		<French>Ââåðõ</French>
 		<German>Nach oben</German>
 		<Italian>Torna a Colonizopedia</Italian>
 		<Spanish>Inicio</Spanish>
@@ -852,7 +847,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_YOU_UNITS_EUROPE_INTERCEPTED</Tag>
 		<English>Your %s1_UnitName was intercepted in Europe by the King.</English>
-		<French>&#194;&#224;&#248; &#254;&#237;&#232;&#242; %s1_UnitName &#225;&#251;&#235; &#239;&#229;&#240;&#229;&#245;&#226;&#224;&#247;&#229;&#237; &#234;&#238;&#240;&#238;&#235;&#229;&#236; &#226; &#197;&#226;&#240;&#238;&#239;&#229;.</French>
+		<French>Ìèëîðä, íàø êîðàáëü [COLOR_UNIT_TEXT]%s1_UnitName[COLOR_REVERT] áûë çàõâà÷åí Êîðîëåâñêèì ôëîòîì ó áåðåãîâ Åâðîïû.</French>
 		<German>Euer Schiff %s1_UnitName wurde vor der K&#252;ste Europas von der k&#246;niglichen Marine &#252;berfallen.</German>
 		<Italian>Your %s1_UnitName was intercepted in Europe by the King.</Italian>
 		<Spanish>Your %s1_UnitName was intercepted in Europe by the King.</Spanish>
@@ -860,7 +855,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORCE_START_PEACE</Tag>
 		<English>You cannot declare war within the first 20 turns of the game.</English>
-		<French>You cannot declare war within the first 20 turns of the game.</French>
+		<French>Âû íå ìîæåòå îáúÿâèòü âîéíó â ïåðâûå 20 õîäîâ èãðû.</French>
 		<German>M&#228;&#223;igt Euch! Ihr k&#246;nnt in den ersten 20 Runden keinen Krieg erkl&#228;ren!</German>
 		<Italian>You cannot declare war within the first 20 turns of the game.</Italian>
 		<Spanish>You cannot declare war within the first 20 turns of the game.</Spanish>
@@ -868,7 +863,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_FORCE_START_PEACE</Tag>
 		<English>You overstep your authority attempting to declare war on another European nation!</English>
-		<French>You overstep your authority attempting to declare war on another European nation!</French>
+		<French>Âû ïðåâûøàåòå ñâîè ïîëíîìî÷èÿ, ïûòàÿñü îáúÿâèòü âîéíó äðóãîé åâðîïåéñêîé íàöèè!</French>
 		<German>Ihr habt eure Befugnisse &#252;berschritten, als ihr versuchtet, einer anderen Europ&#228;ischen Nation den Krieg zu erkl&#228;ren!</German>
 		<Italian>You overstep your authority attempting to declare war on another European nation!</Italian>
 		<Spanish>You overstep your authority attempting to declare war on another European nation!</Spanish>
@@ -876,7 +871,7 @@
 	<TEXT>
 		<Tag>AI_DIPLOCOMMENT_FORCE_START_PEACE</Tag>
 		<English>You overstep your authority attempting to declare war on another European nation!</English>
-		<French>You overstep your authority attempting to declare war on another European nation!</French>
+		<French>Âû ïðåâûñèëè ñâîè ïîëíîìî÷èÿ, êîãäà ïûòàëèñü îáúÿâèòü âîéíó äðóãîé åâðîïåéñêîé íàöèè!</French>
 		<German>Ihr habt eure Befugnisse &#252;berschritten, als ihr versuchtet, einer anderen Europ&#228;ischen Nation den Krieg zu erkl&#228;ren!</German>
 		<Italian>You overstep your authority attempting to declare war on another European nation!</Italian>
 		<Spanish>You overstep your authority attempting to declare war on another European nation!</Spanish>
@@ -884,7 +879,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_SAIL_EAST</Tag>
 		<English>Sail to the New World - East</English>
-		<French>Sail to the New World - East</French>
+		<French>Ïëûòü â Íîâûé ñâåò - Âîñòî÷íîå ïîáåðåæüå</French>
 		<German>Setzt die Segel! Kurs Atlantik!</German>
 		<Italian>Sail to the New World - East</Italian>
 		<Spanish>Sail to the New World - East</Spanish>
@@ -892,7 +887,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_SAIL_WEST</Tag>
 		<English>Sail to the New World - West</English>
-		<French>Sail to the New World - West</French>
+		<French>Ïëûòü â Íîâûé ñâåò - Çàïàäíîå ïîáåðåæüå</French>
 		<German>Setzt die Segel! Kurs Pazifik!</German>
 		<Italian>Sail to the New World - West</Italian>
 		<Spanish>Sail to the New World - West</Spanish>
@@ -900,7 +895,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_RUNNING_OUT_OF_SPACE</Tag>
 		<English>You are nearly out of room for %F1_yield_icon in %s2_city due to limited storage capacity</English>
-		<French>You are nearly out of room for %F1_yield_icon in %s2_city due to limited storage capacity</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]Ìåñòî äëÿ õðàíåíèÿ %F1_yield_icon ïî÷òè çàêîí÷èëîñü ...</French>
 		<German>Der Lagerraum f&#252;r %F1_yield_icon in %s2_city ist fast vollst&#228;ndig ausgenutzt ...</German>
 		<Italian>You are nearly out of room for %F1_yield_icon in %s2_city due to limited storage capacity</Italian>
 		<Spanish>You are nearly out of room for %F1_yield_icon in %s2_city due to limited storage capacity</Spanish>
@@ -908,7 +903,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_NO_RAW</Tag>
 		<English>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</English>
-		<French>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Â ãîðîäå çàêîí÷èëèñü %F2_yield_icon. Ãîðîæàíå áîëüøå íå ìîãóò ïðîèçâîäèòü %F3_yield_icon è ñèäÿò áåç äåëà.</French>
 		<German>Gouverneur, %s1_city steht keinerlei %F2_yield_icon mehr zur Verf&#252;gung. Unsere B&#252;rger k&#246;nnen keine %F3_yield_icon mehr herstellen und drehen D&#228;umchen.</German>
 		<Italian>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</Italian>
 		<Spanish>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</Spanish>
@@ -916,7 +911,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ALMOST_NO_RAW</Tag>
 		<English>%s1_city is almost out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</English>
-		<French>%s1_city is almost out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Çàïàñ %F2_yield_icon ñíèæàåòñÿ. Ñêîðî ó íàñ âîçíèêíóò ïðîáëåìû ñ ïðîèçâîäñòâîì %F3_yield_icon.</French>
 		<German>Gouverneur, in %s1_city neigt sich der Lagervorrat an %F2_yield_icon. Bei der Herstellung von %F3_yield_icon werden wir bald ein Problem bekommen.</German>
 		<Italian>%s1_city is almost out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</Italian>
 		<Spanish>%s1_city is almost out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</Spanish>
@@ -924,7 +919,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_NOT_ENOUGH_RAW</Tag>
 		<English>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</English>
-		<French>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Ìû ìîãëè áû ïðîèçâîäèòü áîëüøå %F3_yield_icon, åñëè áû ó íàñ áûëî áîëüøå %F2_yield_icon.</French>
 		<German>Gouverneur, wir k&#246;nnten in %s1_city mehr %F3_yield_icon herstellen, st&#252;nde uns dort mehr %F2_yield_icon zur Verf&#252;gung.</German>
 		<Italian>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</Italian>
 		<Spanish>%s1_city is out of %F2_yield_icon and thus cannot make any %F3_yield_icon.</Spanish>
@@ -932,7 +927,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_FAILED</Tag>
 		<English>Your missionary failed to establish a mission in %s1_CityName.</English>
-		<French>&#194;&#224;&#248;&#229;&#236;&#243; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;&#243; &#237;&#229; &#243;&#228;&#224;&#235;&#238;&#241;&#252; &#238;&#241;&#237;&#238;&#226;&#224;&#242;&#252; &#236;&#232;&#241;&#241;&#232;&#254; &#226; &#227;&#238;&#240;&#238;&#228;&#229; %s1_CityName.</French>
+		<French>Ìèëîðä, íàøåìó ìèññèîíåðó íå óäàëîñü äîãîâîðèòüñÿ ñ èíäåéöàìè îá óñòàíîâêå ìèññèè â [COLOR_SELECTED_TEXT]%s1_CityName[COLOR_REVERT]. Ïîìîëèìñÿ çà íåãî, áðàòüÿ...</French>
 		<German>Eurem Missionar ist es nicht gelungen, in %s1_CityName eine Mission zu errichten.</German>
 		<Italian>Your missionary failed to establish a mission in %s1_CityName.</Italian>
 		<Spanish>Your missionary failed to establish a mission in %s1_CityName.</Spanish>
@@ -940,7 +935,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TALK_NATIVES_POPUP_MISSION2</Tag>
 		<English>Establish a mission[NEWLINE]Success rate: %d1_success</English>
-		<French>Establish a mission[NEWLINE]Success rate: %d1_success</French>
+		<French>Îñíîâàòü õðèñòèàíñêóþ ìèññèþ â äåðåâíå èíäåéöåâ[NEWLINE]Øàíñ óñïåõà : %d1_success</French>
 		<German>Eine Mission errichten[NEWLINE]Erfolgschance: %d1_success</German>
 		<Italian>Fonda una missione.[NEWLINE]Success rate: %d1_success</Italian>
 		<Spanish>Fundar una misi&#243;n[NEWLINE]Success rate: %d1_success</Spanish>
@@ -948,7 +943,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MEMORY_MISSION_FAIL</Tag>
 		<English>"Your missionaries have insulted our Spirits!"</English>
-		<French>"Your missionaries have insulted our Spirits!"</French>
+		<French>"Âàøè ìèññèîíåðû îñêîðáèëè íàøèõ äóõîâ !"</French>
 		<German>"Eure Missionare haben unsere Geister vertrieben!"</German>
 		<Italian>"Your missionaries have insulted our Spirits!"</Italian>
 		<Spanish>"Your missionaries have insulted our Spirits!"</Spanish>
@@ -956,7 +951,7 @@
 	<TEXT>
 		<Tag>AI_DIPLO_OFFER_CITY_2</Tag>
 		<English>We would like to offer you the lands this settlement is on as a sign of our respect.</English>
-		<French>We would like to offer you the lands this settlement is on as a sign of our respect.</French>
+		<French>Ìû õîòåëè áû ïðåäëîæèòü âàì çåìëè ýòîãî ïîñåëåíèÿ â çíàê íàøåãî óâàæåíèÿ.</French>
 		<German>Wir m&#246;chten Euch diese Siedlungen &#252;bergeben - als Zeichen des Respekts.</German>
 		<Italian>We would like to offer you the lands this settlement is on as a sign of our respect.</Italian>
 		<Spanish>We would like to offer you the lands this settlement is on as a sign of our respect.</Spanish>
@@ -964,7 +959,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_WORLD_MAP_STRING</Tag>
 		<English>New World Map</English>
-		<French>New World Map</French>
+		<French>Êàðòà Íîâîãî ìèðà</French>
 		<German>Karte der Neuen Welt</German>
 		<Italian>New World Map</Italian>
 		<Spanish>New World Map</Spanish>
@@ -972,7 +967,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_WORLD_MAP</Tag>
 		<English>New World Map</English>
-		<French>New World Map</French>
+		<French>Êàðòà ìèðà</French>
 		<German>Karte der Neuen Welt</German>
 		<Italian>New World Map</Italian>
 		<Spanish>New World Map</Spanish>
@@ -988,7 +983,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TRADE</Tag>
 		<English>Economic</English>
-		<French>Economic</French>
+		<French>Ýêîíîìè÷åñêàÿ</French>
 		<German>Handel</German>
 		<Italian>Economic</Italian>
 		<Spanish>Economic</Spanish>
@@ -996,7 +991,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PRODUCTION</Tag>
 		<English>Industrialisation</English>
-		<French>&#200;&#237;&#228;&#243;&#241;&#242;&#240;&#232;&#224;&#235;&#232;&#231;&#224;&#246;&#232;&#255;</French>
+		<French>Èíäóñòðèàëèçàöèÿ</French>
 		<German>Industrialisierung</German>
 		<Italian>Industrialisation</Italian>
 		<Spanish>Industrialisation</Spanish>
@@ -1004,7 +999,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PRODUCTION_PEDIA</Tag>
 		<English>Start the Industrial Revolution (production rate per turn)</English>
-		<French>Start the Industrial Revolution (production rate per turn)</French>
+		<French>Íà÷àòü ïðîìûøëåííóþ ðåâîëþöèþ (ïðîèçâîäèòåëüíîñòü çà õîä)</French>
 		<German>Industrielle Revolution (Produktionsrate pro Runde)</German>
 		<Italian>Start the Industrial Revolution (production rate per turn)</Italian>
 		<Spanish>Start the Industrial Revolution (production rate per turn)</Spanish>
@@ -1012,7 +1007,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PRODUCTION_RATE</Tag>
 		<English>Start the Industrial Revolution (production rate per turn)</English>
-		<French>Start the Industrial Revolution (production rate per turn)</French>
+		<French>Íà÷àòü ïðîìûøëåííóþ ðåâîëþöèþ (ïðîèçâîäñòâî çà õîä)</French>
 		<German>Industrielle Revolution (Produktionsrate pro Runde)</German>
 		<Italian>Start the Industrial Revolution (production rate per turn)</Italian>
 		<Spanish>Start the Industrial Revolution (production rate per turn)</Spanish>
@@ -1020,7 +1015,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TOTAL_PROD_RATE</Tag>
 		<English>Total production rate:</English>
-		<French>Total production rate:</French>
+		<French>Îáùàÿ ïðîèçâîäèòåëüíîñòü :</French>
 		<German>Gesamtproduktionsrate:</German>
 		<Italian>Total production rate:</Italian>
 		<Spanish>Total production rate:</Spanish>
@@ -1260,7 +1255,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_VOLCANO</Tag>
 		<English>Volcano</English>
-		<French>Volcano</French>
+		<French>Âóëêàí</French>
 		<German>Vulkan</German>
 		<Italian>Volcano</Italian>
 		<Spanish>Volcano</Spanish>
@@ -1384,7 +1379,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_TIMBER</Tag>
 		<English>Timber</English>
-		<French>Timber</French>
+		<French>Áðåâíà</French>
 		<German>Bauholz</German>
 		<Italian>Legname</Italian>
 		<Spanish>Madera</Spanish>
@@ -1392,7 +1387,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_MINERALS</Tag>
 		<English>Mineral Resources</English>
-		<French>Mineral Resources</French>
+		<French>Ìèíåðàëüíûå ðåñóðñû</French>
 		<German>
 			<Text>Erzgestein:Erzgestein</Text>
 			<Gender>Male</Gender>
@@ -1406,7 +1401,7 @@
 		<English>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Mineral Resources[COLOR_REVERT] can occur on all [COLOR_HIGHLIGHT_TEXT]Hills[COLOR_REVERT] plots.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]When early civilizations began to use metal to construct tools and weapons, the most commonly used metal was bronze. Bronze had the advantage of being readily available and easy to work with. Unfortunately, it was too soft to hold an effective edge. In the mid-14th century BC in central Europe, iron replaced bronze as the metal of choice, and the Iron Age was begun. Since this time, iron has been a valuable commodity. In the new world, where easily accessible seams of iron were not always found in the nearby hills, many colonies turned instead to the iron-rich mineral deposits of nearby swamps and marshes.</English>
 		<French>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Mineral Resources[COLOR_REVERT] can occur on all [COLOR_HIGHLIGHT_TEXT]Hills[COLOR_REVERT] plots.[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]When early civilizations began to use metal to construct tools and weapons, the most commonly used metal was bronze. Bronze had the advantage of being readily available and easy to work with. Unfortunately, it was too soft to hold an effective edge. In the mid-14th century BC in central Europe, iron replaced bronze as the metal of choice, and the Iron Age was begun. Since this time, iron has been a valuable commodity. In the new world, where easily accessible seams of iron were not always found in the nearby hills, many colonies turned instead to the iron-rich mineral deposits of nearby swamps and marshes.</French>
 		<German>[BOLD]Strategie:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Erzgestein[COLOR_REVERT] kann auf [COLOR_HIGHLIGHT_TEXT]H&#252;geln[COLOR_REVERT] jedes Terrains vorkommen..[NEWLINE][NEWLINE][BOLD]Hintergund:[\BOLD][PARAGRAPH:1]Reiche Eisen- oder Silbervorkommen fanden die Europ&#228;er in der Neuen Welt nur an ausgew&#228;hlten Orten vor. Doch h&#228;ufig trafen sie in H&#252;geln und Bergen auf Gesteinsschichten, in denen geringe Erzvorkommen vorhanden waren. Nicht immer war ihre Ausbeutung wirtschaftlich sinnvoll, doch mancherorts bot sie den Sch&#252;rfern eine M&#246;glichkeit, zumindestens ihren Lebensunterhalt zu verdienen. </German>
-		<Italian>[TAB]Quando le prime civilt&#224; cominciarono a usare il metallo per costruire oggetti e armi, il pi&#249; utilizzato era il bronzo; i vantaggi di questo metallo erano la sua facile reperibilit&#224; e la semplice lavorazione. Sfortunatamente, si rivel&#242; troppo morbido per creare lame efficaci. A partire dalla met&#224; del 14&#176; secolo a. C., in Europa il bronzo venne sostituito dal ferro, dando cos&#236; il via all'Et&#224; del Ferro. Da allora, il ferro &#232; diventato una risorsa importante: i depositi di questo metallo e i minerali che lo contengono si trovano nelle montagne, dalle quali vengono estratti e processati per essere usati in forma grezza o nella produzione di acciaio.</Italian>
+		<Italian>[TAB]Quando le prime civilt&#224; cominciarono a usare il metallo per costruire oggetti e armi, il pi&#249; utilizzato era il bronzo; i vantaggi di questo metallo erano la sua facile reperibilit&#224; e la semplice lavorazione. Sfortunatamente, si rivel&#242; troppo morbido per creare lame efficaci. A partire dalla met&#224; del 14° secolo a. C., in Europa il bronzo venne sostituito dal ferro, dando cos&#236; il via all'Et&#224; del Ferro. Da allora, il ferro &#232; diventato una risorsa importante: i depositi di questo metallo e i minerali che lo contengono si trovano nelle montagne, dalle quali vengono estratti e processati per essere usati in forma grezza o nella produzione di acciaio.</Italian>
 		<Spanish>[TAB]Cuando las primeras civilizaciones comenzaron a usar metales para fabricar herramientas y armas, el m&#225;s utilizado era el bronce. Este metal contaba con la ventaja de su gran disponibilidad y de su facilidad a la hora de trabajar con &#233;l. Por desgracia, era demasiado blando para poder tener un filo eficaz. A mediados del siglo XIV a. C., el hierro sustituy&#243; al bronce en Europa central como metal preferido, y comenz&#243; la Edad del Hierro. Desde entonces, el hierro ha sido una mercanc&#237;a valiosa. Los dep&#243;sitos de mineral de hierro se encuentran en las monta&#241;as, y se extraen y procesan para utilizar el hierro en estado puro y en la producci&#243;n de acero.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -1548,7 +1543,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_YOU_GOLD_CAPTURE</Tag>
 		<English>You captured %d1 gold from the enemy</English>
-		<French>You captured %d1 gold from the enemy</French>
+		<French>Âû çàõâàòèëè %d1[ICON_GOLD] ó âðàãà</French>
 		<German>Ihr habt %d1 Gold erbeutet</German>
 		<Italian>Hai catturato %d1 ori dal nemico</Italian>
 		<Spanish>You captured %d1 gold from the enemy</Spanish>
@@ -1556,7 +1551,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HIM_GOLD_CAPTURE</Tag>
 		<English>You lost %d1 gold to Pirates</English>
-		<French>You lost %d1 gold to Pirates</French>
+		<French>Âû ïîòåðÿëè %d1[ICON_GOLD] èç-çà ïèðàòîâ</French>
 		<German>Piraten konnten %d1 Gold von Euch erbeuten</German>
 		<Italian>I pirati ti hanno estorto %d1 ori</Italian>
 		<Spanish>You lost %d1 gold to Pirates</Spanish>
@@ -1564,7 +1559,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_INTERFACE_ADVISOR_TOGGLE</Tag>
 		<English>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</English>
-		<French>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</French>
+		<French>[COLOR_CYAN]Ìåíþ ñîâåòíèêà[COLOR_REVERT]</French>
 		<German>[COLOR_CYAN]Berater Men&#252;[COLOR_REVERT]</German>
 		<Italian>[COLOR_CYAN]Menu Ausiliario[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</Spanish>
@@ -1652,7 +1647,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_SELECT_UNIT_PROFESSION</Tag>
 		<English>Select All Units (Same Profession)</English>
-		<French>Select All Units (Same Profession)</French>
+		<French>Âûäåëèòü âñå þíèòû (îäíîé ïðîôåññèè)</French>
 		<German>W&#228;hle alle Einheiten desselben Typs</German>
 		<Italian>Select All Units (Same Profession)</Italian>
 		<Spanish>Seleccionar todas las unidades (de la misma profesion)</Spanish>
@@ -1660,7 +1655,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_CITY_BOMBARD</Tag>
 		<English>Enable City Bombard</English>
-		<French>Enable City Bombard</French>
+		<French>Âêëþ÷èòü ãîðîäñêèå ïóøêè</French>
 		<German>Automatische Bombardierung</German>
 		<Italian>Enable City Bombard</Italian>
 		<Spanish>Enable City Bombard</Spanish>
@@ -1668,7 +1663,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_GAME_OPTION_CITY_BOMBARD_HELP</Tag>
 		<English>Cities bombard automatically when crossing hostile ships</English>
-		<French>Cities bombard automatically when crossing hostile ships</French>
+		<French>Ãîðîäà áóäóò àâòîìàòè÷åñêè ñòðåëÿòü ïî ïðîõîäÿùèì ìèìî âðàæåñêèì êîðàáëÿì.</French>
 		<German>St&#228;dte bombardieren automatisch vorbeifahrende Schiffe</German>
 		<Italian>Enable City Bombard</Italian>
 		<Spanish>Enable City Bombard</Spanish>
@@ -1676,7 +1671,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_REJECTED</Tag>
 		<English>Rejected Founding Father</English>
-		<French>Rejected Founding Father</French>
+		<French>Îòâåðãíóòûé Îòåö Îñíîâàòåëü</French>
 		<German>Abgelehnter Gr&#252;ndervater</German>
 		<Italian>Rejected Founding Father</Italian>
 		<Spanish>Rejected Founding Father</Spanish>
@@ -1700,7 +1695,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_NO_INDIAN_HARBOUR</Tag>
 		<English>[ICON_BULLET]Cannot enter native villages</English>
-		<French>[ICON_BULLET]Cannot enter native villages</French>
+		<French>[ICON_BULLET]Íå ìîæåò çàõîäèòü â ïîñåëåíèÿ èíäåéöåâ</French>
 		<German>[ICON_BULLET]Kann Ureinwohnerd&#246;rfer nicht anlaufen</German>
 		<Italian>[ICON_BULLET]Cannot enter native villages</Italian>
 		<Spanish>[ICON_BULLET]Cannot enter native villages</Spanish>
@@ -1708,7 +1703,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_STUDENT_ALMOST_GRADUATED</Tag>
 		<English>A student will finish his training at the %s3_building of %s2_city in %d1_Num [NUM1:turn:turns].</English>
-		<French>A student will finish his training at the %s3_building of %s2_city in %d1_Num [NUM1:turn:turns].</French>
+		<French>[COLOR_SELECTED_TEXT]%s2_city :[COLOR_REVERT] Ñïîñîáíûé ãîðîæàíèí çàêîí÷èò îáó÷åíèå â [COLOR_FONT_CREAM]%s3_building[COLOR_REVERT] ÷åðåç %d1_Num [NUM1:õîä:õîäà].</French>
 		<German>Gouverneur, in %d1 [NUM1:Runde:Runden] wird ein strebsamer B&#252;rger an der %s3_building in %s2_city seine Ausbildung beenden.</German>
 		<Italian>A student will finish his training at the %s3_building of %s2_city in %d1_Num [NUM1:turn:turns].</Italian>
 		<Spanish>A student will finish his training at the %s3_building of %s2_city in %d1_Num [NUM1:turn:turns].</Spanish>
@@ -1716,7 +1711,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LBD_EXPERT</Tag>
 		<English>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s1_expert[COLOR_REVERT].</English>
-		<French>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s1_expert[COLOR_REVERT].</French>
+		<French>Ñâîáîäíûé êîëîíèñò, êîòîðûé äîëãîå âðåìÿ ðàáîòàë ïî ñâîåé ïðîôåññèè, òåïåðü ïîëó÷èë äîñòàòî÷íî çíàíèé, ÷òîáû ñ÷èòàòüñÿ [COLOR_UNIT_TEXT]%s1_expert[COLOR_REVERT].</French>
 		<German>[COLOR_POSITIVE_TEXT]Ein Freier Kolonist, der lange in seinem Beruf gearbeitet hat, hat nun genug Wissen erlangt, um als %s1_expert zu gelten.[COLOR_REVERT]</German>
 		<Italian>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s1_expert.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s1_expert.[COLOR_REVERT]</Spanish>
@@ -1724,7 +1719,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LBD_EXPERT_IN_CITY</Tag>
 		<English>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s2_expert.[COLOR_REVERT]</English>
-		<French>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s2_expert.[COLOR_REVERT]</French>
+		<French>[COLOR_POSITIVE_TEXT]%s1_city : [COLOR_REVERT]Ñâîáîäíûé êîëîíèñò, äîëãî òðóäèâøèéñÿ ïî ñâîåé ïðîôåññèè, òåïåðü ïîëó÷èë äîñòàòî÷íî çíàíèé, ÷òîáû ñòàòü [COLOR_UNIT_TEXT]%s2_expert[COLOR_REVERT].</French>
 		<German>[COLOR_POSITIVE_TEXT]Ein Freier Kolonist in %s1_city, der lange in seinem Beruf gearbeitet hat, hat nun genug Wissen erlangt, um als %s2_expert zu gelten.[COLOR_REVERT]</German>
 		<Italian>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s2_expert.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_POSITIVE_TEXT]A settler has been promoted to %s2_expert.[COLOR_REVERT]</Spanish>
@@ -1732,7 +1727,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LBD_FREE</Tag>
 		<English>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</English>
-		<French>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</French>
+		<French>Íåñâîáîäíûé êîëîíèñò òÿæåëûì òðóäîì çàðàáîòàë ñåáå [COLOR_POSITIVE_TEXT]ñâîáîäó[COLOR_REVERT].</French>
 		<German>[COLOR_POSITIVE_TEXT]Ein Unfreier hat sich durch harte Arbeit seine Freiheit verdient.[COLOR_REVERT]</German>
 		<Italian>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</Spanish>
@@ -1740,7 +1735,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LBD_FREE_IN_CITY</Tag>
 		<English>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</English>
-		<French>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</French>
+		<French>[COLOR_POSITIVE_TEXT]%s1_city : [COLOR_REVERT]Íåñâîáîäíûé êîëîíèñò äîáèëñÿ îñâîáîæäåíèÿ ñâîèì óïîðíûì òðóäîì.</French>
 		<German>[COLOR_POSITIVE_TEXT]Ein Unfreier in %s1_city hat sich durch harte Arbeit seine Freiheit verdient.[COLOR_REVERT]</German>
 		<Italian>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_POSITIVE_TEXT]An unfree colonist has become free.[COLOR_REVERT]</Spanish>
@@ -1748,7 +1743,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LBD_ESCAPE</Tag>
 		<English>[COLOR_WARNING_TEXT]An unfree Colonist has fled from %s1_city.[COLOR_REVERT]</English>
-		<French>[COLOR_WARNING_TEXT]An unfree Colonist has fled from %s1_city.[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Íåñâîáîäíûé êîëîíèñò ñáåæàë èç êîëîíèè! Ñðî÷íî ñîáðàòü ïîèñêîâóþ ïàðòèþ, îí íå ìîã äàëåêî óéòè!</French>
 		<German>[COLOR_WARNING_TEXT]Ein Unfreier in %s1_city ist verschwunden. Man vermutet, dass er in die Wildnis geflohen ist.[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]An unfree Colonist has fled from %s1_city.[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]An unfree Colonist has fled from %s1_city.[COLOR_REVERT]</Spanish>
@@ -1756,7 +1751,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MAX_WORKERS</Tag>
 		<English>[ICON_BULLET]Offers %d1_Num [NUM1:job:jobs]</English>
-		<French>[ICON_BULLET]Offers %d1_Num [NUM1:job:jobs]</French>
+		<French>[ICON_BULLET]ÏÐÅÄËÀÃÀÅÒ %d1_Num [NUM1:ðàá.ìåñòî:ðàá.ìåñò]</French>
 		<German>[ICON_BULLET]Bietet %d1_Num [NUM1:Arbeitsplatz:Arbeitspl&#228;tze]</German>
 		<Italian>[ICON_BULLET]Offers %d1_Num [NUM1:job:jobs]</Italian>
 		<Spanish>[ICON_BULLET]Offers %d1_Num [NUM1:job:jobs]</Spanish>
@@ -1764,7 +1759,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MAX_WORKERS2</Tag>
 		<English>%d1_Num [NUM1:job:jobs]</English>
-		<French>%d1_Num [NUM1:job:jobs]</French>
+		<French>%d1_Num [NUM1:ðàá.ìåñòî:ðàá.ìåñòà]</French>
 		<German>%d1_Num [NUM1:Arbeitsplatz:Arbeitspl&#228;tze]</German>
 		<Italian>%d1_Num [NUM1:job:jobs]</Italian>
 		<Spanish>%d1_Num [NUM1:job:jobs]</Spanish>
@@ -1772,7 +1767,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMPETITIOR_INDEPENDENCE_WAR</Tag>
 		<English>The %s1_civ_adjective colonies have declared war on their king. They will fight for their rights and their freedom.</English>
-		<French>The %s1_civ_adjective colonies have declared war on their king. They will fight for their rights and their freedom.</French>
+		<French>Ñîîáùåñòâî íàðîäîâ ìèðà çàòàèëî äûõàíèå: [COLOR_HIGHLIGHT_TEXT]%s1:2_civ_adjective[COLOR_REVERT] êîëîíèè âîññòàëè ïðîòèâ ñâîåãî êîðîëÿ. Îíè áîëüøå íå õîòÿò æèòü ïîä ïÿòîé ýòîãî òèðàíà.</French>
 		<German>Die Gemeinschaft der V&#246;lker dieser Welt h&#228;lt den Atem an: Die %s1:2_civ_adjective Kolonien haben sich gegen ihren K&#246;nig erhoben. Sie wollen sich nicht l&#228;nger der Knute eines Tyrannen beugen.</German>
 		<Italian>The %s1_civ_adjective colonies have declared war on their king. They will fight for their rights and their freedom.</Italian>
 		<Spanish>The %s1_civ_adjective colonies have declared war on their king. They will fight for their rights and their freedom.</Spanish>
@@ -1780,7 +1775,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_SCHOOL_BUILDING_NEEDED</Tag>
 		<English>[ICON_BULLET]Can be trained in [COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT]</English>
-		<French>[ICON_BULLET]Can be trained in [COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT]</French>
+		<French>[ICON_BULLET]Ìîæíî îáó÷èòü â [COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT] èëè â åãî óëó÷øåíèè</French>
 		<German>[ICON_BULLET]Ausbildung m&#246;glich in [COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET]Can be trained in [COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET]Can be trained in [COLOR_BUILDING_TEXT][LINK=literal]%s1_building[\LINK][COLOR_REVERT]</Spanish>
@@ -1788,7 +1783,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AIONLY</Tag>
 		<English>[ICON_BULLET][COLOR_WARNING_TEXT]AI Unit only[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_WARNING_TEXT]AI Unit only[COLOR_REVERT]</French>
+		<French>[ICON_BULLET][COLOR_WARNING_TEXT]Äîñòóïíî òîëüêî êîëîíèàëüíûì äåðæàâàì ÈÈ[COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_WARNING_TEXT]Steht nur vom Computer gesteuerten Kolonialm&#228;chten zur Verf&#252;gung[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_WARNING_TEXT]AI Unit only[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_WARNING_TEXT]AI Unit only[COLOR_REVERT]</Spanish>
@@ -1796,7 +1791,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_LBD</Tag>
 		<English>[ICON_BULLET]Can become an expert through hard work</English>
-		<French>[ICON_BULLET]Can become an expert through hard work</French>
+		<French>[ICON_BULLET]Ìîæåò ñòàòü ýêñïåðòîì áëàãîäàðÿ óïîðíîìó òðóäó</French>
 		<German>[ICON_BULLET]Kann durch harte Arbeit zum Experten werden</German>
 		<Italian>[ICON_BULLET]Can become an expert through hard work</Italian>
 		<Spanish>[ICON_BULLET]Can become an expert through hard work</Spanish>
@@ -1804,7 +1799,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_FREE</Tag>
 		<English>[ICON_BULLET]Can become a free colonist through hard work</English>
-		<French>[ICON_BULLET]Can become a free colonist through hard work</French>
+		<French>[ICON_BULLET]Ìîæåò ñòàòü ñâîáîäíûì êîëîíèñòîì áëàãîäàðÿ óïîðíîìó òðóäó</French>
 		<German>[ICON_BULLET]Kann durch harte Arbeit zum Freien Kolonisten werden</German>
 		<Italian>[ICON_BULLET]Can become a free colonist through hard work</Italian>
 		<Spanish>[ICON_BULLET]Can become a free colonist through hard work</Spanish>
@@ -1812,7 +1807,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ESCAPE</Tag>
 		<English>[ICON_BULLET]Can flee</English>
-		<French>[ICON_BULLET]Can flee</French>
+		<French>[ICON_BULLET]Ìîæåò ñîâåðøèòü ïîáåã, ÷òîáû èçáåæàòü ñâîåé ó÷àñòè</French>
 		<German>[ICON_BULLET]Kann fliehen, um sich seinem Schicksal zu entziehen</German>
 		<Italian>[ICON_BULLET]Can flee</Italian>
 		<Spanish>[ICON_BULLET]Can flee</Spanish>
@@ -1820,7 +1815,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROF_LBD1</Tag>
 		<English>[ICON_BULLET]Can become an expert through hard work after some time</English>
-		<French>[ICON_BULLET]Can become an expert through hard work after some time</French>
+		<French>[ICON_BULLET]×åðåç íåêîòîðîå âðåìÿ Ñâîáîäíûé êîëîíèñò ìîæåò ñòàòü ýêñïåðòîì â ýòîé ïðîôåññèè.</French>
 		<German>[ICON_BULLET]Ein Freier Kolonist kann nach einiger Zeit zum Experten in diesem Beruf werden</German>
 		<Italian>[ICON_BULLET]Can become an expert through hard work after some time</Italian>
 		<Spanish>[ICON_BULLET]Can become an expert through hard work after some time</Spanish>
@@ -1828,7 +1823,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROF_LBD2</Tag>
 		<English>[ICON_BULLET]Can become an expert through hard work after a long time</English>
-		<French>[ICON_BULLET]Can become an expert through hard work after a long time</French>
+		<French>[ICON_BULLET]Ñâîáîäíûé êîëîíèñò ìîæåò ñòàòü ýêñïåðòîì â ýòîé ïðîôåññèè ñïóñòÿ äîëãîå âðåìÿ.</French>
 		<German>[ICON_BULLET]Ein Freier Kolonist kann nach langer Zeit zum Experten in diesem Beruf werden</German>
 		<Italian>[ICON_BULLET]Can become an expert through hard work after a long time</Italian>
 		<Spanish>[ICON_BULLET]Can become an expert through hard work after a long time</Spanish>
@@ -1836,7 +1831,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROF_LBD3</Tag>
 		<English>[ICON_BULLET]Can become an expert through hard work after a very long time</English>
-		<French>[ICON_BULLET]Can become an expert through hard work after a very long time</French>
+		<French>[ICON_BULLET]Ñâîáîäíûé êîëîíèñò ìîæåò ñòàòü ýêñïåðòîì â ñâîåé ïðîôåññèè ñïóñòÿ î÷åíü äîëãîå âðåìÿ</French>
 		<German>[ICON_BULLET]Ein Freier Kolonist kann nach sehr langer Zeit zum Experten in diesem Beruf werden</German>
 		<Italian>[ICON_BULLET]Can become an expert through hard work after very long time</Italian>
 		<Spanish>[ICON_BULLET]Can become an expert through hard work after very long time</Spanish>
@@ -1844,7 +1839,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAPTURED_AFTER_FIGHT</Tag>
 		<English>An enemy %s1_unit was captured after a fight.</English>
-		<French>An enemy %s1_unit was captured after a fight.</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Íàì óäàëîñü ñîêðóøèòü è çàõâàòèòü âðàæåñêèé [COLOR_WARNING_TEXT]%s1_unit[COLOR_REVERT]!</French>
 		<German>Gouverneur, wir haben einen feindlichen %s1_unit &#252;berw&#228;ltigen und gefangennehmen k&#246;nnen.</German>
 		<Italian>An enemy %s1_unit was captured after a fight.</Italian>
 		<Spanish>An enemy %s1_unit was captured after a fight.</Spanish>
@@ -1852,7 +1847,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISC_YOU_UNIT_CAPTURED_ENEMY_SHIP</Tag>
 		<English>An enemy unit was captured after fight.</English>
-		<French>An enemy unit was captured after fight.</French>
+		<French>[COLOR_POSITIVE_TEXT]Ïîáåäà, Ìèëîðä! [COLOR_REVERT]Ê òîìó æå, íàì óäàëîñü çàõâàòèòü âðàæåñêèé [COLOR_WARNING_TEXT]êîðàáëü[COLOR_REVERT]!</French>
 		<German>Gouverneur, wir konnten ein feindliches Schiff kapern.</German>
 		<Italian>An enemy unit was captured after fight.</Italian>
 		<Spanish>An enemy unit was captured after fight.</Spanish>
@@ -1860,7 +1855,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_YIELD_COCOA</Tag>
 		<English>Cocoa</English>
-		<French>Cocoa</French>
+		<French>Êàêàî</French>
 		<German>Kakao</German>
 		<Italian>Cocoa</Italian>
 		<Spanish>Cocoa</Spanish>
@@ -1868,7 +1863,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_COCOA</Tag>
 		<English>Cocoa</English>
-		<French>Cocoa</French>
+		<French>Êàêàî</French>
 		<German>Kakao</German>
 		<Italian>Cocoa</Italian>
 		<Spanish>Cocoa</Spanish>
@@ -1876,7 +1871,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_COCOA</Tag>
 		<English>Cocoa Trees</English>
-		<French>Cocoa Trees</French>
+		<French>Êàêàî äåðåâüÿ</French>
 		<German>Kakaob&#228;ume</German>
 		<Italian>Cacao</Italian>
 		<Spanish>Cacao</Spanish>
@@ -1912,7 +1907,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_COCOA_PLANTER</Tag>
 		<English>Expert Cocoa Planter:Expert Cocoa Planters</English>
-		<French>Expert Cocoa Planter:Expert Cocoa Planters</French>
+		<French>Îïûòíûé ïëàíòàòîð êàêàî:Îïûòíûå ïëàíòàòîðû êàêàî</French>
 		<German>Erfahrener Kakaopfl&#252;cker:Erfahrene Kakaopfl&#252;cker</German>
 		<Italian>Expert Cocoa Planter:Expert Cocoa Planters</Italian>
 		<Spanish>Expert Cocoa Planter:Expert Cocoa Planters</Spanish>
@@ -1920,7 +1915,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_TORNADO</Tag>
 		<English>Tornado</English>
-		<French>Tornado</French>
+		<French>Òîðíàäî</French>
 		<German>Tornado</German>
 		<Italian>Tornado</Italian>
 		<Spanish>Tornado</Spanish>
@@ -1936,7 +1931,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_NO_MORE_RESPAWN</Tag>
 		<English>Player %s1_player has withdrawn from the new world.</English>
-		<French>Player %s1_player has withdrawn from the new world.</French>
+		<French>Íåäàâíî óäà÷à íà ïîëå áîÿ ïîêèíóëà [COLOR_HIGHLIGHT_TEXT]%s1_player[COLOR_REVERT]! À òåïåðü îíè ïîòåðÿëè áëàãîñêëîííîñòü ñâîåãî Êîðîëÿ, êîòîðîìó íàäîåëî áûòü ïîñìåøèùåì âñåãî ìèðà. Åãî Âåëè÷åñòâî ñîèçâîëèò ïðèêàçàòü âñåì èññëåäîâàòåëÿì, ñîëäàòàì è êîëîíèñòàì Íîâîãî Ñâåòà âåðíóòüñÿ â Åâðîïó.</French>
 		<German>Zun&#228;chst hat %s1_player das Schlachtengl&#252;ck verlassen - und nun verliert er auch noch die Gunst seines K&#246;nigs, der es leid ist, zum Gesp&#246;tt der ganzen Welt zu werden. Majest&#228;t geruhen, alle Entdecker, Soldaten und Kolonisten aus der Neuen Welt zur&#252;ck nach Europa zu beordern.</German>
 		<Italian>Player %s1_player has withdrawn from the new world.</Italian>
 		<Spanish>Player %s1_player has withdrawn from the new world.</Spanish>
@@ -1977,14 +1972,14 @@
 		<Tag>TXT_KEY_WORLDBUILDER_TAC_EAST_COAST_DESC</Tag>
 		<English>Huge TAC-map of the East Coast of North America. Technically defined as a small map so that there will be only settlements of the four North American native tribes. From Newfoundland to Florida, from the Great Lakes to the Atlantic.</English>
 		<French>Huge TAC-map of the East Coast of North America. Technically defined as a small map so that there will be only settlements of the four North American native tribes. From Newfoundland to Florida, from the Great Lakes to the Atlantic.</French>
-		<German>Riesige TAC-Karte der Ostk&#252;ste Nordamerikas. Technisch als &#34;kleine&#34; Karte ausgewiesen, damit sie nur von den vier Indianerst&#228;mmen des Nordens besiedelt ist. Von Neufundland bis Florida, von den Gro&#223;en Seen bis zur Atlantikk&#252;ste.</German>
+		<German>Riesige TAC-Karte der Ostk&#252;ste Nordamerikas. Technisch als "kleine" Karte ausgewiesen, damit sie nur von den vier Indianerst&#228;mmen des Nordens besiedelt ist. Von Neufundland bis Florida, von den Gro&#223;en Seen bis zur Atlantikk&#252;ste.</German>
 		<Italian>Huge TAC-map of the East Coast of North America. Technically defined as a small map so that there will be only settlements of the four North American native tribes. From Newfoundland to Florida, from the Great Lakes to the Atlantic.</Italian>
 		<Spanish>Huge TAC-map of the East Coast of North America. Technically defined as a small map so that there will be only settlements of the four North American native tribes. From Newfoundland to Florida, from the Great Lakes to the Atlantic.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NATIVE_MERC</Tag>
 		<English>Native Mercenary:Native Mercenaries</English>
-		<French>Native Mercenary:Native Mercenaries</French>
+		<French>Èíäåéñêèé íàåìíèê:Èíäåéñêèå íàåìíèêè</French>
 		<German>Indianischer S&#246;ldner:Indianische S&#246;ldner</German>
 		<Italian>Native Mercenary:Native Mercenaries</Italian>
 		<Spanish>Native Mercenary:Native Mercenaries</Spanish>
@@ -1992,7 +1987,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_NATIVE_MERC</Tag>
 		<English>You have acquired native mercenaries.</English>
-		<French>You have acquired native mercenaries.</French>
+		<French>Ìèëîðä, ìû ïðèîáðåëè [COLOR_UNIT_TEXT]Èíäåéñêèõ íàåìíèêîâ[COLOR_REVERT].</French>
 		<German>Gouverneur, unsere einheimischen S&#246;ldner stehen bereit.</German>
 		<Italian>You have acquired native mercenaries.</Italian>
 		<Spanish>You have acquired native mercenaries.</Spanish>
@@ -2000,7 +1995,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_REV_SUPPORT_ARRIVED</Tag>
 		<English>The support troops of %s1_king have arrived.</English>
-		<French>The support troops of %s1_king have arrived.</French>
+		<French>Ìèëîðä, ïîäêðåïëåíèå èç âîéñê, îòïðàâëåííîå [COLOR_HIGHLIGHT_TEXT]%s1_king[COLOR_REVERT], äîñòèãëî êîëîíèé.</French>
 		<German>Die Unterst&#252;tzungstruppen des %s1_king sind eingetroffen.</German>
 		<Italian>The support troops of %s1_king have arrived.</Italian>
 		<Spanish>The support troops of %s1_king have arrived.</Spanish>
@@ -2008,7 +2003,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_WAR_KING_DECREASED_MAX_TAX</Tag>
 		<English>The King is pleased and decreased our maximal tax rate.</English>
-		<French>The King is pleased and decreased our maximal tax rate.</French>
+		<French>Äîâîëüíûé íàøåé ïîêîðíîñòüþ, Åãî Âåëè÷åñòâî ìèëîñòëèâî ñíèçèë ìàêñèìàëüíóþ ñòàâêó íàëîãà íà %d1_decrease.</French>
 		<German>Erfreut &#252;ber unseren Gehorsam hat der K&#246;nig den maximalen Steuersatz um %d1_decrease gesenkt.</German>
 		<Italian>The King is pleased and decreased our maximal tax rate</Italian>
 		<Spanish>The King is pleased and decreased our maximal tax rate</Spanish>
@@ -2016,7 +2011,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_WAR_KING_SENT_TROOPS</Tag>
 		<English>The reinforcement troops of our king have arrived.</English>
-		<French>The reinforcement troops of our king have arrived.</French>
+		<French>Ìèëîðä, âîéñêà, îòïðàâëåííûå Åãî Âåëè÷åñòâîì íàì íà ïîäìîãó, ïðèáûëè. Äî íàñ äîøëè ñëóõè, ÷òî êîðîëü âàøåãî âðàãà òîæå ïðèñëàë ïîäêðåïëåíèå.</French>
 		<German>Die Unterst&#252;tzungstruppen unseres K&#246;nigs sind eingetroffen.</German>
 		<Italian>The reinforcement troops of our king have arrived.</Italian>
 		<Spanish>The reinforcement troops of our king have arrived.</Spanish>
@@ -2024,7 +2019,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_WAR_KING_INCCREASED_MAX_TAX</Tag>
 		<English>The King is angry and has increased our maximal tax rate.</English>
-		<French>The King is angry and has increased our maximal tax rate.</French>
+		<French>Ðàçãíåâàííûé âàøèì íåïîâèíîâåíèåì, Åãî Âåëè÷åñòâî ïîâûñèë ñòàâêó íàëîãà íà %d1_increase.[NEWLINE]Îäíàêî, íàøè îòíîøåíèÿ ñ [COLOR_HIGHLIGHT_TEXT]%s2_nation[COLOR_REVERT] óëó÷øèëèñü.</French>
 		<German>Ver&#228;rgert &#252;ber unseren Ungehorsam hat der K&#246;nig unseren maximalen Steuersatz um %d1_increase erh&#246;ht.[NEWLINE]Unsere Beziehung zu %s2_nation hat sich jedoch verbessert.</German>
 		<Italian>The King is angry and increased our maximal tax rate.</Italian>
 		<Spanish>The King is angry and increased our maximal tax rate.</Spanish>
@@ -2032,7 +2027,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAKE_PEACE_AFTER_ACQUIRE_CITY</Tag>
 		<English>There is peace again.</English>
-		<French>There is peace again.</French>
+		<French>Óáåäèâøèñü â íàøèõ äîáðûõ íàìåðåíèÿõ, [COLOR_HIGHLIGHT_TEXT]%s1_player[COLOR_REVERT] çàêîïàë òîïîð âîéíû.</French>
 		<German>Durch unsere Entsch&#228;digung von unseren guten Absichten &#252;berzeugt, hat %s1_Player das Kriegsbeil wieder begraben.</German>
 		<Italian>It is peace again.</Italian>
 		<Spanish>It is peace again.</Spanish>
@@ -2116,7 +2111,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_WHALING</Tag>
 		<English>Whaling</English>
-		<French>Whaling</French>
+		<French>Îõîòà íà êèòà</French>
 		<German>Waljagd</German>
 		<Italian>Whaling</Italian>
 		<Spanish>Whaling</Spanish>
@@ -2124,7 +2119,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_WHALING_HELP</Tag>
 		<English>Will gather blubber from whales until the ship is full</English>
-		<French>Will gather blubber from whales until the ship is full</French>
+		<French>Ïðîìûøëÿòü êèòà äî ïîëíîãî çàïîëíåíèÿ òðþìîâ êèòîâûì æèðîì</French>
 		<German>Schiff jagt Wale, bis der Frachtraum voller Walspeck ist</German>
 		<Italian>Will gather blubber from whales until the ship is full</Italian>
 		<Spanish>Will gather blubber from whales until the ship is full</Spanish>
@@ -2132,7 +2127,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_WHALING_UNLOAD</Tag>
 		<English>Automate Whaling</English>
-		<French>Automate Whaling</French>
+		<French>Êèòîáîè ñàìè áóäóò èñêàòü êèòîâ äëÿ îõîòû</French>
 		<German>Schiff jagt Wale automatisch</German>
 		<Italian>Automate Whaling</Italian>
 		<Spanish>Automate Whaling</Spanish>
@@ -2148,7 +2143,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_AUTOMATE_FISHINGBOAT</Tag>
 		<English>Automate Gatherboat</English>
-		<French>Automate Gatherboat</French>
+		<French>Àâòîìàòèçèðîâàòü ëîâëþ</French>
 		<German>Fang automatisieren</German>
 		<Italian>Automatizza i peschereccio</Italian>
 		<Spanish>Automatizar barco pesquero</Spanish>
@@ -2164,7 +2159,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_WHALER_UNLOAD</Tag>
 		<English>Your %s1_unit has unloaded its cargo and is ready for another voyage.</English>
-		<French>Your %s1_unit has unloaded its cargo and is ready for another voyage.</French>
+		<French>Ìèëîðä, íàø êèòîáîé [COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT] âûãðóçèë ñâîé ãðóç è ãîòîâ ê ñëåäóþùåìó âûõîäó â ìîðå.</French>
 		<German>Euer Schiff %s1_unit hat allen Walspeck entladen und ist wieder bereit auszulaufen.</German>
 		<Italian>Your %s1_unit has unloaded its cargo and is ready for another fishing venture.</Italian>
 		<Spanish>Your %s1_unit has unloaded its cargo and is ready for another fishing venture.</Spanish>
@@ -2172,7 +2167,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_WHALER_HELP</Tag>
 		<English>(%s1_symbol_list per turn)</English>
-		<French>(%s1_symbol_list per turn)</French>
+		<French>(%s1_symbol_list çà õîä)</French>
 		<German>(%s1_symbol_list pro Runde)</German>
 		<Italian>(%s1_symbol_list per turno)</Italian>
 		<Spanish>(%s1_symbol_list por turno)</Spanish>
@@ -2180,7 +2175,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_WHALER_FULL</Tag>
 		<English>Your %s1_unit is filled to the brim with food from the sea.</English>
-		<French>Your %s1_unit is filled to the brim with food from the sea.</French>
+		<French>Ìèëîðä, íàøå êèòîáîéíîå ñóäíî [COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT] çàïîëíåíî äîáû÷åé äî îòêàçà.</French>
 		<German>Das Schiff %s1_unit hat jetzt so viel Walspeck an Bord, wie es fassen kann.</German>
 		<Italian>Il vostro %s1_unit &#232; riempito al bordo con il cibo dal mare.</Italian>
 		<Spanish>Su %s1_unit est&#225; llena hasta el tope con los alimentos del mar.</Spanish>
@@ -2188,7 +2183,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_WHALER_FULL_UNLOAD</Tag>
 		<English>Your %s1_unit is filled to the brim with food from the sea and is returning to %s2_city to unload.</English>
-		<French>Your %s1_unit is filled to the brim with food from the sea and is returning to %s2_city to unload.</French>
+		<French>Ìèëîðä, íàø êèòîáîé [COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT] äî êðàåâ çàïîëíåí êèòîâûì æèðîì è âîçâðàùàåòñÿ â [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT] äëÿ ðàçãðóçêè.</French>
 		<German>Das Schiff %s1_unit hat jetzt so viel Walspeck an Bord, wie es fassen kann.</German>
 		<Italian>Il vostro %s1_unit &#232; riempito al bordo con il cibo dal mare.</Italian>
 		<Spanish>Su %s1_unit est&#225; llena hasta el tope con los alimentos del mar.</Spanish>
@@ -2196,7 +2191,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_SELECT_RETURN_CITY</Tag>
 		<English>Select a City for your %s1_unit to return when cargo hold is full</English>
-		<French>Select a City for your %s1_unit to return when cargo hold is full</French>
+		<French>Ìèëîðä, âûáåðèòå ãîðîä, â êîòîðûé [COLOR_UNIT_TEXT]%s1_unit[COLOR_REVERT] äîëæåí áóäåò âåðíóòüñÿ, êîãäà òðþìû áóäóò ïîëíû äîáû÷è.</French>
 		<German>Gouverneur, w&#228;hlt eine K&#252;stenstadt aus, zu der das Schiff %s1_unit fahren soll, wenn sein Frachtraum voll ist!</German>
 		<Italian>Select a City for your %s1_unit to return when cargo hold is full</Italian>
 		<Spanish>Select a City for your %s1_unit to return when cargo hold is full</Spanish>
@@ -2204,7 +2199,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_CANNOT_WHALE_CITY_RADIUS</Tag>
 		<English>[COLOR_PLAYER_RED]Must be outside City radius[COLOR_REVERT]</English>
-		<French>[COLOR_PLAYER_RED]Must be outside City radius[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]Äîëæåí áûòü çà ïðåäåëàìè ãîðîäà[COLOR_REVERT]</French>
 		<German>[COLOR_PLAYER_RED]Muss au&#223;erhalb des Stadtradius liegen[COLOR_REVERT]</German>
 		<Italian>[COLOR_PLAYER_RED]Must be outside City radius[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_PLAYER_RED]Must be outside City radius[COLOR_REVERT]</Spanish>
@@ -2212,7 +2207,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_CANNOT_WHALE_CITY_RADIUS_PLOT_WORKED</Tag>
 		<English>[COLOR_PLAYER_RED]This spot is already being worked by the neighboring city[COLOR_REVERT]</English>
-		<French>[COLOR_PLAYER_RED]This spot is already being worked by the neighboring city[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]Ýòî ìåñòî óæå çàíÿòî ðàáîòíèêîì èç ñîñåäíåãî ãîðîäà[COLOR_REVERT]</French>
 		<German>[COLOR_PLAYER_RED]Dieser Platz wird bereits durch eine Stadt bewirtschaftet[COLOR_REVERT]</German>
 		<Italian>[COLOR_PLAYER_RED]This spot is already being worked by the neighboring city[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_PLAYER_RED]This spot is already being worked by the neighboring city[COLOR_REVERT]</Spanish>
@@ -2220,7 +2215,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_CANNOT_WHALE_NO_FISH</Tag>
 		<English>[COLOR_PLAYER_RED]Whale bonus is required[COLOR_REVERT]</English>
-		<French>[COLOR_PLAYER_RED]Whale bonus is required[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]Òðåáóåòñÿ áîíóñíûé ðåñóðñ êèòû[COLOR_REVERT]</French>
 		<German>[COLOR_PLAYER_RED]Walvorkommen wird ben&#246;tigt[COLOR_REVERT]</German>
 		<Italian>[COLOR_PLAYER_RED]Whale bonus is required[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_PLAYER_RED]Whale bonus is required[COLOR_REVERT]</Spanish>
@@ -2228,7 +2223,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_CANNOT_WHALE_NEEDS_WHALER</Tag>
 		<English>[COLOR_PLAYER_RED]Whaling ship required to gather resource[COLOR_REVERT]</English>
-		<French>[COLOR_PLAYER_RED]Whaling ship required to gather resource[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]Äëÿ ñáîðà ðåñóðñà òðåáóåòñÿ êèòîáîéíîå ñóäíî[COLOR_REVERT]</French>
 		<German>[COLOR_PLAYER_RED]Walf&#228;nger wird ben&#246;tigt[COLOR_REVERT]</German>
 		<Italian>[COLOR_PLAYER_RED]Whaling ship required to gather resource[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_PLAYER_RED]Whaling ship required to gather resource[COLOR_REVERT]</Spanish>
@@ -2236,7 +2231,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_CANNOT_WHALE_FULL</Tag>
 		<English>[COLOR_PLAYER_RED]No more room in cargo for food[COLOR_REVERT]</English>
-		<French>[COLOR_PLAYER_RED]No more room in cargo for food[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]Â ãðóçîâîì îòñåêå áîëüøå íåò ìåñòà äëÿ æèðà[COLOR_REVERT]</French>
 		<German>[COLOR_PLAYER_RED]La soute est pleine ![COLOR_REVERT]</German>
 		<Italian>[COLOR_PLAYER_RED]No more room in cargo for food[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_PLAYER_RED]No more room in cargo for food[COLOR_REVERT]</Spanish>
@@ -2244,7 +2239,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_CANNOT_WHALE_TAKEN</Tag>
 		<English>[COLOR_PLAYER_RED]This spot is taken, only one Fishing Ship per resource[COLOR_REVERT]</English>
-		<French>[COLOR_PLAYER_RED]This spot is taken, only one Fishing Ship per resource[COLOR_REVERT]</French>
+		<French>[COLOR_WARNING_TEXT]Çäåñü óæå ïðîìûøëÿåò äðóãîé êèòîáîé. Òîëüêî îäèí êîðàáëü ìîæåò çàíèìàòüñÿ äîáû÷åé íà êëåòêå ñ ðåñóðñîì![COLOR_REVERT]</French>
 		<German>[COLOR_PLAYER_RED]Hier geht bereits ein anderes Schiff auf die Waljagd![COLOR_REVERT]</German>
 		<Italian>[COLOR_PLAYER_RED]This spot is taken, only one Fishing Ship per resource[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_PLAYER_RED]This spot is taken, only one Fishing Ship per resource[COLOR_REVERT]</Spanish>
@@ -2332,7 +2327,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_WHALE_OIL_COOKER</Tag>
 		<English>Master Train Oil Cooker:Master Train Oil Cookers</English>
-		<French>Master Train Oil Cooker:Master Train Oil Cookers</French>
+		<French>Ìàñòåð âûòîïêè âîðâàíè:Ìàñòåðà âûòîïêè âîðâàíè</French>
 		<German>Meistertrankocher:Meistertrankocher</German>
 		<Italian>Master Train Oil Cooker:Master Train Oil Cookers</Italian>
 		<Spanish>Master Train Oil Cooker:Master Train Oil Cookers</Spanish>
@@ -2340,7 +2335,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GATHER_BOAT_WHALING</Tag>
 		<English>[ICON_BULLET]Can gather Whale Fat from sea resource Whale</English>
-		<French>[ICON_BULLET]Can gather Whale Fat from sea resource Whale</French>
+		<French>[ICON_BULLET]Ìîæåò ñîáèðàòü êèòîâûé æèð ñ ìîðñêîãî ðåñóðñà [COLOR_HIGHLIGHT_TEXT]êèòû[COLOR_REVERT]</French>
 		<German>[ICON_BULLET]Kann Walspeck auf Bonusressource Wale gewinnen</German>
 		<Italian>[ICON_BULLET]Can gather Whale Fat from sea resource Whale</Italian>
 		<Spanish>[ICON_BULLET]Can gather Whale Fat from sea resource Whale</Spanish>
@@ -2408,7 +2403,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_NO_RAW_ON_FIELD</Tag>
 		<English>Gouvernor, a Settler in %s1_city cannot produce any %F2_yield_icon on his tile.</English>
-		<French>Gouvernor, a Settler in %s1_city cannot produce any %F2_yield_icon on his tile.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Êîëîíèñò, êîòîðîìó âû ïðèêàçàëè ïðîèçâîäèòü %F2_yield_icon, ñîîáùàåò, ÷òî åìó ñåé÷àñ íå÷åãî äåëàòü.</French>
 		<German>Gouverneur, ein B&#252;rger aus %s1_city, dem Ihr befohlen hattet, %F2_yield_icon einzubringen, meldet, dass er derzeit nichts zu tun hat.</German>
 		<Italian>Gouvernor, a Settler in %s1_city cannot produce any %F2_yield_icon on his tile.</Italian>
 		<Spanish>Gouvernor, a Settler in %s1_city cannot produce any %F2_yield_icon on his tile.</Spanish>
@@ -2432,7 +2427,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_PILGRIM</Tag>
 		<English>Pilgrim (Easiest)</English>
-		<French>&#207;&#232;&#235;&#232;&#227;&#240;&#232;&#236;</French>
+		<French>Ïèëèãðèì (ñàìûé ïðîñòîé)</French>
 		<German>Pilgerer</German>
 		<Italian>Pellegrino (diff. min.)</Italian>
 		<Spanish>Peregrino (m&#225;s f&#225;cil)</Spanish>
@@ -2440,7 +2435,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_REVOLUTIONARY</Tag>
 		<English>Revolutionary (Hardest)</English>
-		<French>&#208;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#238;&#237;&#229;&#240;</French>
+		<French>Ðåâîëþöèîíåð (ñàìûé ñëîæíûé)</French>
 		<German>Revolution&#228;r</German>
 		<Italian>Rivoluzionario (max)</Italian>
 		<Spanish>Revoluc. (m&#225;s dif&#237;cil)</Spanish>
@@ -2448,7 +2443,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_DISTANCE</Tag>
 		<English>Distance to Europe:</English>
-		<French>Distance to Europe:</French>
+		<French>Äèñòàíöèþ äî Åâðîïû</French>
 		<German>Distanz K&#252;ste zu Europa:</German>
 		<Italian>Distance to Europe:</Italian>
 		<Spanish>Distance to Europe:</Spanish>
@@ -2456,7 +2451,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_NORTHERN_BORDER</Tag>
 		<English>Northern border:</English>
-		<French>Northern border:</French>
+		<French>Ñåâåðíóþ ãðàíèöó</French>
 		<German>N&#246;rdliche Grenze</German>
 		<Italian>Northern border:</Italian>
 		<Spanish>Northern border:</Spanish>
@@ -2464,7 +2459,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_SOUTHERN_BORDER</Tag>
 		<English>Southern border:</English>
-		<French>Southern border:</French>
+		<French>Þæíóþ ãðàíèöó</French>
 		<German>S&#252;dliche Grenze:</German>
 		<Italian>Southern border:</Italian>
 		<Spanish>Southern border:</Spanish>
@@ -2472,7 +2467,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_LAND_ALLOCATION</Tag>
 		<English>Land allocation:</English>
-		<French>Land allocation:</French>
+		<French>Ðàñïðåäåëåíèå ñóøè</French>
 		<German>Landverteilung:</German>
 		<Italian>Land allocation:</Italian>
 		<Spanish>Land allocation:</Spanish>
@@ -2480,7 +2475,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_3_FIELDS</Tag>
 		<English>3 fields:</English>
-		<French>3 fields:</French>
+		<French>3 êëåòêè</French>
 		<German>3 Felder:</German>
 		<Italian>3 fields:</Italian>
 		<Spanish>3 fields:</Spanish>
@@ -2488,7 +2483,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_4_FIELDS</Tag>
 		<English>4 fields (default):</English>
-		<French>4 fields (default):</French>
+		<French>4 êëåòêè (ïî óìîë÷àíèþ)</French>
 		<German>4 Felder (Standard):</German>
 		<Italian>4 fields (default):</Italian>
 		<Spanish>4 fields (default):</Spanish>
@@ -2496,7 +2491,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_6_FIELDS</Tag>
 		<English>6 fields:</English>
-		<French>6 fields:</French>
+		<French>6 êëåòîê</French>
 		<German>6 Felder:</German>
 		<Italian>6 fields:</Italian>
 		<Spanish>6 fields:</Spanish>
@@ -2504,7 +2499,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_8_FIELDS</Tag>
 		<English>8 fields:</English>
-		<French>8 fields:</French>
+		<French>8 êëåòîê</French>
 		<German>8 Felder:</German>
 		<Italian>8 fields:</Italian>
 		<Spanish>8 fields:</Spanish>
@@ -2512,7 +2507,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_MANY_ISLES_0</Tag>
 		<English>Few isles (default)</English>
-		<French>Few isles (default)</French>
+		<French>Íåñêîëüêî îñòðîâîâ (ïî óìîë÷àíèþ)</French>
 		<German>Wenige Inseln (Standard)</German>
 		<Italian>Few isles (default)</Italian>
 		<Spanish>Few isles (default)</Spanish>
@@ -2520,7 +2515,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_MANY_ISLES_1</Tag>
 		<English>Many isles</English>
-		<French>Many isles</French>
+		<French>Ìíîãî îñòðîâîâ</French>
 		<German>Viele Inseln</German>
 		<Italian>Many isles</Italian>
 		<Spanish>Many isles</Spanish>
@@ -2528,7 +2523,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_SELECT_NORTHERN_BORDER_0</Tag>
 		<English>Latitude 90 degrees north (default)</English>
-		<French>Latitude 90 degrees north (default)</French>
+		<French>90° ñåâåðíîé øèðîòû (ïî óìîë÷àíèþ)</French>
 		<German>90°N (n&#246;rdliche Breite, Standard)</German>
 		<Italian>Latitude 90 degrees north (default)</Italian>
 		<Spanish>Latitude 90 degrees north (default)</Spanish>
@@ -2536,7 +2531,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_SELECT_NORTHERN_BORDER_1</Tag>
 		<English>Latitude 90 degrees south</English>
-		<French>Latitude 90 degrees south</French>
+		<French>90° þæíîé øèðîòû</French>
 		<German>90°S (s&#252;dliche Breite)</German>
 		<Italian>Latitude 90 degrees south</Italian>
 		<Spanish>Latitude 90 degrees south</Spanish>
@@ -2544,7 +2539,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_SELECT_SOUTHERN_BORDER_0</Tag>
 		<English>Latitude 90 degrees north</English>
-		<French>Latitude 90 degrees north</French>
+		<French>90° ñåâåðíîé øèðîòû</French>
 		<German>90°N (n&#246;rdliche Breite)</German>
 		<Italian>Latitude 90 degrees north</Italian>
 		<Spanish>Latitude 90 degrees north</Spanish>
@@ -2552,7 +2547,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_SELECT_SOUTHERN_BORDER_1</Tag>
 		<English>Latitude 90 degrees south (default)</English>
-		<French>Latitude 90 degrees south (default)</French>
+		<French>90° þæíîé øèðîòû (ïî óìîë÷àíèþ)</French>
 		<German>90°S (s&#252;dliche Breite, Standard)</German>
 		<Italian>Latitude 90 degrees south (default)</Italian>
 		<Spanish>Latitude 90 degrees south (default)</Spanish>
@@ -2560,7 +2555,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_MAP_FAIRE_WEATHER_SELECT_EQUATOR</Tag>
 		<English>0° equator</English>
-		<French>0° equator</French>
+		<French>0° ýêâàòîð</French>
 		<German>0° &#196;quator</German>
 		<Italian>0° equator</Italian>
 		<Spanish>0° equator</Spanish>
@@ -2764,7 +2759,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TIMETEXT_TURN</Tag>
 		<English>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / %d2[NEWLINE][NEWLINE]</English>
-		<French>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / %d2[NEWLINE][NEWLINE]</French>
+		<French>[COLOR_FONT_CREAM]Õîä :[COLOR_REVERT] %d1 / %d2[NEWLINE][NEWLINE]</French>
 		<German>[COLOR_FONT_CREAM]Runde:[COLOR_REVERT] %d1 / %d2[NEWLINE][NEWLINE]</German>
 		<Italian>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / %d2[NEWLINE][NEWLINE]</Italian>
 		<Spanish>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / %d2[NEWLINE][NEWLINE]</Spanish>
@@ -2772,7 +2767,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TIMETEXT_TURN_NO_LIMIT</Tag>
 		<English>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / No Limit[NEWLINE][NEWLINE]</English>
-		<French>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / No Limit[NEWLINE][NEWLINE]</French>
+		<French>[COLOR_FONT_CREAM]Õîä :[COLOR_REVERT] %d1 / Áåç ëèìèòà[NEWLINE][NEWLINE]</French>
 		<German>[COLOR_FONT_CREAM]Runde:[COLOR_REVERT] %d1 / Kein Rundenlimit[NEWLINE][NEWLINE]</German>
 		<Italian>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / No Limit[NEWLINE][NEWLINE]</Italian>
 		<Spanish>[COLOR_FONT_CREAM]Turn:[COLOR_REVERT] %d1 / No Limit[NEWLINE][NEWLINE]</Spanish>
@@ -2780,7 +2775,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TIMETEXT_IMMIGRATION_TITLE</Tag>
 		<English>[COLOR_FONT_CREAM]Immigration:[COLOR_REVERT][NEWLINE]</English>
-		<French>[COLOR_FONT_CREAM]Immigration:[COLOR_REVERT][NEWLINE]</French>
+		<French>[COLOR_FONT_CREAM]Ýìèãðàöèÿ :[COLOR_REVERT][NEWLINE]</French>
 		<German>[COLOR_FONT_CREAM]Einwanderung:[COLOR_REVERT][NEWLINE]</German>
 		<Italian>[COLOR_FONT_CREAM]Immigration:[COLOR_REVERT][NEWLINE]</Italian>
 		<Spanish>[COLOR_FONT_CREAM]Immigration:[COLOR_REVERT][NEWLINE]</Spanish>
@@ -2796,7 +2791,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TIMETEXT_REBELS_TITLE</Tag>
 		<English>[COLOR_FONT_CREAM]Rebel percent:[COLOR_REVERT][NEWLINE]</English>
-		<French>[COLOR_FONT_CREAM]Rebel percent:[COLOR_REVERT][NEWLINE]</French>
+		<French>[COLOR_FONT_CREAM]Ïðîöåíò ìÿòåæíèêîâ :[COLOR_REVERT][NEWLINE]</French>
 		<German>[COLOR_FONT_CREAM]Rebellische Stimmung:[COLOR_REVERT][NEWLINE]</German>
 		<Italian>[COLOR_FONT_CREAM]Rebel percent:[COLOR_REVERT][NEWLINE]</Italian>
 		<Spanish>[COLOR_FONT_CREAM]Rebel percent:[COLOR_REVERT][NEWLINE]</Spanish>
@@ -2812,7 +2807,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TIMETEXT_GENERALS_TITLE</Tag>
 		<English>[COLOR_FONT_CREAM]Great General:[COLOR_REVERT][NEWLINE]</English>
-		<French>[COLOR_FONT_CREAM]Great General:[COLOR_REVERT][NEWLINE]</French>
+		<French>[COLOR_FONT_CREAM]Âåëèêèé Ãåíåðàë :[COLOR_REVERT][NEWLINE]</French>
 		<German>[COLOR_FONT_CREAM]Gro&#223;er General:[COLOR_REVERT][NEWLINE]</German>
 		<Italian>[COLOR_FONT_CREAM]Great General:[COLOR_REVERT][NEWLINE]</Italian>
 		<Spanish>[COLOR_FONT_CREAM]Great General:[COLOR_REVERT][NEWLINE]</Spanish>
@@ -2844,7 +2839,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TIMETEXT_CLOCK</Tag>
 		<English>[NEWLINE][NEWLINE][COLOR_FONT_CREAM]Time:[COLOR_REVERT] %s1</English>
-		<French>[NEWLINE][NEWLINE][COLOR_FONT_CREAM]Time:[COLOR_REVERT] %s1</French>
+		<French>[NEWLINE][NEWLINE][COLOR_FONT_CREAM]Âðåìÿ :[COLOR_REVERT] %s1</French>
 		<German>[NEWLINE][NEWLINE][COLOR_FONT_CREAM]Uhrzeit:[COLOR_REVERT] %s1</German>
 		<Italian>[NEWLINE][NEWLINE][COLOR_FONT_CREAM]Time:[COLOR_REVERT] %s1</Italian>
 		<Spanish>[NEWLINE][NEWLINE][COLOR_FONT_CREAM]Time:[COLOR_REVERT] %s1</Spanish>
@@ -2860,7 +2855,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GOTO_MENU</Tag>
 		<English>Go To Mode (City Selection)</English>
-		<French>Go To Mode (City Selection)</French>
+		<French>Èäòè ê âûáðàííîìó ãîðîäó</French>
 		<German>Gehe-zu-Modus (Stadtliste)</German>
 		<Italian>Go To Mode (City Selection)</Italian>
 		<Spanish>Go To Mode (City Selection)</Spanish>
@@ -2868,7 +2863,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GOTO_MENU_HELP</Tag>
 		<English>Order the selected unit to a city choosen from a menu</English>
-		<French>Order the selected unit to a city choosen from a menu</French>
+		<French>Îòêðûâàåò ìåíþ, ïîçâîëÿþùåå îòïðàâèòü âûáðàííûé þíèò â íóæíûé ãîðîä</French>
 		<German>&#214;ffnet ein Men&#252;, mit dem man die gew&#228;hlte Einheit zu einer bestimmten Stadt schicken kann</German>
 		<English>Order the selected unit to a city choosen from a menu</English>
 		<English>Order the selected unit to a city choosen from a menu</English>
@@ -2876,7 +2871,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_GOTO_MENU_TITLE</Tag>
 		<English>Select destination</English>
-		<French>Select destination</French>
+		<French>Âûáåðèòå ïóíêò íàçíà÷åíèÿ</French>
 		<German>Zielsiedlung w&#228;hlen</German>
 		<Italian>Select destination</Italian>
 		<Spanish>Select destination</Spanish>
@@ -2892,7 +2887,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_IGNORE_DANGER</Tag>
 		<English>Ignore danger</English>
-		<French>Ignore danger</French>
+		<French>Èãíîðèðîâàòü îïàñíîñòü</French>
 		<German>Feinde in Sichtweite ignorieren</German>
 		<Italian>Ignore danger</Italian>
 		<Spanish>Ignore danger</Spanish>
@@ -2900,7 +2895,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_IGNORE_DANGER_HELP</Tag>
 		<English>Ignore danger</English>
-		<French>Ignore danger</French>
+		<French>Þíèò íå ïðåêðàòèò äâèæåíèå èëè äåéñòâèÿ, äàæå êîãäà â ïîëå çðåíèÿ ïîÿâÿòñÿ âðàæåñêèå îòðÿäû</French>
 		<German>Einheit wird nicht stoppen, wenn ein Feind in Sichtweite ger&#228;t</German>
 		<Italian>Ignore danger</Italian>
 		<Spanish>Ignore danger</Spanish>
@@ -2908,7 +2903,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_MAIN_TABLE</Tag>
 		<English>Transport routes:</English>
-		<French>Transport routes:</French>
+		<French>Äîñòóïíûå òðàíñïîðòíûå ìàðøðóòû :</French>
 		<German>Liste verf&#252;gbarer Transportrouten</German>
 		<Italian>Trade routes:</Italian>
 		<Spanish>Trade routes:</Spanish>
@@ -2916,7 +2911,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_NEW_ROUTE</Tag>
 		<English>Create new route:</English>
-		<French>Create new route:</French>
+		<French>Ñîçäàòü íîâûé òðàíñïîðòíûé ìàðøðóò :</French>
 		<German>Neue Transportroute erstellen:</German>
 		<Italian>Create new route:</Italian>
 		<Spanish>Create new route:</Spanish>
@@ -2924,7 +2919,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_YIELD_TABLE</Tag>
 		<English>Yield types:</English>
-		<French>Yield types:</French>
+		<French>Âèäû òîâàðîâ :</French>
 		<German>Warentyp:</German>
 		<Italian>Yield types:</Italian>
 		<Spanish>Yield types:</Spanish>
@@ -2932,7 +2927,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_EXPORT_TABLE</Tag>
 		<English>Source city:</English>
-		<French>Source city:</French>
+		<French>Èñõîäíûé ãîðîä :</French>
 		<German>Exportsiedlung:</German>
 		<Italian>Source city:</Italian>
 		<Spanish>Source city:</Spanish>
@@ -2940,7 +2935,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_IMPORT_TABLE</Tag>
 		<English>Destination city:</English>
-		<French>Destination city:</French>
+		<French>Ãîðîä íàçíà÷åíèÿ :</French>
 		<German>Importsiedlung:</German>
 		<Italian>Destination city:</Italian>
 		<Spanish>Destination city:</Spanish>
@@ -2948,7 +2943,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_LOAD_GROUP_TABLE</Tag>
 		<English>Load Group:</English>
-		<French>Load Group:</French>
+		<French>Çàãðóçèòü ãðóïïó :</French>
 		<German>Gruppe Laden:</German>
 		<Italian>Gruppo di Carico:</Italian>
 		<Spanish>Grupo de Carga:</Spanish>
@@ -2956,7 +2951,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_HELP_LOAD_TRADE_GROUP</Tag>
 		<English> (click to load)</English>
-		<French> (click to load)</French>
+		<French> ([COLOR:140:255:40:255]&lt; Íàæìèòå &gt;[COLOR_REVERT] äëÿ çàãðóçêè)</French>
 		<German> Mausklick zu laden</German>
 		<Italian> clicca per caricare</Italian>
 		<Spanish> clic para cargar</Spanish>
@@ -2964,7 +2959,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_DELETE_GROUP_TABLE</Tag>
 		<English>Delete Group:</English>
-		<French>Delete Group:</French>
+		<French>Óäàëèòü ãðóïïó :</French>
 		<German>Gruppe Entfernen:</German>
 		<Italian>Elimina Gruppo:</Italian>
 		<Spanish>Eliminar Grupo:</Spanish>
@@ -2996,7 +2991,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_YIELD_PREVIEW</Tag>
 		<English>Yields</English>
-		<French>Yields</French>
+		<French>Òîâàðû</French>
 		<German>Waren</German>
 		<Italian>Yields</Italian>
 		<Spanish>Yields</Spanish>
@@ -3004,7 +2999,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_EXPORT_PREVIEW</Tag>
 		<English>Export</English>
-		<French>Export</French>
+		<French>Ýêñïîðò</French>
 		<German>Export</German>
 		<Italian>Export</Italian>
 		<Spanish>Export</Spanish>
@@ -3012,7 +3007,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_IMPORT_PREVIEW</Tag>
 		<English>Import</English>
-		<French>Import</French>
+		<French>Èìïîðò</French>
 		<German>Import</German>
 		<Italian>Import</Italian>
 		<Spanish>Import</Spanish>
@@ -3028,7 +3023,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_MAIN_TABLE_3</Tag>
 		<English>from</English>
-		<French>from</French>
+		<French>èç</French>
 		<German>von</German>
 		<Italian>from</Italian>
 		<Spanish>from</Spanish>
@@ -3036,7 +3031,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_MAIN_TABLE_4</Tag>
 		<English>to</English>
-		<French>to</French>
+		<French>â</French>
 		<German>nach</German>
 		<Italian>to</Italian>
 		<Spanish>to</Spanish>
@@ -3068,7 +3063,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_SELECT_ROUTES_HELP</Tag>
 		<English>Activate all shown trade routes</English>
-		<French>Activate all shown trade routes</French>
+		<French>Íàçíà÷èòü âñå òðàíñïîðòíûå ìàðøðóòû ñïèñêà ýòîìó þíèòó</French>
 		<German>Alle Transportrouten dieser Liste der Einheit zuweisen</German>
 		<Italian>Activate all shown trade routes</Italian>
 		<Spanish>Activate all shown trade routes</Spanish>
@@ -3076,7 +3071,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_DESELECT_ROUTES_HELP</Tag>
 		<English>Deactivate all shown trade routes</English>
-		<French>Deactivate all shown trade routes</French>
+		<French>Îòêëþ÷èòü âñå íàçíà÷åííûå òðàíñïîðòíûå ìàðøðóòû äëÿ ýòîãî þíèòà</French>
 		<German>Alle derzeit zugewiesenen Transportrouten f&#252;r diese Einheit deaktivieren</German>
 		<Italian>Deactivate all shown trade routes</Italian>
 		<Spanish>Deactivate all shown trade routes</Spanish>
@@ -3084,7 +3079,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_IGNORE_DANGER_HELP</Tag>
 		<English>Ignore danger</English>
-		<French>Ignore danger</French>
+		<French>Â íàñòîÿùåå âðåìÿ þíèò îñòàíàâëèâàåòñÿ, êîãäà âðàã ïîÿâëÿåòñÿ â ïîëå çðåíèÿ ([COLOR:140:255:40:255]&lt; Íàæìèòå &gt;[COLOR_REVERT] äëÿ èçìåíåíèÿ)</French>
 		<German>Einheit h&#228;lt derzeit an, wenn ein Feind in Sichtweite ger&#228;t (klicken, um das zu &#228;ndern)</German>
 		<Italian>Ignore danger</Italian>
 		<Spanish>Ignore danger</Spanish>
@@ -3092,7 +3087,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_CANCEL_IGNORE_DANGER_HELP</Tag>
 		<English>Cancel ignore danger</English>
-		<French>Cancel ignore danger</French>
+		<French>Â íàñòîÿùåå âðåìÿ îòðÿä íå îñòàíàâëèâàåòñÿ, êîãäà â ïîëå çðåíèÿ ïîÿâëÿåòñÿ âðàã ([COLOR:140:255:40:255]&lt; Íàæìèòå &gt;[COLOR_REVERT] äëÿ èçìåíåíèÿ)</French>
 		<German>Einheit h&#228;lt nicht derzeit an, wenn ein Feind in Sichtweite ger&#228;t (klicken, um das zu &#228;ndern)</German>
 		<Italian>Cancel ignore danger</Italian>
 		<Spanish>Cancel ignore danger</Spanish>
@@ -3116,7 +3111,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_HELP_HELP</Tag>
 		<English>: Help</English>
-		<French>: Help</French>
+		<French>: Ïîìîùü</French>
 		<German>: Anleitung</German>
 		<Italian>: Help</Italian>
 		<Spanish>: Help</Spanish>
@@ -3124,7 +3119,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_YIELD_HELP</Tag>
 		<English>Select a yield type</English>
-		<French>Select a yield type</French>
+		<French>Âûáåðèòå òîâàð äëÿ íîâîãî òðàíñïîðòíîãî ìàðøðóòà</French>
 		<German>Warentyp f&#252;r neue Transportroute ausw&#228;hlen</German>
 		<Italian>Select a yield type</Italian>
 		<Spanish>Select a yield type</Spanish>
@@ -3132,7 +3127,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_EXPORT_HELP</Tag>
 		<English>Select an export city</English>
-		<French>Select an export city</French>
+		<French>Âûáåðèòå ãîðîä ýêñïîðòà äëÿ íîâîãî òðàíñïîðòíîãî ìàðøðóòà (ìèíèìàëüíûå çàïàñû òîâàðîâ, êîòîðûå íå ïîäëåæàò âûâîçó, ìîæíî óñòàíîâèòü íà ýêðàíå èìïîðòà/ýêñïîðòà ãîðîäà)</French>
 		<German>Exportsiedlung f&#252;r neue Transportroute ausw&#228;hlen (Mindestbest&#228;nde von Waren, die nicht abtransportiert werden sollen, lassen sich vor Ort im Siedlungsbildschirm einstellen)</German>
 		<Italian>Select an export city</Italian>
 		<Spanish>Select an export city</Spanish>
@@ -3140,7 +3135,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTES_IMPORT_HELP</Tag>
 		<English>Select an import city</English>
-		<French>Select an import city</French>
+		<French>Âûáåðèòå ãîðîä èìïîðòà äëÿ íîâîãî òðàíñïîðòíîãî ìàðøðóòà</French>
 		<German>Importsiedlung f&#252;r neue Transportroute ausw&#228;hlen</German>
 		<Italian>Select an import city</Italian>
 		<Spanish>Select an import city</Spanish>
@@ -3148,7 +3143,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SAIL</Tag>
 		<English>Sail to the new world</English>
-		<French>Sail to the new world</French>
+		<French>Âûáåðèòå, êóäà ïëûòü â [COLOR_HIGHLIGHT_TEXT]Íîâîì ìèðå[COLOR_REVERT]</French>
 		<German>Setzt die Segel!</German>
 		<Italian>Sail to the new world</Italian>
 		<Spanish>Sail to the new world</Spanish>
@@ -3156,7 +3151,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SAIL_EAST</Tag>
 		<English>East</English>
-		<French>East</French>
+		<French>[COLOR_REVERT]Ïåðåñåêàåò Àòëàíòèêó</French>
 		<German>Atlantik</German>
 		<Italian>East</Italian>
 		<Spanish>East</Spanish>
@@ -3164,7 +3159,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SAIL_WEST</Tag>
 		<English>West</English>
-		<French>West</French>
+		<French>[COLOR_REVERT]Îãèáàåò ìûñ Äîáðîé íàäåæäû â ñòîðîíó Àòëàíòèêè</French>
 		<German>Pazifik</German>
 		<Italian>West</Italian>
 		<Spanish>West</Spanish>
@@ -3172,7 +3167,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SAIL_EAST_MESSAGE</Tag>
 		<English>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</English>
-		<French>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</French>
+		<French>Íîâûé ìèð - [COLOR_HIGHLIGHT_TEXT]ïåðåñåêàåò Àòëàíòèêó[COLOR_REVERT]</French>
 		<German>Kurs [COLOR_HIGHLIGHT_TEXT]Atlantik[COLOR_REVERT]</German>
 		<Italian>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</Italian>
 		<Spanish>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</Spanish>
@@ -3180,7 +3175,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SAIL_WEST_MESSAGE</Tag>
 		<English>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</English>
-		<French>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</French>
+		<French>Íîâûé ìèð - [COLOR_HIGHLIGHT_TEXT]îãèáàåò ìûñ Äîáðîé íàäåæäû[COLOR_REVERT]</French>
 		<German>Kurs [COLOR_HIGHLIGHT_TEXT]Pazifik[COLOR_REVERT]</German>
 		<Italian>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</Italian>
 		<Spanish>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</Spanish>
@@ -3188,7 +3183,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SELL_LABEL</Tag>
 		<English>Sell your ship?</English>
-		<French>Sell your ship?</French>
+		<French>Ïðîäàòü ýòîò êîðàáëü?</French>
 		<German>Schiff verkaufen?</German>
 		<Italian>Sell your ship?</Italian>
 		<Spanish>Sell your ship?</Spanish>
@@ -3196,7 +3191,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SELL_MESSAGE</Tag>
 		<English>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</English>
-		<French>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</French>
+		<French>[COLOR_UNIT_TEXT]%s1[COLOR_REVERT], ýòîò ïëàâàþùèé ãðîá? Õìì, ÷òî æ, ÿ äàì âàì çà íåãî %d2[ICON_GOLD]</French>
 		<German>Diesen morschen Kahn nennt ihr %s1? Nun, %d2[ICON_GOLD] seien Euch gew&#228;hrt.</German>
 		<Italian>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</Italian>
 		<Spanish>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</Spanish>
@@ -3204,7 +3199,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SELL_SHORT</Tag>
 		<English>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</English>
-		<French>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</French>
+		<French>Ïðîäàòü [COLOR_UNIT_TEXT]%s1[COLOR_REVERT] çà [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</French>
 		<German>%s1 f&#252;r [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD] verkaufen?</German>
 		<Italian>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</Italian>
 		<Spanish>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</Spanish>
@@ -3212,7 +3207,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_BOYCOTT_LABEL</Tag>
 		<English>Lift that boycott?</English>
-		<French>Lift that boycott?</French>
+		<French>Îòìåíèòü áîéêîò íà ýòîò òîâàð?</French>
 		<German>Boykott aufheben?</German>
 		<Italian>Lift that boycott?</Italian>
 		<Spanish>Lift that boycott?</Spanish>
@@ -3220,7 +3215,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_BOYCOTT_MESSAGE</Tag>
 		<English>Pay us %d1[ICON_GOLD] and you can trade with %s2 again.</English>
-		<French>Pay us %d1[ICON_GOLD] and you can trade with %s2 again.</French>
+		<French>Âû äîëæíû âûïëàòèòü øòðàô â %d1[ICON_GOLD] è òîãäà ñíîâà ìîæåòå íà÷àòü òîðãîâàòü [COLOR_HIGHLIGHT_TEXT]%s2[COLOR_REVERT].</French>
 		<German>Zahlt Uns %d1[ICON_GOLD] und Ihr d&#252;rft wieder %s2 verkaufen.</German>
 		<Italian>Pay us %d1[ICON_GOLD] and you can trade with %s2 again.</Italian>
 		<Spanish>Pay us %d1[ICON_GOLD] and you can trade with %s2 again.</Spanish>
@@ -3228,7 +3223,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_WAREHOUSE_INFO</Tag>
 		<English>%s1 - warehouse (max %d2):</English>
-		<French>%s1 - warehouse (max %d2):</French>
+		<French>[COLOR_SELECTED_TEXT]%s1[COLOR_REVERT] (âìåñòèìîñòü ñêëàäà : %d2)</French>
 		<German>%s1 - Warenlager (max %d2):</German>
 		<Italian>%s1 - warehouse (max %d2):</Italian>
 		<Spanish>%s1 - warehouse (max %d2):</Spanish>
@@ -3236,7 +3231,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SELECT_DESTINATION</Tag>
 		<English>Select your destination</English>
-		<French>Select your destination</French>
+		<French>Âûáåðèòå ïóíêò íàçíà÷åíèÿ</French>
 		<German>Ziel ausw&#228;hlen</German>
 		<Italian>Select your destination</Italian>
 		<Spanish>Select your destination</Spanish>
@@ -3252,7 +3247,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_DIALOG_ACCEPT</Tag>
 		<English>Great! Thank you.</English>
-		<French>Great! Thank you.</French>
+		<French>Çäîðîâî! Ñïàñèáî.</French>
 		<German>Gro&#223;z&#252;gig! Habt Dank.</German>
 		<Italian>Great! Thank you.</Italian>
 		<Spanish>Great! Thank you.</Spanish>
@@ -3260,7 +3255,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_DIALOG_DECLINE</Tag>
 		<English>Maybe later.</English>
-		<French>Maybe later.</French>
+		<French>Ìîæåò áûòü ïîçæå...</French>
 		<German>Vorerst nicht.</German>
 		<Italian>Maybe later.</Italian>
 		<Spanish>Maybe later.</Spanish>
@@ -3268,7 +3263,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_NEAR_CITY</Tag>
 		<English>near %s1</English>
-		<French>near %s1</French>
+		<French>ðÿäîì ñ [COLOR_SELECTED_TEXT]%s1[COLOR_REVERT]</French>
 		<German>bei %s1</German>
 		<Italian>near %s1</Italian>
 		<Spanish>near %s1</Spanish>
@@ -3276,7 +3271,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TO_CITY</Tag>
 		<English>to [COLOR_YELLOW]%s1[COLOR_REVERT]</English>
-		<French>to [COLOR_YELLOW]%s1[COLOR_REVERT]</French>
+		<French>â [COLOR_SELECTED_TEXT]%s1[COLOR_REVERT]</French>
 		<German>nach [COLOR_YELLOW]%s1[COLOR_REVERT]</German>
 		<Italian>to [COLOR_YELLOW]%s1[COLOR_REVERT]</Italian>
 		<Spanish>to [COLOR_YELLOW]%s1[COLOR_REVERT]</Spanish>
@@ -3292,7 +3287,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_SHOW_TRADE_LOG</Tag>
 		<English>Show trade log</English>
-		<French>Show trade log</French>
+		<French>Ïîêàçàòü òîðãîâûé æóðíàë</French>
 		<German>Zeige Logbuch</German>
 		<Italian>Show trade log</Italian>
 		<Spanish>Show trade log</Spanish>
@@ -3300,7 +3295,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_HIDE_TRADE_LOG</Tag>
 		<English>Hide trade log</English>
-		<French>Hide trade log</French>
+		<French>Ñêðûòü òîðãîâûé æóðíàë</French>
 		<German>Verberge Logbuch</German>
 		<Italian>Hide trade log</Italian>
 		<Spanish>Hide trade log</Spanish>
@@ -3308,7 +3303,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TRADE_LOG_1</Tag>
 		<English>Yield</English>
-		<French>Yield</French>
+		<French>Òîâàð</French>
 		<German>Ware</German>
 		<Italian>Yield</Italian>
 		<Spanish>Yield</Spanish>
@@ -3316,7 +3311,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TRADE_LOG_2</Tag>
 		<English>Action</English>
-		<French>Action</French>
+		<French>Äåéñòâèå</French>
 		<German>Aktion</German>
 		<Italian>Action</Italian>
 		<Spanish>Action</Spanish>
@@ -3332,7 +3327,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TRADE_LOG_4</Tag>
 		<English>Tax</English>
-		<French>Tax</French>
+		<French>Íàëîã</French>
 		<German>Tax</German>
 		<Italian>Tax</Italian>
 		<Spanish>Tax</Spanish>
@@ -3340,7 +3335,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TRADE_LOG_SOLD</Tag>
 		<English>sold</English>
-		<French>sold</French>
+		<French>ïðîä.</French>
 		<German>verkauft</German>
 		<Italian>sold</Italian>
 		<Spanish>sold</Spanish>
@@ -3348,7 +3343,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EU_TRADE_LOG_BOUGHT</Tag>
 		<English>bought</English>
-		<French>bought</French>
+		<French>êóï.</French>
 		<German>gekauft</German>
 		<Italian>bought</Italian>
 		<Spanish>bought</Spanish>

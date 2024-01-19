@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text - New -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_TERRAIN_SAVANNAH</Tag>
 		<English>Savannah</English>
-		<French>&#209;&#224;&#226;&#224;&#237;&#237;&#224;</French>
+		<French>Ñàâàííà</French>
 		<German>
 			<Text>Savanne</Text>
 			<Gender>Male</Gender>
@@ -48,7 +43,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_PEACE_ACCEPTED</Tag>
 		<English>We have made peace negotiations with %s1_nation as per the wishes of our King.</English>
-		<French>&#209;&#238;&#227;&#235;&#224;&#241;&#237;&#238; &#226;&#238;&#235;&#229; &#237;&#224;&#248;&#229;&#227;&#238; &#202;&#238;&#240;&#238;&#235;&#255; &#236;&#251; &#231;&#224;&#234;&#235;&#254;&#247;&#232;&#235;&#232; &#236;&#232;&#240;&#237;&#251;&#233; &#228;&#238;&#227;&#238;&#226;&#238;&#240; &#241; %s1_nation.</French>
+		<French>Ïî ïðîñüáå Åãî Âåëè÷åñòâà ìû ñîãëàñèëèñü íà ìèðíûå ïåðåãîâîðû ñ [COLOR_HIGHLIGHT_TEXT]%s1_nation[COLOR_REVERT]. Ïîñëå ïåðåãîâîðîâ äèïëîìàòû ðåøèëè îñòàòüñÿ ñ íàìè.</French>
 		<German>Wie durch den K&#246;nig gew&#252;nscht, haben wir den Friedensverhandlungen mit %s1_nation zugestimmt. Die Diplomaten haben sich nach der Verhandlung entschieden zu bleiben.</German>
 		<Italian>Come auspicato dal nostro Re, abbiamo accettato negoziati di pace con %s1_nation</Italian>
 		<Spanish>Como deseado por nuestro Rey, hemos aceptado las negociaciones de paz con %s1_nation.</Spanish>
@@ -56,7 +51,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_PEACE_DENIED</Tag>
 		<English>We have refused peace negotiations with %s1_nation. The King is unhappy with our decision.</English>
-		<French>&#202;&#238;&#240;&#238;&#235;&#252; &#237;&#229;&#228;&#238;&#226;&#238;&#235;&#229;&#237; &#237;&#224;&#248;&#232;&#236; &#240;&#229;&#248;&#229;&#237;&#232;&#229;&#236;, &#242;&#224;&#234; &#234;&#224;&#234; &#236;&#251; &#238;&#242;&#234;&#224;&#231;&#224;&#235;&#232;&#241;&#252; &#238;&#242; &#236;&#232;&#240;&#237;&#238;&#227;&#238; &#228;&#238;&#227;&#238;&#226;&#238;&#240;&#224; &#241; %s1_nation</French>
+		<French>Ìû îòêàçûâàåìñÿ çàêëþ÷àòü ìèð ñ [COLOR_HIGHLIGHT_TEXT]%s1_nation[COLOR_REVERT]. Åãî Âåëè÷åñòâî íåäîâîëåí íàøèì îòêàçîì âûïîëíèòü Åãî âîëþ.</French>
 		<German>Wir haben die Friedensverhandlungen mit %s1_nation abgelehnt.</German>
 		<Italian>Abbiamo rifiutato negoziati di pace con %s1_nation. Il re &#232; infelice con la nostra decisione.</Italian>
 		<Spanish>Hemos rechazado las negociaciones de paz con %s1_nation. El Rey est&#225; satisfecho con nuestra decisi&#243;n.</Spanish>
@@ -64,7 +59,7 @@
 	<TEXT>
 		<Tag>ABANDONING_CITY</Tag>
 		<English>You are going to abandon this city.</English>
-		<French>&#195;&#243;&#225;&#229;&#240;&#237;&#224;&#242;&#238;&#240;! &#197;&#241;&#235;&#232; &#226;&#241;&#229; &#230;&#232;&#242;&#229;&#235;&#232; &#241;&#238;&#225;&#229;&#240;&#243;&#242; &#241;&#226;&#238;&#229; &#232;&#236;&#243;&#249;&#229;&#241;&#242;&#226;&#238; &#232; &#239;&#238;&#234;&#232;&#237;&#243;&#242; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229;, &#242;&#238; &#238;&#237;&#238; &#238;&#239;&#243;&#241;&#242;&#229;&#229;&#242; &#232; &#232;&#241;&#247;&#229;&#231;&#237;&#229;&#242; &#241; &#235;&#232;&#246;&#224; &#231;&#229;&#236;&#235;&#232;.</French>
+		<French>Ìèëîðä, åñëè âû çàñòàâèòå âñåõ æèòåëåé ýòîãî ïîñåëåíèÿ ñîáðàòü ñâîè âåùè è óéòè, âñå, ÷òî áûëî ïîñòðîåíî, áóäåò ñòåðòî ñ ëèöà çåìëè.</French>
 		<German>Gouverneur, wenn Ihr alle Bewohner dieser Siedlung ihre Habseligkeiten packen lasst und sie fortschickt, wird der Ort verlassen sein und von der Karte getilgt werden.</German>
 		<Italian>Avete intenzione di abbandonare questa citt&#224;.</Italian>
 		<Spanish>Usted va a abandonar esta ciudad.</Spanish>
@@ -72,7 +67,7 @@
 	<TEXT>
 		<Tag>CITY_ABANDONED</Tag>
 		<English>City %s1_city has been abandoned.</English>
-		<French>&#207;&#238;&#241;&#235;&#229;&#228;&#237;&#232;&#229; &#230;&#232;&#242;&#229;&#235;&#232; &#239;&#238;&#234;&#232;&#237;&#243;&#235;&#232; %s1_city. &#199;&#228;&#224;&#237;&#232;&#255; &#240;&#224;&#231;&#240;&#243;&#248;&#229;&#237;&#251;, &#236;&#229;&#241;&#242;&#238; &#238;&#239;&#243;&#241;&#242;&#229;&#235;&#238; &#232; &#239;&#240;&#229;&#228;&#224;&#237;&#238; &#231;&#224;&#225;&#226;&#229;&#237;&#232;&#254;.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Ïîñëåäíèå ãîðîæàíå ïîêèíóëè ãîðîä. Äîìà ïðèäóò â íåãîäíîñòü è ñêîðî îá ýòîì ìåñòå íèêòî íå âñïîìíèò.</French>
 		<German>Die letzten B&#252;rger haben %s1_city den R&#252;cken gekehrt. Die H&#252;tten werden verfallen, und bald wird sich niemand mehr dieses Ortes entsinnen.</German>
 		<Italian>City %s1_city &#232; stato abbandonato.</Italian>
 		<Spanish>Ciudad %s1_city ha sido abandonado.</Spanish>
@@ -88,7 +83,7 @@
 	<TEXT>
 		<Tag>NO_TRADE_BECAUSE_BAD_BARGAIN</Tag>
 		<English>This city currently does not want to trade with you.</English>
-		<French>&#194; &#237;&#224;&#241;&#242;&#238;&#255;&#249;&#229;&#229; &#226;&#240;&#229;&#236;&#255; &#230;&#232;&#242;&#229;&#235;&#232; %s1_Civ &#237;&#229; &#230;&#229;&#235;&#224;&#254;&#242; &#241; &#226;&#224;&#236;&#232; &#242;&#238;&#240;&#227;&#238;&#226;&#224;&#242;&#252;.</French>
+		<French>[COLOR_HIGHLIGHT_TEXT]%s1_Civ[COLOR_REVERT] â íàñòîÿùåå âðåìÿ îòêàçûâàþòñÿ òîðãîâàòü ñ âàìè.</French>
 		<German>Das Volk der %s1_Civ m&#246;chte zur Zeit nicht mit euch handeln.</German>
 		<Italian>Questa citt&#224; attualmente non vuole commerciare con voi.</Italian>
 		<Spanish>Esta ciudad actualmente no quiere negociar con usted.</Spanish>
@@ -104,7 +99,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_RAIDED</Tag>
 		<English>%s1_civ_adjective raid on %s2_city! A %s3_BldngName was destroyed by raiding party!</English>
-		<French>&#207;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city &#225;&#251;&#235;&#238; &#224;&#242;&#224;&#234;&#238;&#226;&#224;&#237;&#238; &#226;&#237;&#229;&#231;&#224;&#239;&#237;&#251;&#236; &#237;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#229;&#236; &#238;&#242;&#240;&#255;&#228;&#238;&#226; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective. &#199;&#228;&#224;&#237;&#232;&#229; %s3_BldngName &#225;&#251;&#235;&#238; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#229;&#237;&#238;.</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]íàïàäåíèå èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT]! Êðàñíîêîæèå âàðâàðû ðàçðóøèëè [COLOR_SELECTED_TEXT]%s3_BldngName[COLOR_REVERT]!</French>
 		<German>%s2_city wurde Opfer eines %s1:2_civ_adjective &#220;berfalls! Das Geb&#228;ude %s3_BldngName wurde von feindlichen Eindringlingen zerst&#246;rt!</German>
 		<Italian>Raid %s1_civ_adjective a %s2_city! Infiltrati nemici hanno distrutto [NUM1:un:una] %s3_BldngName !</Italian>
 		<Spanish>&#161;Una incursi&#243;n de los %s1:3_civ_adjective en %s2_city! &#161;Los enemigos infiltrados han destruido [NUM1:un:una:unos:unas] %s3_BldngName !</Spanish>
@@ -112,7 +107,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PRODUCTION_RAIDED</Tag>
 		<English>%s1_civ_adjective raid on %s2_city! All %s3_buildName progress was destroyed by raiding party!</English>
-		<French>&#194; &#240;&#229;&#231;&#243;&#235;&#252;&#242;&#224;&#242;&#229; &#237;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#255; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective &#237;&#224; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city &#225;&#251;&#235;&#238; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#229;&#237;&#238; &#241;&#242;&#240;&#238;&#254;&#249;&#229;&#229;&#241;&#255; &#231;&#228;&#224;&#237;&#232;&#229; %s3_buildName</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]íàïàäåíèå èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT]! Íåãîäÿè ïîëíîñòüþ ðàçðóøèëè ñòðîÿùååñÿ çäàíèå [COLOR_SELECTED_TEXT]%s3_buildName[COLOR_REVERT]! Íàì ïðèäåòñÿ íà÷èíàòü âñå çàíîâî!</French>
 		<German>%s2_city wurde Opfer eines %s1:2_civ_adjective &#220;berfalls! Der gesamte Fortschritt bei der Errichtung des Geb&#228;udes %s3_buildName wurde von gegnerischen Eindringlingen zerst&#246;rt!</German>
 		<Italian>Raid %s1_civ_adjective a %s2_city! Tutti i progressi in %s3_buildName sono stati distrutti da nemici infiltrati!</Italian>
 		<Spanish>&#161;Una incursi&#243;n de los %s1:3_civ_adjective en %s2_city! &#161;Los infiltrados enemigos han destruido todo el progreso [NUM1:del:de la:de los:de las] %s3_buildName!</Spanish>
@@ -120,7 +115,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TREASURY_RAIDED</Tag>
 		<English>%s1_civ_adjective raid on %s2_city! %d3[ICON_GOLD] of our state treasury was looted by raiding party!</English>
-		<French>&#194;&#238; &#226;&#240;&#229;&#236;&#255; &#237;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#255; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective &#237;&#224; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city &#225;&#251;&#235; &#238;&#227;&#240;&#224;&#225;&#235;&#229;&#237; &#236;&#229;&#241;&#242;&#237;&#251;&#233; &#225;&#224;&#237;&#234;. &#194;&#251;&#237;&#229;&#241;&#229;&#237;&#238; %d3[ICON_GOLD]</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]íàïàäåíèå èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT]! Êðàñíîêîæèå äåìîíû ñòàùèëè %d3[ICON_GOLD] èç ãîðîäñêîé êàçíû!</French>
 		<German>%s2_city wurde Opfer eines %s1:2_civ_adjective &#220;berfalls! Feindliche Eindringlingen haben einen %d3[ICON_GOLD] unseres Staatsschatzes erbeutet!</German>
 		<Italian>Raid %s1_civ_adjective a %s2_city! Infiltrati nemici hanno rubato %d3[ICON_GOLD] del nostro tesoro di stato!</Italian>
 		<Spanish>&#161;Una incursi&#243;n de los %s1:3_civ_adjective en %s2_city! &#161;Los enemigos infiltrados han saqueado %d3[ICON_GOLD] de nuestro tesoro!</Spanish>
@@ -128,7 +123,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_SCALP_RAIDED</Tag>
 		<English>%s1_civ_adjective raid on %s2_city! Raiding party takes scalps, %s3_unit killed</English>
-		<French>&#194;&#238; &#226;&#240;&#229;&#236;&#255; &#237;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#255; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective &#237;&#224; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city. &#206;&#228;&#232;&#237; &#232;&#231; &#237;&#224;&#239;&#224;&#228;&#224;&#226;&#248;&#232;&#245; &#241;&#237;&#255;&#235; &#241;&#234;&#224;&#235;&#252;&#239;, &#237;&#238; %s3_unit &#225;&#251;&#235; &#243;&#225;&#232;&#242;.</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]íàïàäåíèå èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT]! Êðàñíîêîæèå ñíÿëè ñêàëüï ñ [COLOR_UNIT_TEXT]%s3_unit[COLOR_REVERT]!</French>
 		<German>%s2_city wurde Opfer eines %s1:2_civ_adjective &#220;berfalls! %s3_unit Es hat Opfer gegeben</German>
 		<Italian>Raid %s1_civ_adjective a %s2_city! sono morti %s3_unit</Italian>
 		<Spanish>&#161;Una incursi&#243;n de los %s1:3_civ_adjective en %s2_city! Se lamenta la p&#233;rdida de %s3_unit</Spanish>
@@ -136,7 +131,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_HARBOR_RAIDED</Tag>
 		<English>%s1_civ_adjective raid on %s2_city! Raiding party attacks harbor, your %s3_unit was damaged!</English>
-		<French>&#194;&#238; &#226;&#240;&#229;&#236;&#255; &#237;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#255; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective &#237;&#224; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city. &#206;&#228;&#232;&#237; &#232;&#231; &#226;&#224;&#248;&#232;&#245; &#231;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#238;&#226; %s3_unit &#225;&#251;&#235; &#240;&#224;&#237;&#229;&#237;. &#197;&#236;&#243; &#242;&#240;&#229;&#225;&#243;&#229;&#242;&#241;&#255; &#235;&#229;&#247;&#229;&#237;&#232;&#229;!</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]íàïàäåíèå èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT]! Îíè àòàêîâàëè íàø ïîðò, ïîâðåäèâ [COLOR_UNIT_TEXT]%s3_unit[COLOR_REVERT]!</French>
 		<German>%s2_city wurde Opfer eines %s1:2_civ_adjective &#220;berfalls! %s3_unit besch&#228;digt!</German>
 		<Italian>Raid %s1_civ_adjective a %s2_city! La tua unit&#224; %s3_unit  &#232; stata danneggiata!</Italian>
 		<Spanish>&#161;Una incursi&#243;n de los %s1:3_civ_adjective en %s2_city! [NUM2:ha da&#241;ado:ha da&#241;ado:han da&#241;ado:han da&#241;ado] a [NUM1:vuestro:vuestra:vuestros:vuestras] %s3_unit !</Spanish>
@@ -144,7 +139,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_NOTHING_RAIDED</Tag>
 		<English>%s1_civ_adjective raiding party wiped out in %s2_city! Nothing destroyed or stolen.</English>
-		<French>&#205;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#229; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective &#237;&#224; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city &#225;&#251;&#235;&#238; &#238;&#242;&#225;&#232;&#242;&#238;. &#200;&#236;&#243;&#249;&#229;&#241;&#242;&#226;&#238; &#237;&#229; &#239;&#238;&#241;&#242;&#240;&#224;&#228;&#224;&#235;&#238;.</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]íàáåã èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] îòðàæåí! Âñå â öåëîñòè è ñîõðàííîñòè.</French>
 		<German>%s1_civ_adjective Sto&#223;trupp in %s2_city ausgel&#245;scht! Keine ernstzunehmenden Sch&#228;den verursacht.</German>
 		<Italian>%s1_civ_adjective gruppo di incursori spazzato via in %s2_city! Niente distrutto o rubato.</Italian>
 		<Spanish>%s1_civ_adjective partido de ataque acab&#243; en %s2_city! Nada destruye o se lo roban.</Spanish>
@@ -152,7 +147,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_RAIDING_NATIVE_CAPTURED</Tag>
 		<English>%s1_civ_adjective raiding party captured in %s2_city! They will pay with labour for their crimes.</English>
-		<French>&#205;&#224;&#239;&#224;&#228;&#229;&#237;&#232;&#229; &#232;&#237;&#228;&#229;&#233;&#246;&#229;&#226; %s1_civ_adjective &#237;&#224; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s2_city &#225;&#251;&#235;&#238; &#238;&#242;&#225;&#232;&#242;&#238;. &#200;&#237;&#228;&#229;&#233;&#246;&#246;&#251; &#226;&#231;&#255;&#242;&#251; &#226; &#239;&#235;&#229;&#237; &#232; &#239;&#240;&#238;&#228;&#224;&#237;&#251; &#226; &#240;&#224;&#225;&#241;&#242;&#226;&#238;. &#207;&#243;&#241;&#242;&#252; &#240;&#224;&#225;&#238;&#242;&#224;&#254;&#242; &#237;&#224; &#231;&#229;&#236;&#235;&#255;&#245; &#231;&#224; &#241;&#226;&#238;&#232; &#237;&#224;&#225;&#229;&#227;&#232;.</French>
+		<French>[COLOR_WARNING_TEXT]%s2_city : [COLOR_REVERT]ãðóïïà èíäåéöåâ [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT], ïûòàâøèõñÿ óòðîèòü íàáåã, ñõâà÷åíà! Îòïðàâüòå èõ íà ïëàíòàöèè, Ìèëîðä! Ïóñòü ðàñïëà÷èâàþòñÿ çà ñâîè ïðåñòóïëåíèÿ.</French>
 		<German>%s1_civ_adjective Sto&#223;trupp in %s2_city gefangen genommen! Sie werden ihre Verbrechen abarbeiten.</German>
 		<Italian>%s1_civ_adjective gruppo di incursori catturato in %s2_city! Pagheranno con il lavoro per i loro crimini.</Italian>
 		<Spanish>%s1_civ_adjective grupo asaltante capturado en %s2_city! Pagar&#225;n con el trabajo de sus cr&#237;menes.</Spanish>
@@ -160,7 +155,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_SUNK_GOOD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at an enemy ship and sunk it!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#233; &#234;&#238;&#240;&#224;&#225;&#235;&#252; &#232; &#239;&#238;&#242;&#238;&#239;&#232;&#235;&#232; &#229;&#227;&#238;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Ïîáåäà, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îáñòðåëÿëà èç ïóøåê âðàæåñêèé êîðàáëü è ïîòîïèëà åãî!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf ein feindliches Schiff abgefeuert und es versenkt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni ad una nave nemica e affondato it!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones a un barco enemigo y hundido!</Spanish>
@@ -168,7 +163,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_SUNK_BAD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at our ship and sunk it!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#233; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#224;&#248; &#234;&#238;&#240;&#224;&#225;&#235;&#252; &#232; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#235;&#232; &#229;&#227;&#238;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïîðàæåíèå, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îãíåì ñâîèõ ïóøåê ïîòîïèëà íàø êîðàáëü!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf unser Schiff abgefeuert und es versenkt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni presso la nostra nave e affondata it!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones en nuestro barco y hundido!</Spanish>
@@ -176,7 +171,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_HIT_GOOD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at an enemy ship and damaged it!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#233; &#234;&#238;&#240;&#224;&#225;&#235;&#252; &#232; &#247;&#224;&#241;&#242;&#232;&#247;&#237;&#238; &#239;&#238;&#226;&#240;&#229;&#228;&#232;&#235;&#232; &#229;&#227;&#238;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îãíåì èç ñâîèõ ïóøåê ñìîãëà ïîâðåäèòü âðàæåñêèé êîðàáëü!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf ein feindliches Schiff abgefeuert und es besch&#228;digt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni ad una nave nemica e danneggiato it!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones a un barco enemigo y da&#241;ado!</Spanish>
@@ -184,7 +179,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_HIT_BAD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at our ship and damaged it!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#233; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#224;&#248; &#234;&#238;&#240;&#224;&#225;&#235;&#252; &#232; &#239;&#238;&#226;&#240;&#229;&#228;&#232;&#235;&#232; &#229;&#227;&#238; &#234;&#238;&#240;&#239;&#243;&#241;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îãíåì èç ñâîèõ ïóøåê ñìîãëà ïîâðåäèòü íàø êîðàáëü!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf unser Schiff abgefeuert und es besch&#228;digt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni presso la nostra nave e danneggiato it!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones en nuestro barco y da&#241;ado!</Spanish>
@@ -192,7 +187,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_MISS_BAD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at an enemy ship but missed it!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#239;&#251;&#242;&#224;&#235;&#232;&#241;&#252; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#242;&#252; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#233; &#234;&#238;&#240;&#224;&#225;&#235;&#252;, &#237;&#238; &#239;&#240;&#238;&#236;&#224;&#245;&#237;&#243;&#235;&#232;&#241;&#252;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëà îãîíü èç ïóøåê ïî âðàæåñêîìó êîðàáëþ, íî íå ïîïàëà!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf ein feindliches Schiff abgefeuert, dieses jedoch verfehlt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni ad una nave nemica, ma perso!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones a un barco enemigo, pero lo perdimos!</Spanish>
@@ -200,7 +195,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_MISS_GOOD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at our ship but missed it!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#233; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#224;&#248; &#234;&#238;&#240;&#224;&#225;&#235;&#252;, &#237;&#238; &#237;&#229; &#239;&#238;&#239;&#224;&#235;&#232;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëà îãîíü èç ïóøåê ïî íàøåìó êîðàáëþ, íî ïðîìàõíóëàñü!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf unser Schiff abgefeuert, dieses jedoch verfehlt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni presso la nostra nave, ma perso!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones en nuestro barco, pero lo perdimos!</Spanish>
@@ -208,7 +203,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_DESTROYED_GOOD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at enemy troops and destroyed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#238;&#233;&#241;&#234;&#224; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#224; &#232; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#235;&#232; &#232;&#245;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Ïîáåäà, Ìèëîðä! [COLOR_REVERT]Îðóäèéíûé îãîíü èç öèòàäåëè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] óíè÷òîæèë âîéñêà ïðîòèâíèêà!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf feindliche Truppen abgefeuert und diese vernichtet!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni contro le truppe nemiche e distrutti!</Italian>
 		<Spanish>La ciudadela de% s1_city ha disparado sus ca&#241;ones contra las tropas enemigas y los destruy&#243;!</Spanish>
@@ -216,7 +211,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_DESTROYED_BAD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at our troops and destroyed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#224;&#248;&#232; &#226;&#238;&#233;&#241;&#234;&#224; &#232; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#235;&#232; &#232;&#245;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïîðàæåíèå, Ìèëîðä! [COLOR_REVERT]Îðóäèéíûé îãîíü èç öèòàäåëè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] óíè÷òîæèëè íàøè âîéñêà!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf unsere Truppen abgefeuert und diese vernichtet!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni alle nostre truppe e distrutti!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones a nuestras tropas y los destruy&#243;!</Spanish>
@@ -224,7 +219,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_HIT_LAND_GOOD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at enemy troops and damaged them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#229; &#226;&#238;&#233;&#241;&#234;&#224;, &#232; &#238;&#237;&#232; &#239;&#238;&#237;&#229;&#241;&#235;&#232; &#239;&#238;&#242;&#229;&#240;&#232;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Ïóøêè öèòàäåëè ãîðîäà [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] íàíåñëè óðîí âîéñêàì ïðîòèâíèêà!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf feindliche Truppen abgefeuert und diesen Schaden zugef&#252;gt!</German>
 		<Italian>The citadel of %s1_city has fired its cannons at enemy troops and damaged them!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones contra las tropas enemigas y les damamged!</Spanish>
@@ -232,7 +227,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_HIT_LAND_BAD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at our troops and damaged them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#233; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#224;&#248;&#232; &#226;&#238;&#233;&#241;&#234;&#224;, &#232; &#226;&#251; &#239;&#238;&#237;&#229;&#241;&#235;&#232; &#239;&#238;&#242;&#229;&#240;&#232;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëà îãîíü èç ïóøåê ïî íàøèì âîéñêàì è íàíåñëà èì óðîí!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf unsere Truppen abgefeuert und diesen Schaden zugef&#252;gt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni alle nostre truppe e damaged!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones a nuestras tropas y les damaged!</Spanish>
@@ -240,7 +235,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_MISS_LAND_BAD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at enemy troops but missed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#239;&#251;&#242;&#224;&#235;&#232;&#241;&#252; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#242;&#252; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#229; &#226;&#238;&#233;&#241;&#234;&#224;, &#237;&#238; &#239;&#240;&#238;&#236;&#224;&#245;&#237;&#243;&#235;&#232;&#241;&#252;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] íå ïîïàëà ïî âðàæåñêèì âîéñêàì èç ñâîèõ ïóøåê!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf feindliche Truppen abgefeuert, diese jedoch verfehlt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni contro le truppe nemiche ma li perdere!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones contra las tropas enemigas, sino que los puedes perder!</Spanish>
@@ -248,7 +243,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTBOMB_MISS_LAND_GOOD</Tag>
 		<English>The citadel of %s1_city has fired its cannons at our troops but missed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#246;&#232;&#242;&#224;&#228;&#229;&#235;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#233; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#239;&#243;&#248;&#229;&#234; &#238;&#225;&#241;&#242;&#240;&#229;&#235;&#255;&#235;&#232; &#226;&#224;&#248;&#232; &#226;&#238;&#233;&#241;&#234;&#224;, &#237;&#238; &#237;&#229; &#239;&#238;&#239;&#224;&#235;&#232;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Öèòàäåëü [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] áåçóñïåøíî ïûòàëàñü îáñòðåëèâàòü íàøè âîéñêà èç ïóøåê!</French>
 		<German>Die Zitadelle von %s1_city hat ihre Kannonen auf unsere Truppen abgefeuert, diese jedoch verfehlt!</German>
 		<Italian>La cittadella di %s1_city ha sparato i suoi cannoni alle nostre truppe, ma li perdere!</Italian>
 		<Spanish>La ciudadela de %s1_city ha disparado sus ca&#241;ones a nuestras tropas, sino que las pierda!</Spanish>
@@ -256,7 +251,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTDEFENSE_DESTROYED_GOOD</Tag>
 		<English>The defenses of %s1_city have fired at enemy troops and destroyed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#238;&#242;&#234;&#240;&#251;&#235;&#232; &#232;&#231; &#236;&#243;&#248;&#234;&#229;&#242;&#238;&#226; &#238;&#227;&#238;&#237;&#252; &#239;&#238; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#243; &#232; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#235;&#232; &#229;&#227;&#238;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Ïîáåäà, Ìèëîðä! [COLOR_REVERT]Çàùèòíèêè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îáñòðåëÿëè âðàæåñêèå âîéñêà è óíè÷òîæèëè èõ!</French>
 		<German>Die Verteidiger von %s1_city haben auf feindliche Truppen gefeuert und diese vernichtet!</German>
 		<Italian>Le difese di %s1_city hanno sparato contro le truppe nemiche e distrutti!</Italian>
 		<Spanish>Las defensas de %s1_city han disparado contra las tropas enemigas y los destruy&#243;!</Spanish>
@@ -264,7 +259,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTDEFENSE_DESTROYED_BAD</Tag>
 		<English>The defenses of %s1_city have fired at our troops and destroyed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#238;&#242;&#234;&#240;&#251;&#235;&#232; &#232;&#231; &#236;&#243;&#248;&#234;&#229;&#242;&#238;&#226; &#238;&#227;&#238;&#237;&#252; &#239;&#238; &#226;&#224;&#248;&#232;&#236; &#226;&#238;&#233;&#241;&#234;&#224;&#236; &#232; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#232;&#235;&#232; &#232;&#245;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïîðàæåíèå, Ìèëîðä! [COLOR_REVERT]Çàùèòíèêè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëè îãîíü ïî íàøèì âîéñêàì è óíè÷òîæèëè èõ! Êàíàëüè!</French>
 		<German>Die Verteidiger von %s1_city haben auf unsere Truppen gefeuert und diese vernichtet!</German>
 		<Italian>Le difese di %s1_city hanno sparato alle nostre truppe e distrutti!</Italian>
 		<Spanish>Las defensas de %s1_city han disparado contra nuestras tropas y los destruy&#243;!</Spanish>
@@ -272,7 +267,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTDEFENSE_HIT_LAND_GOOD</Tag>
 		<English>The defenses of %s1_city have fired at enemy troops and damaged them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#238;&#242;&#234;&#240;&#251;&#235;&#232; &#232;&#231; &#236;&#243;&#248;&#234;&#229;&#242;&#238;&#226; &#238;&#227;&#238;&#237;&#252; &#239;&#238; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#243;, &#232; &#238;&#237;&#232; &#239;&#238;&#237;&#229;&#241;&#235;&#232; &#239;&#238;&#242;&#229;&#240;&#232;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Çàùèòíèêè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îáñòðåëÿëè âðàæåñêèå âîéñêà è íàíåñëè èì ñîêðóøèòåëüíûé óðîí!</French>
 		<German>Die Verteidiger von %s1_city haben auf feindliche Truppen gefeuert und diesen Schaden zugef&#252;gt!</German>
 		<Italian>Le difese di %s1_city hanno sparato contro le truppe nemiche e danneggiati!</Italian>
 		<Spanish>Las defensas de %s1_city han disparado contra las tropas enemigas y les da&#241;ado!</Spanish>
@@ -280,7 +275,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTDEFENSE_HIT_LAND_BAD</Tag>
 		<English>The defenses of %s1_city have fired at our troops and damaged them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#238;&#242;&#234;&#240;&#251;&#235;&#232; &#232;&#231; &#236;&#243;&#248;&#234;&#229;&#242;&#238;&#226; &#238;&#227;&#238;&#237;&#252; &#239;&#238; &#226;&#224;&#248;&#232;&#236; &#226;&#238;&#233;&#241;&#234;&#224;&#236;, &#232; &#226;&#251; &#239;&#238;&#237;&#229;&#241;&#235;&#232; &#239;&#238;&#242;&#229;&#240;&#232;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Çàùèòíèêè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëè îãîíü ïî íàøèì âîéñêàì è íàíåñëè èì óðîí! Äîëãî ìû åùå áóäåì èçîáðàæàòü èç ñåáÿ ìèøåíè?!</French>
 		<German>Die Verteidiger von %s1_city haben auf unsere Truppen gefeuert und diesen Schaden zugef&#252;gt!</German>
 		<Italian>Le difese di %s1_city hanno sparato alle nostre truppe e danneggiati!</Italian>
 		<Spanish>Las defensas de %s1_city han disparado contra nuestras tropas y les da&#241;ado!</Spanish>
@@ -288,7 +283,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTDEFENSE_MISS_LAND_BAD</Tag>
 		<English>The defenses of %s1_city have fired at enemy troops but missed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#224;&#248;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#238;&#242;&#234;&#240;&#251;&#235;&#232; &#232;&#231; &#236;&#243;&#248;&#234;&#229;&#242;&#238;&#226; &#238;&#227;&#238;&#237;&#252; &#239;&#238; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#243;, &#237;&#238; &#237;&#229; &#239;&#238;&#239;&#224;&#235;&#232;!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Íàøè çàùèòíèêè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëè îãîíü ïî âðàæåñêèì âîéñêàì, íî íå ñìîãëè íàíåñòè èì íè ìàëåéøåãî óðîíà... Îíè áåãàþ ïî ïîëþ, êàê êðîëèêè!</French>
 		<German>Die Verteidiger von %s1_city haben auf feindliche Truppen gefeuert, diese jedoch verfehlt!</German>
 		<Italian>Le difese di %s1_city hanno sparato contro le truppe nemiche ma li perdere!</Italian>
 		<Spanish>Las defensas de %s1_city han disparado contra tropas enemigas, sino que los puedes perder!</Spanish>
@@ -296,7 +291,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FORTDEFENSE_MISS_LAND_GOOD</Tag>
 		<English>The defenses of %s1_city have fired at our troops but missed them!</English>
-		<French>&#199;&#224;&#249;&#232;&#242;&#237;&#232;&#234;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; %s1_city &#238;&#242;&#234;&#240;&#251;&#235;&#232; &#232;&#231; &#236;&#243;&#248;&#234;&#229;&#242;&#238;&#226; &#238;&#227;&#238;&#237;&#252; &#239;&#238; &#226;&#224;&#248;&#232;&#236; &#226;&#238;&#233;&#241;&#234;&#224;&#236;, &#237;&#238; &#239;&#240;&#238;&#236;&#224;&#245;&#237;&#243;&#235;&#232;&#241;&#252;!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Çàùèòíèêè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] îòêðûëè îãîíü ïî íàøèì âîéñêàì, íî íå ñìîãëè íàíåñòè óðîí! Âèäàòü, õîðîøèå ó íèõ òàì âèííûå ïîãðåáà!</French>
 		<German>Die Verteidiger von %s1_city haben auf unsere Truppen gefeuert, diese jedoch verfehlt!</German>
 		<Italian>Le difese di %s1_city hanno sparato alle nostre truppe, ma li perdere!</Italian>
 		<Spanish>Las defensas de %s1_city han disparado contra nuestras tropas, sino que las pierda!</Spanish>
@@ -304,7 +299,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_STIR_UP_NATIVES_POPUP_MISSION2</Tag>
 		<English>Chance of Success: %d1_success%%</English>
-		<French>&#216;&#224;&#237;&#241; &#243;&#241;&#239;&#229;&#245;&#224;: %d1_success%%</French>
+		<French>Øàíñ óñïåõà : %d1_success%%</French>
 		<German>Erfolgschance: %d1_success%%</German>
 		<Italian>Probabilit&#224; di Successo: %d1_success%%</Italian>
 		<Spanish>Probabilidad de &#233;xito: %d1_success%%</Spanish>
@@ -312,7 +307,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_STIR_UP_FAILED</Tag>
 		<English>Your Missionary was not successful when trying to convince the Natives of this village of the evilness of their white neighbours.</English>
-		<French>&#194; &#253;&#242;&#238;&#236; &#241;&#229;&#235;&#229;&#237;&#232;&#232; &#226;&#224;&#248;&#229;&#236;&#243; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;&#243; &#237;&#229; &#243;&#228;&#224;&#235;&#238;&#241;&#252; &#243;&#225;&#229;&#228;&#232;&#242;&#252; &#242;&#243;&#231;&#229;&#236;&#246;&#229;&#226; &#226; !!!&#237;&#229;&#247;&#229;&#241;&#242;&#232;&#226;&#238;&#241;&#242;&#232;, &#239;&#238;&#240;&#238;&#247;&#237;&#238;&#241;&#242;&#232;, &#240;&#224;&#231;&#226;&#240;&#224;&#242;&#237;&#238;&#241;&#242;&#232;!!! &#241;&#226;&#238;&#232;&#245; &#241;&#238;&#241;&#229;&#228;&#229;&#233;.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_CityName : [COLOR_REVERT]Íàøåìó ìèññèîíåðó íå óäàëîñü óáåäèòü òóçåìöåâ ýòîé äåðåâíè óâèäåòü çëî â ñâîèõ áëåäíîëèöûõ ñîñåäÿõ.</French>
 		<German>Euer Missionar war bei dem Versuch, die Einwohner dieses Dorfes von der B&#246;sartigkeit ihrer weissen Nachbarn zu &#252;berzeugen, nicht erfolgreich.</German>
 		<Italian>Il tuo missionaria non &#232; riuscita quando si cerca di convincere i nativi di questo villaggio della malvagit&#224; dei loro vicini bianchi.</Italian>
 		<Spanish>Su Misionero no tuvo &#233;xito al tratar de convencer a los nativos de este pueblo de la maldad de sus vecinos blancos.</Spanish>
@@ -320,7 +315,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_STIR_UP_SUCCESSFULL</Tag>
 		<English>Your Missionary successfully convinced some young Natives of this village to raid their evil white neighbours.</English>
-		<French>&#194; &#253;&#242;&#238;&#236; &#241;&#229;&#235;&#229;&#237;&#232;&#232; &#226;&#224;&#248;&#229;&#236;&#243; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;&#243; &#243;&#228;&#224;&#235;&#238;&#241;&#252; &#243;&#225;&#229;&#228;&#232;&#242;&#252; &#237;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#245; &#236;&#238;&#235;&#238;&#228;&#251;&#245; &#242;&#243;&#231;&#229;&#236;&#246;&#229;&#226; &#241;&#238;&#226;&#229;&#240;&#248;&#232;&#242;&#252; &#237;&#224;&#225;&#229;&#227; &#237;&#224; &#241;&#226;&#238;&#232;&#245; !!!&#240;&#224;&#231;&#226;&#240;&#224;&#249;&#229;&#237;&#237;&#251;&#245;!!! &#225;&#229;&#235;&#251;&#245; &#241;&#238;&#241;&#229;&#228;&#229;&#233;.</French>
+		<French>[COLOR_POSITIVE_TEXT]%s1_CityName : [COLOR_REVERT]Íàø ìèññèîíåð ñóìåë óáåäèë íåñêîëüêèõ ìîëîäûõ òóçåìöåâ èç ýòîé äåðåâíè ñîâåðøèòü íàáåã íà ñâîèõ çëûõ áëåäíîëèöûõ ñîñåäåé.</French>
 		<German>Euer Missionar hat die Einwohner dieses Dorfes erfolgreich zu einem &#220;berfall auf ihre b&#246;sen wei&#223;en Nachbarn &#252;berzeugt.</German>
 		<Italian>Il tuo Missionario convinto con successo alcuni giovani nativi di questo villaggio a razziare i loro vicini bianchi malvagi.</Italian>
 		<Spanish>Su Misionero convencido con &#233;xito algunos j&#243;venes nativos de este pueblo para atacar a sus vecinos blancos malignos.</Spanish>
@@ -328,7 +323,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_STIR_UP_NATIVES</Tag>
 		<English>Stir Up Natives</English>
-		<French>&#209;&#239;&#240;&#238;&#226;&#238;&#246;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#242;&#243;&#231;&#229;&#236;&#246;&#229;&#226; &#234; &#239;&#235;&#238;&#245;&#238;&#236;&#243;</French>
+		<French>Ðàçäðàæàòü èíäåéöåâ</French>
 		<German>Ureinwohner aufstacheln</German>
 		<Italian>Stir Up Natives</Italian>
 		<Spanish>Revuelva hasta Natives</Spanish>
@@ -336,7 +331,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_STIR_UP_NATIVES_HELP</Tag>
 		<English>Stirring up Natives will cause them to go on raids.</English>
-		<French>&#196;&#235;&#255; &#242;&#238;&#227;&#238; &#247;&#242;&#238;&#225;&#251; &#239;&#238;&#228;&#242;&#238;&#235;&#234;&#237;&#243;&#242;&#252; &#242;&#243;&#231;&#229;&#236;&#246;&#229;&#226; &#234; &#240;&#229;&#233;&#228;&#238;&#226;&#251;&#236; &#228;&#229;&#233;&#241;&#242;&#226;&#232;&#255;&#236;, &#238;&#237;&#232; &#232;&#245; &#239;&#238;&#241;&#242;&#238;&#255;&#237;&#237;&#238; &#239;&#240;&#238;&#226;&#238;&#246;&#232;&#240;&#243;&#254;&#242;.</French>
+		<French>Ýòî çàñòàâèò èõ íà÷àòü ñîâåðøàòü íàáåãè. </French>
 		<German>Aufstacheln der Ureinwohner f&#252;hrt zu &#220;berf&#228;llen</German>
 		<Italian>Mescolando up nativi li far&#224; andare in raid.</Italian>
 		<Spanish>Revolviendo los nativos los har&#225; ir a las redadas.</Spanish>
@@ -344,7 +339,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_USE_OLD_FOUNDING_FATHER_SYSTEM</Tag>
 		<English>Use old System for Founding Fathers</English>
-		<French>&#200;&#241;&#239;&#238;&#235;&#252;&#231;&#238;&#226;&#224;&#237;&#232;&#229; &#241;&#242;&#224;&#240;&#238;&#233; ''&#241;&#232;&#241;&#242;&#229;&#236;&#251; &#238;&#242;&#246;&#238;&#226;-&#238;&#241;&#237;&#238;&#226;&#224;&#242;&#229;&#235;&#229;&#233;''</French>
+		<French>Èñïîëüçîâàòü ñòàðóþ ñèñòåìó Îòöîâ Îñíîâàòåëåé</French>
 		<German>Altes Gr&#252;nderv&#228;tersystem benutzen</German>
 		<Italian>Utilizzare vecchio sistema per Padre fondatore</Italian>
 		<Spanish>Utilice antiguo sistema de Padre de la Patria</Spanish>
@@ -360,7 +355,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_PRISONERS</Tag>
 		<English>The Prisoners we have bought from our King have arrived in %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#231;&#224;&#234;&#235;&#254;&#247;&#229;&#237;&#237;&#251;&#229;, &#234;&#238;&#242;&#238;&#240;&#251;&#245; &#226;&#251; &#234;&#243;&#239;&#232;&#235;&#232; &#243; &#237;&#224;&#248;&#229;&#227;&#238; &#234;&#238;&#240;&#238;&#235;&#255; &#239;&#240;&#232;&#225;&#251;&#235;&#232; &#226; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s1_city.</French>
+		<French>Ìèëîðä, [COLOR_UNIT_TEXT]êàòîðæíèêè[COLOR_REVERT], êîòîðûõ ìû êóïèëè ó íàøåãî Êîðîëÿ, ïðèáûëè â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Die Gefangenen, die wir erworben haben, sind in %s1_city angekommen, Mylord.</German>
 		<Italian>I prigionieri che abbiamo comprato dal nostro re sono arrivati in %s1_city, mio signore.</Italian>
 		<Spanish>Los Prisioneros que hemos comprado a nuestro Rey han llegado %s1_city, Milord.</Spanish>
@@ -404,7 +399,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NOBLE_STRATEGY</Tag>
 		<English>[COLOR_UNIT_TEXT]Famous Noblemen[COLOR_REVERT] are expert [LINK=YIELD_BELLS]Liberty Bell[\LINK] producers. in the [LINK=PROFESSION_STATESMAN]Statesman[\LINK] profession, they are even more effective even than [LINK=UNIT_STATESMAN]Elder Statesmen[\LINK], but also very rare. They are available through some [LINK=CONCEPT_EVENTS]Random Events[\LINK] and are also provided by some [LINK=CONCEPT_FATHERS]Founding Fathers[\LINK]</English>
-		<French>[COLOR_UNIT_TEXT]&#208;&#238;&#228;&#238;&#226;&#251;&#229; &#228;&#226;&#238;&#240;&#255;&#237;&#229;[COLOR_REVERT] &#255;&#226;&#235;&#255;&#254;&#242;&#241;&#255; &#245;&#238;&#240;&#238;&#248;&#232;&#236;&#232; &#253;&#234;&#241;&#239;&#229;&#240;&#242;&#224;&#236;&#232; &#226; &#241;&#238;&#231;&#228;&#224;&#237;&#232;&#232; &#171;[LINK=YIELD_BELLS]&#202;&#238;&#235;&#238;&#234;&#238;&#235;&#224; &#209;&#226;&#238;&#225;&#238;&#228;&#251;[\LINK]&#187;. &#206;&#237;&#232; &#239;&#240;&#238;&#244;&#229;&#241;&#241;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#251;&#229; [LINK=PROFESSION_STATESMAN]&#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#229; &#228;&#229;&#255;&#242;&#229;&#235;&#232;[\LINK], &#232;&#245; &#228;&#229;&#255;&#242;&#229;&#235;&#252;&#237;&#238;&#241;&#242;&#252; &#225;&#238;&#235;&#229;&#229; &#253;&#244;&#244;&#229;&#234;&#242;&#232;&#226;&#237;&#224; &#232; &#239;&#240;&#238;&#227;&#240;&#229;&#241;&#241;&#232;&#226;&#237;&#224;, &#247;&#229;&#236; &#228;&#229;&#255;&#242;&#229;&#235;&#252;&#237;&#238;&#241;&#242;&#252; [LINK=UNIT_STATESMAN]&#209;&#242;&#224;&#240;&#229;&#233;&#248;&#232;&#237;[\LINK], &#237;&#238; &#232;&#245; &#238;&#247;&#229;&#237;&#252; &#236;&#224;&#235;&#238;. &#206;&#237;&#232; &#239;&#238;&#255;&#226;&#235;&#255;&#254;&#242;&#241;&#255; &#226; &#240;&#229;&#231;&#243;&#235;&#252;&#242;&#224;&#242;&#229; &#234;&#224;&#234;&#232;&#245;-&#242;&#238; [LINK=CONCEPT_EVENTS]&#209;&#238;&#225;&#251;&#242;&#232;&#233;[\LINK], &#232;&#235;&#232; &#232;&#245; &#240;&#229;&#234;&#238;&#236;&#229;&#237;&#228;&#243;&#254;&#242; &#226; &#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;&#236; &#171;[LINK=CONCEPT_FATHERS]&#206;&#242;&#246;&#251;-&#206;&#241;&#237;&#238;&#226;&#224;&#242;&#229;&#235;&#232;[\LINK]&#187;.</French>
+		<French>[COLOR_UNIT_TEXT]&#208;&#238;&#228;&#238;&#226;&#251;&#229; &#228;&#226;&#238;&#240;&#255;&#237;&#229;[COLOR_REVERT] &#255;&#226;&#235;&#255;&#254;&#242;&#241;&#255; &#245;&#238;&#240;&#238;&#248;&#232;&#236;&#232; &#253;&#234;&#241;&#239;&#229;&#240;&#242;&#224;&#236;&#232; &#226; &#241;&#238;&#231;&#228;&#224;&#237;&#232;&#232; «[LINK=YIELD_BELLS]&#202;&#238;&#235;&#238;&#234;&#238;&#235;&#224; &#209;&#226;&#238;&#225;&#238;&#228;&#251;[\LINK]». &#206;&#237;&#232; &#239;&#240;&#238;&#244;&#229;&#241;&#241;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#251;&#229; [LINK=PROFESSION_STATESMAN]&#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#229; &#228;&#229;&#255;&#242;&#229;&#235;&#232;[\LINK], &#232;&#245; &#228;&#229;&#255;&#242;&#229;&#235;&#252;&#237;&#238;&#241;&#242;&#252; &#225;&#238;&#235;&#229;&#229; &#253;&#244;&#244;&#229;&#234;&#242;&#232;&#226;&#237;&#224; &#232; &#239;&#240;&#238;&#227;&#240;&#229;&#241;&#241;&#232;&#226;&#237;&#224;, &#247;&#229;&#236; &#228;&#229;&#255;&#242;&#229;&#235;&#252;&#237;&#238;&#241;&#242;&#252; [LINK=UNIT_STATESMAN]&#209;&#242;&#224;&#240;&#229;&#233;&#248;&#232;&#237;[\LINK], &#237;&#238; &#232;&#245; &#238;&#247;&#229;&#237;&#252; &#236;&#224;&#235;&#238;. &#206;&#237;&#232; &#239;&#238;&#255;&#226;&#235;&#255;&#254;&#242;&#241;&#255; &#226; &#240;&#229;&#231;&#243;&#235;&#252;&#242;&#224;&#242;&#229; &#234;&#224;&#234;&#232;&#245;-&#242;&#238; [LINK=CONCEPT_EVENTS]&#209;&#238;&#225;&#251;&#242;&#232;&#233;[\LINK], &#232;&#235;&#232; &#232;&#245; &#240;&#229;&#234;&#238;&#236;&#229;&#237;&#228;&#243;&#254;&#242; &#226; &#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;&#236; «[LINK=CONCEPT_FATHERS]&#206;&#242;&#246;&#251;-&#206;&#241;&#237;&#238;&#226;&#224;&#242;&#229;&#235;&#232;[\LINK]».</French>
 		<German>[COLOR_UNIT_TEXT]Edelm&#228;nner[COLOR_REVERT] sind hervorragende [COLOR_HIGHLIGHT_TEXT]Freiheitsglocken[COLOR_REVERT]produzenten. Sie sind sogar noch effektiver als ein Staatsmann, allerdings auch viel seltener.</German>
 		<Italian>Gli [COLOR_UNIT_TEXT]statisti anziani[COLOR_REVERT] sono esperti produttori di [COLOR_HIGHLIGHT_TEXT]campane della libert&#224;[COLOR_REVERT]. Assegnandone uno alla professione di statista raddoppierai il numero di [COLOR_HIGHLIGHT_TEXT]campane della libert&#224;[COLOR_REVERT] prodotte.</Italian>
 		<Spanish>Los [COLOR_UNIT_TEXT]Estadistas mayores[COLOR_REVERT] son expertos productores de [COLOR_HIGHLIGHT_TEXT]Campanas de la libertad[COLOR_REVERT]. Asignar a uno de ellos a la profesi&#243;n de Estadista doblar&#225; el n&#250;mero de [COLOR_HIGHLIGHT_TEXT]Campanas de la libertad[COLOR_REVERT] producidas.</Spanish>
@@ -412,7 +407,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_NOBLE</Tag>
 		<English>The Famous Noble from Europe has arrived in %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#239;&#238;&#242;&#238;&#236;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#233; &#228;&#226;&#238;&#240;&#255;&#237;&#232;&#237; &#232;&#231; &#197;&#226;&#240;&#238;&#239;&#251; &#239;&#240;&#232;&#225;&#251;&#235;&#232; &#226; &#237;&#224;&#248;&#229; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#232;&#229; %s1_city.</French>
+		<French>Ìèëîðä, [COLOR_UNIT_TEXT]ïîòîìñòâåííûé äâîðÿíèí[COLOR_REVERT] ïðèáûë â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Der ber&#252;hmte Edelmannin ist in %s1_city angekommen, Mylord.</German>
 		<Italian>The Famous Noble from Europe has arrived in %s1_city, Mylord.</Italian>
 		<Spanish>The Famous Noble from Europe has arrived in %s1_city, Mylord.</Spanish>
@@ -444,7 +439,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_TRAPPER_HUT</Tag>
 		<English>Build a [LINK=IMPROVEMENT_TRAPPER_HUT]Trapperhut[\LINK]</English>
-		<French>&#207;&#238;&#241;&#242;&#240;&#232;&#242;&#252;[LINK=IMPROVEMENT_TRAPPER_HUT]&#196;&#238;&#236;&#232;&#234; &#238;&#245;&#238;&#242;&#237;&#232;&#234;&#224;[\LINK]</French>
+		<French>Ïîñòðîèòü [LINK=IMPROVEMENT_TRAPPER_HUT]äîìèê îõîòíèêîâ[\LINK]</French>
 		<German>[LINK=IMPROVEMENT_TRAPPER_HUT]Jagdh&#252;tte[\LINK] bauen</German>
 		<Italian>Costruire una [LINK=IMPROVEMENT_TRAPPER_HUT]Trapperhut[\LINK]</Italian>
 		<Spanish>Construir una [LINK=IMPROVEMENT_TRAPPER_HUT]Trapperhut[\LINK]</Spanish>
@@ -516,7 +511,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIVILIZATION_TRAITS</Tag>
 		<English>[COLOR_HIGHLIGHT_TEXT]Civilization Traits[COLOR_REVERT]</English>
-		<French>[COLOR_HIGHLIGHT_TEXT]&#206;&#241;&#237;&#238;&#226;&#237;&#251;&#229; &#245;&#224;&#240;&#224;&#234;&#242;&#229;&#240;&#232;&#241;&#242;&#232;&#234;&#232; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232;[COLOR_REVERT]</French>
+		<French>[COLOR_HIGHLIGHT_TEXT]Õàðàêòåðèñòèêè öèâèëèçàöèè[COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]Civilization Traits[COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Civilization Traits[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Rasgos de Civilizaci&#243;n[COLOR_REVERT]</Spanish>
@@ -524,7 +519,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_TRAITS</Tag>
 		<English>[COLOR_HIGHLIGHT_TEXT]Leader Traits[COLOR_REVERT]</English>
-		<French>[COLOR_HIGHLIGHT_TEXT]&#213;&#224;&#240;&#224;&#234;&#242;&#229;&#240;&#232;&#241;&#242;&#232;&#234;&#224; &#235;&#232;&#228;&#229;&#240;&#224;[COLOR_REVERT]</French>
+		<French>[COLOR_HIGHLIGHT_TEXT]×åðòû ëèäåðà[COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]Leader Traits[COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Leader Traits[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Rasgos de L&#205;der[COLOR_REVERT]</Spanish>
@@ -540,7 +535,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NO_REVEAL_GOODY</Tag>
 		<English>[ICON_BULLET]Cannot enter goody huts.</English>
-		<French>[ICON_BULLET]&#205;&#229;&#242; &#226;&#238;&#231;&#236;&#238;&#230;&#237;&#238;&#241;&#242;&#232; &#239;&#238;&#241;&#229;&#242;&#232;&#242;&#252; &#225;&#238;&#237;&#243;&#241;&#237;&#251;&#229; &#245;&#232;&#230;&#232;&#237;&#251;.</French>
+		<French>[ICON_BULLET]Íå ìîæåò çàõîäèòü â goody õèæèíû</French>
 		<German>[ICON_BULLET]Kann keine Goody Huts betreten.</German>
 		<Italian>[ICON_BULLET]Cannot enter goody huts.</Italian>
 		<Spanish>[ICON_BULLET]Cannot enter goody huts.</Spanish>
@@ -548,7 +543,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_RUNNING_OUT_OF_SPACE_NEW_CAPACITY</Tag>
 		<English>Storage capacity in %s1_city is almost at its limits, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#241;&#234;&#235;&#224;&#228;&#251; &#239;&#238;&#241;&#235;&#229;&#237;&#232;&#255; %s1_city &#239;&#238;&#247;&#242;&#232; &#231;&#224;&#239;&#238;&#235;&#237;&#229;&#237;&#251; &#242;&#238;&#226;&#224;&#240;&#224;&#236;&#232;.</French>
+		<French>[COLOR_WARNING_TEXT]%s1_city : [COLOR_REVERT]Åìêîñòü õðàíèëèùà ïî÷òè èñ÷åðïàíà.</French>
 		<German>Die Lagerhauskapazit&#228;t in %s1_city ist fast an ihren Grenzen, Mylord.</German>
 		<Italian>La capacit&#224; di storage in %s1_city &#232; quasi al suo limite, Mylord.</Italian>
 		<Spanish>La capacidad de almacenamiento en %s1_city es casi en su l&#237;mite, Mylord.</Spanish>
@@ -582,13 +577,13 @@
 		<English>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT] live on flat [LINK=TERRAIN_PLAINS]Prairie[\LINK], [LINK=TERRAIN_GRASS]Grass[\LINK] or [LINK=TERRAIN_SAVANNAH]Savannah[\LINK] Terrain that is either open or overgrown by [LINK=FEATURE_LIGHT_FOREST]Light Forest[\LINK].[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]Arguably the most useful domesticated animal in mankind's history, horses have existed for some 50 million years. While significant evolution has taken place (early ancestors were under a foot tall), the basic appearance of the horse has remained relatively unchanged. The earliest interaction between horses and men was that of game, with early man hunting them for food. Around 2500 BC, the first signs of domesticated breeds began appearing in Asia, but the idea took hold and spread rapidly. The contributions of the horse to man's conquest of his fellow man were immense, enabling the vast campaigns by Genghis Khan and Alexander the Great. The Spaniards introduced the modern breed to North America in the 16th Century, often turning their imported herds loose before returning to Europe (making valuable room for gold and other treasures). While the importance of horses has dwindled since the advent of the internal combustion engine, they remain a boon in the realms of entertainment and farming.</English>
 		<French>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Horses[COLOR_REVERT] live on flat [LINK=TERRAIN_PLAINS]Prairie[\LINK], [LINK=TERRAIN_GRASS]Grass[\LINK] or [LINK=TERRAIN_SAVANNAH]Savannah[\LINK] Terrain that is either open or overgrown by [LINK=FEATURE_LIGHT_FOREST]Light Forest[\LINK].[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]Arguably the most useful domesticated animal in mankind's history, horses have existed for some 50 million years. While significant evolution has taken place (early ancestors were under a foot tall), the basic appearance of the horse has remained relatively unchanged. The earliest interaction between horses and men was that of game, with early man hunting them for food. Around 2500 BC, the first signs of domesticated breeds began appearing in Asia, but the idea took hold and spread rapidly. The contributions of the horse to man's conquest of his fellow man were immense, enabling the vast campaigns by Genghis Khan and Alexander the Great. The Spaniards introduced the modern breed to North America in the 16th Century, often turning their imported herds loose before returning to Europe (making valuable room for gold and other treasures). While the importance of horses has dwindled since the advent of the internal combustion engine, they remain a boon in the realms of entertainment and farming.</French>
 		<German>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Pferde[COLOR_REVERT] gedeihen besonders gut auf flachem Gel&#228;nde der [LINK=TERRAIN_PLAINS]Prairie[\LINK], des [LINK=TERRAIN_GRASS]Graslands[\LINK] oder der [LINK=TERRAIN_SAVANNAH]Savanne[\LINK]. Gelegentlich k&#246;nnen besonders gute Zuchtweiden auch von [LINK=FEATURE_LIGHT_FOREST]Buschland[\LINK] &#252;berwachsen sein.[NEWLINE][NEWLINE][BOLD]Hintegrund:[\BOLD][PARAGRAPH:1]Pferde gibt es seit mehr als 50 Millionen Jahren. Sie sind die wohl n&#252;tzlichsten domestizierten Tiere in der Geschichte der Menschheit. Obwohl sich ihr &#196;u&#223;eres im Laufe der Jahre kaum ver&#228;ndert hat, haben die Pferde eine bedeutende Evolution durchlaufen. Immerhin waren ihre fr&#252;hzeitlichen Artgenossen nur etwa 30 cm gro&#223;. Urspr&#252;nglich jagten die Menschen Pferde zu Nahrungszwecken. Erst um 2500 vor Christus tauchten die ersten domestizierten Z&#252;chtungen in Asien auf. Diese Idee wurde so gut angenommen, dass sie sich schnell in andere L&#228;nder ausbreitete. Ihr Beitrag zur Ausbreitung der V&#246;lker war enorm, da erst die Pferde die gewaltigen Feldz&#252;ge Dschingis Khans und Alexanders des Gro&#223;en erm&#246;glichten. Im 16. Jahrhundert brachten die Spanier die heutigen Pferderassen nach Nordamerika. Oft lie&#223;en sie dort ihre Herden zur&#252;ck, um auf ihren Schiffen mehr Platz f&#252;r Gold und andere erbeutete Sch&#228;tze zu haben. Obwohl die Bedeutung des Pferdes seit der Erfindung des Verbrennungsmotors deutlich r&#252;ckl&#228;ufig ist, hat es in der Landwirtschaft und im Sport bis heute einen festen Platz.</German>
-		<Italian>[TAB]I cavalli esistono da 50 milioni di anni e sono senza dubbio gli animali pi&#249; utili nella storia dell'umanit&#224;. Malgrado si siano evoluti in maniera rilevante (i loro antenati erano alti poco meno di 30 centimetri), il loro aspetto &#232; rimasto praticamente invariato. Inizialmente, gli uomini erano soliti andare a caccia di cavalli per cibarsene, ma, attorno al 2500 a. C., in Asia apparvero i primi segni di razze di cavalli addomesticati e ben presto l'idea prese piede e si diffuse rapidamente. Il contributo del cavallo nelle conquiste dell'uomo &#232; stato immenso, rendendo possibili anche le grandi campagne militari di Genghis Khan e Alessandro Magno. A partire dal 16&#176; secolo, gli spagnoli hanno introdotto nel Nordamerica le razze moderne, spesso liberando le proprie mandrie prima di tornare in Europa (creando cos&#236; spazio fondamentale per oro e altre ricchezze). Malgrado l'importanza dei cavalli sia venuta meno con l'avvento dei motori a combustione interna, sono ancora fondamentali per l'agricoltura e l'intrattenimento.</Italian>
+		<Italian>[TAB]I cavalli esistono da 50 milioni di anni e sono senza dubbio gli animali pi&#249; utili nella storia dell'umanit&#224;. Malgrado si siano evoluti in maniera rilevante (i loro antenati erano alti poco meno di 30 centimetri), il loro aspetto &#232; rimasto praticamente invariato. Inizialmente, gli uomini erano soliti andare a caccia di cavalli per cibarsene, ma, attorno al 2500 a. C., in Asia apparvero i primi segni di razze di cavalli addomesticati e ben presto l'idea prese piede e si diffuse rapidamente. Il contributo del cavallo nelle conquiste dell'uomo &#232; stato immenso, rendendo possibili anche le grandi campagne militari di Genghis Khan e Alessandro Magno. A partire dal 16° secolo, gli spagnoli hanno introdotto nel Nordamerica le razze moderne, spesso liberando le proprie mandrie prima di tornare in Europa (creando cos&#236; spazio fondamentale per oro e altre ricchezze). Malgrado l'importanza dei cavalli sia venuta meno con l'avvento dei motori a combustione interna, sono ancora fondamentali per l'agricoltura e l'intrattenimento.</Italian>
 		<Spanish>[TAB]El caballo, posiblemente el animal dom&#233;stico m&#225;s &#250;til de la historia de la humanidad, existe desde hace cincuenta millones de a&#241;os. Aunque se ha producido una evoluci&#243;n significativa (sus primeros antepasados med&#237;an menos de treinta cent&#237;metros), la apariencia b&#225;sica del caballo ha permanecido invariable. La primera interacci&#243;n entre caballos y hombres fue a trav&#233;s de la caza, pues los hombres primitivos se alimentaban de ellos. Alrededor del 2500 a. C. empezaron a aparecer en Asia los primeros indicios de razas domesticadas, pero la idea se propag&#243; r&#225;pidamente. Las contribuciones del caballo a las ansias de conquista del hombre fueron inmensas, permitiendo las enormes campa&#241;as de Gengis Kan y Alejandro Magno. Los espa&#241;oles introdujeron la cr&#237;a moderna en Norteam&#233;rica en el siglo XVI, dejando a menudo sueltos a sus reba&#241;os importados antes de volver a Europa (ganando un valioso espacio para el oro y otros tesoros). Aunque la importancia de los caballos ha disminuido desde la aparici&#243;n del motor de combusti&#243;n interna, siguen siendo todo un regalo en los &#225;mbitos del entretenimiento y la agricultura.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_PASTURE</Tag>
 		<English>Build a [LINK=IMPROVEMENT_PASTURE]Pasture[\LINK]</English>
-		<French>&#206;&#225;&#243;&#241;&#242;&#240;&#238;&#232;&#242;&#252; [LINK=IMPROVEMENT_PASTURE]&#208;&#224;&#237;&#247;&#238;[\LINK]</French>
+		<French>Ïîñòðîèòü [LINK=IMPROVEMENT_PASTURE]ïàñòáèùå[\LINK]</French>
 		<German>[LINK=IMPROVEMENT_PASTURE]Ranch[\LINK] bauen</German>
 		<Italian>Build a [LINK=IMPROVEMENT_PASTURE]Pasture[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_PASTURE]Pasture[\LINK]</Spanish>
@@ -668,7 +663,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_MERCANTILE_HELP</Tag>
 		<English>[ICON_BULLET]Market prices are less sensitive and max tax rate is lower</English>
-		<French>[ICON_BULLET]&#208;&#251;&#237;&#238;&#247;&#237;&#251;&#229; &#246;&#229;&#237;&#251; &#237;&#224; &#242;&#238;&#226;&#224;&#240;&#251; &#241;&#237;&#232;&#230;&#229;&#237;&#251;, &#224; &#239;&#238;&#228;&#238;&#245;&#238;&#228;&#237;&#251; &#237;&#224;&#235;&#238;&#227; &#243;&#236;&#229;&#237;&#252;&#248;&#229;&#237;</French>
+		<French>[ICON_BULLET]Ðûíî÷íûå öåíû èçìåíÿþòñÿ ðåæå, à ìàêñèìàëüíàÿ ñòàâêà íàëîãà íèæå</French>
 		<German>[ICON_BULLET]Marktpreise ver&#228;ndern sich nur halb so schnell und die Steuerobergrenze ist niedriger</German>
 		<Italian>[ICON_BULLET]Market prices are less sensitive and max tax rate is lower</Italian>
 		<Spanish>[ICON_BULLET]Market prices are less sensitive and max tax rate is lower</Spanish>
@@ -676,7 +671,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_SEAFARERS</Tag>
 		<English>Seafarers</English>
-		<French>&#204;&#238;&#240;&#229;&#239;&#235;&#224;&#226;&#224;&#242;&#229;&#235;&#252;</French>
+		<French>Ìîðåõîäû</French>
 		<German>Seefahrer</German>
 		<Italian>Seafarers</Italian>
 		<Spanish>Seafarers</Spanish>
@@ -684,7 +679,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_SEAFARERS_SHORT</Tag>
 		<English>Sea</English>
-		<French>&lt;$#&quot;&#204;&#238;&#240;&#255;&#234;&quot;@&amp;&gt;</French>
+		<French>Ìîð.</French>
 		<German>See</German>
 		<Italian>Sea</Italian>
 		<Spanish>Sea</Spanish>
@@ -692,7 +687,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_UNDEMANDING</Tag>
 		<English>Undemanding</English>
-		<French>&#221;&#234;&#238;&#237;&#238;&#236;&#237;&#251;&#233;</French>
+		<French>Íåòðåáîâàòåëüíûé</French>
 		<German>Gen&#252;gsam</German>
 		<Italian>Undemanding</Italian>
 		<Spanish>Undemanding</Spanish>
@@ -700,7 +695,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_UNDEMANDING_SHORT</Tag>
 		<English>Und</English>
-		<French>&lt;$#&quot;&#221;&#234;&#238;&#237;&#238;&#236;&quot;@&amp;&gt;</French>
+		<French>Íåòðåá.</French>
 		<German>Gen</German>
 		<Italian>Und</Italian>
 		<Spanish>Und</Spanish>
@@ -708,7 +703,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ADMINISTRATIVE</Tag>
 		<English>Administrative</English>
-		<French>&#192;&#228;&#236;&#232;&#237;&#232;&#241;&#242;&#240;&#224;&#242;&#232;&#226;&#237;&#251;&#233;</French>
+		<French>Àäìèíèñòðàòîð</French>
 		<German>Administrativ</German>
 		<Italian>Amministrativo</Italian>
 		<Spanish>Administrativo</Spanish>
@@ -716,7 +711,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ADMINISTRATIVE_SHORT</Tag>
 		<English>Adm</English>
-		<French>&lt;$#&quot;&#192;&#228;&#236;&#232;&#237;&#232;&#241;&#242;&#240;&quot;@&amp;&gt;</French>
+		<French>Óïðàâë.</French>
 		<German>Adm</German>
 		<Italian>Amm</Italian>
 		<Spanish>Adm</Spanish>
@@ -744,7 +739,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_PIONEER_SHORT</Tag>
 		<English>Pio</English>
-		<French>&lt;$#&quot;&#207;&#232;&#238;&#237;&#229;&#240;&quot;@&amp;&gt;</French>
+		<French>Ïåðâî.</French>
 		<German>Pio</German>
 		<Italian>Pio</Italian>
 		<Spanish>Pio</Spanish>
@@ -772,7 +767,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_CAPITALIST_SHORT</Tag>
 		<English>Cap</English>
-		<French>&lt;$#&quot;&#202;&#224;&#239;&#232;&#242;&#224;&#235;&quot;@&amp;&gt;</French>
+		<French>Êàïèò.</French>
 		<German>Kap</German>
 		<Italian>Cap</Italian>
 		<Spanish>Cap</Spanish>
@@ -800,7 +795,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_SOPHISTICATED_SHORT</Tag>
 		<English>Sop</English>
-		<French>&lt;$#&quot;&#211;&#242;&#238;&#237;&#247;&#229;&#237;&#237;&#251;&#233;&quot;@&amp;&gt;</French>
+		<French>Êóëüò.</French>
 		<German>Kult</German>
 		<Italian>Sop</Italian>
 		<Spanish>Sop</Spanish>
@@ -808,7 +803,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_EXPANSIVE</Tag>
 		<English>Expansive</English>
-		<French>&#221;&#234;&#241;&#239;&#224;&#237;&#241;&#232;&#226;&#237;&#251;&#233;</French>
+		<French>Íåñäåðæàííûé</French>
 		<German>Expansiv</German>
 		<Italian>Espansivo</Italian>
 		<Spanish>Expansivo</Spanish>
@@ -816,7 +811,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_EXPANSIVE_SHORT</Tag>
 		<English>Exp</English>
-		<French>&lt;$#&quot;&#221;&#234;&#241;&#239;&#224;&#237;&#241;&quot;@&amp;&gt;</French>
+		<French>Íåñäåðæ.</French>
 		<German>Exp</German>
 		<Italian>Esp</Italian>
 		<Spanish>Exp</Spanish>
@@ -824,7 +819,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ADMIRAL</Tag>
 		<English>Experienced Admiral</English>
-		<French>&#206;&#239;&#251;&#242;&#237;&#251;&#233; &#224;&#228;&#236;&#232;&#240;&#224;&#235;</French>
+		<French>Îïûòíûé Àäìèðàë</French>
 		<German>Erfahrener Admiral</German>
 		<Italian>Experienced Admiral</Italian>
 		<Spanish>Experienced Admiral</Spanish>
@@ -832,7 +827,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_ADMIRAL_SHORT</Tag>
 		<English>ExA</English>
-		<French>&lt;$#&quot;&#206;&#239;&#251;&#242;.&#224;&#228;&#236;&#232;&#240;&#224;&#235;&quot;@&amp;&gt;</French>
+		<French>Îïûò.Àäì.</French>
 		<German>ErfA</German>
 		<Italian>ExA</Italian>
 		<Spanish>ExA</Spanish>
@@ -852,7 +847,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_GENERAL_SHORT</Tag>
 		<English>ExG</English>
-		<French>&lt;$#&quot;&#206;&#239;&#251;&#242;.&#227;&#229;&#237;&#229;&#240;&#224;&#235;&quot;@&amp;&gt;</French>
+		<French>Îïûò.Ãåí.</French>
 		<German>ErfG</German>
 		<Italian>EsG</Italian>
 		<Spanish>ExG</Spanish>
@@ -860,7 +855,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_AGRICULTURAL</Tag>
 		<English>Agricultural</English>
-		<French>&#209;&#229;&#235;&#252;&#241;&#234;&#238;&#245;&#238;&#231;&#255;&#233;&#241;&#242;&#226;&#229;&#237;&#237;&#238;&#229;</French>
+		<French>Çåìëåäåëüöû</French>
 		<German>Landwirtschaft</German>
 		<Italian>Agricultural</Italian>
 		<Spanish>Agricultural</Spanish>
@@ -868,7 +863,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_AGRICULTURAL_SHORT</Tag>
 		<English>Agr</English>
-		<French>&lt;$#&quot;&#209;&#229;&#235;&#252;&#241;&#234;.&#245;&#238;&#231;&quot;@&amp;&gt;</French>
+		<French>Çåìëåä.</French>
 		<German>Landw</German>
 		<Italian>Agr</Italian>
 		<Spanish>Agr</Spanish>
@@ -876,7 +871,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_IMPERIALIST</Tag>
 		<English>Imperialist</English>
-		<French>&#200;&#236;&#239;&#229;&#240;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233;</French>
+		<French>Èìïåðèàëèñòû</French>
 		<German>Imperialist</German>
 		<Italian>Imperialist</Italian>
 		<Spanish>Imperialist</Spanish>
@@ -884,7 +879,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_IMPERIALIST_SHORT</Tag>
 		<English>Imp</English>
-		<French>&lt;$#&quot;&#200;&#236;&#239;&#229;&#240;&#232;&#224;&#235;&#232;&#241;&#242;.&quot;@&amp;&gt;</French>
+		<French>Èìïåð.</French>
 		<German>Imp</German>
 		<Italian>Imp</Italian>
 		<Spanish>Imp</Spanish>
@@ -892,7 +887,7 @@
    	<TEXT>
 		<Tag>TXT_KEY_TRAIT_PATRIARCH</Tag>
 		<English>Patriarch</English>
-		<French>&#209;&#242;&#224;&#240;&#251;&#233; &#226;&#238;&#230;&#228;&#252; &#239;&#235;&#229;&#236;&#229;&#237;&#232;</French>
+		<French>Áåññòðàøíûé</French>
 		<German>Stammesh&#228;uptling</German>
 		<Italian>Patriarch</Italian>
 		<Spanish>Patriarch</Spanish>
@@ -900,7 +895,7 @@
      <TEXT>
 		<Tag>TXT_KEY_TRAIT_PATRIARCH_SHORT</Tag>
 		<English>Pat</English>
-		<French>&lt;$#&quot;&#209;&#242;&#224;&#240;. &#226;&#238;&#230;&#228;&#252; &#239;&#235;&#229;&#236;.&quot;@&amp;&gt;</French>
+		<French>Áåññòðàø.</French>
 		<German>Pat</German>
 		<Italian>Pat</Italian>
 		<Spanish>Pat</Spanish>
@@ -908,7 +903,7 @@
 	   	<TEXT>
 		<Tag>TXT_KEY_TRAIT_GATHERER</Tag>
 		<English>Gatherer</English>
-		<French>&#209;&#225;&#238;&#240;&#249;&#232;&#234;</French>
+		<French>Ñîáèðàòåëü</French>
 		<German>Sammler</German>
 		<Italian>Gatherer</Italian>
 		<Spanish>Gatherer</Spanish>
@@ -916,7 +911,7 @@
      <TEXT>
 		<Tag>TXT_KEY_TRAIT_GATHERER_SHORT</Tag>
 		<English>Gat</English>
-		<French>&lt;$#&quot;&#209;&#225;&#238;&#240;.&quot;@&amp;&gt;</French>
+		<French>Ñîá.</French>
 		<German>Sam</German>
 		<Italian>Gat</Italian>
 		<Spanish>Gat</Spanish>
@@ -924,7 +919,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_REBEL_COMBAT_MOD</Tag>
 		<English>[ICON_BULLET]%D1%% effect of Revolutionary Rate on Rebel [ICON_STRENGTH]</English>
-		<French>[ICON_BULLET]&#194; &#234;&#238;&#235;&#238;&#237;&#232;&#255;&#245; &#240;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#238;&#237;&#237;&#224;&#255; &#241;&#232;&#242;&#243;&#224;&#246;&#232;&#255;. %D1%% &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#246;&#229;&#226; &#227;&#238;&#242;&#238;&#226;&#251; &#234; &#225;&#243;&#237;&#242;&#243;[ICON_STRENGTH]</French>
+		<French>[ICON_BULLET]%D1%% ê ýôôåêòó îò Ðåâîëþöèîííûõ íàñòðîåíèé ê [ICON_STRENGTH] ïîâñòàíöåâ</French>
 		<German>[ICON_BULLET]%D1%% Auswirkung von Revolutionsbereitschaft auf [ICON_STRENGTH] der Rebellen</German>
 		<Italian>Effetto [ICON_BULLET]%D1%% di Revolutionary percentuale sul Rebel [ICON_STRENGTH]</Italian>
 		<Spanish>[ICON_BULLET]%D1%% efecto de la Revoluci&#243;n de Cambio on Rebelde [ICON_STRENGTH]</Spanish>
@@ -932,7 +927,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAIT_TREASURE_MODIFIER</Tag>
 		<English>[ICON_BULLET]%D1%% more [ICON_GOLD] when villages are captured</English>
-		<French>[ICON_BULLET]&#207;&#240;&#232; &#231;&#224;&#245;&#226;&#224;&#242;&#229; &#228;&#229;&#240;&#229;&#226;&#237;&#232; &#239;&#238;&#235;&#243;&#247;&#224;&#229;&#242; %D1%% [ICON_GOLD]</French>
+		<French>[ICON_BULLET]%D1%% áîëüøå [ICON_GOLD] ïðè çàõâàòå äåðåâåíü èíäåéöåâ</French>
 		<German>[ICON_BULLET]%D1%% mehr [ICON_GOLD], wenn D&#246;rfer eingenommen werden</German>
 		<Italian>[ICON_BULLET]Rende %D1%% [ICON_GOLD] quando vengono conquistati i villaggi</Italian>
 		<Spanish>[ICON_BULLET]Rinde %D1%% [ICON_GOLD] cuando se capturan aldeas</Spanish>
@@ -1059,11 +1054,11 @@
 	</TEXT>
 		<TEXT>
 		<Tag>TXT_KEY_BONUS_MELON_PEDIA</Tag>
-		<English>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Melons[COLOR_REVERT] grow on [LINK=TERRAIN_MARSH]Marsh[\LINK] Terrain that is either open or overgrown by [LINK=FEATURE_JUNGLE]Jungle[\LINK].[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]Melon is a name given to various members of the plant family Cucurbitaceae with sweet flavored, fleshy fruit e.g. gourds or cucurbits. Melon can be referred as a plant or a fruit. Many different cultivars have been produced, particularly of muskmelons. The plant grows as a vine. Although the melon is a fruit, some varieties may be considered &quot;culinary vegetables&quot;. The word melon derives from Latin melopepo,  which is the latinization of the Greek (melopepon), meaning &quot;melon&quot;,  itself a compound of (melon), &quot;apple&quot;  + p?p?? (pepon), amongst others &quot;a kind of gourd or melon&quot;.</English>
-		<French>[BOLD]&#209;&#242;&#240;&#224;&#242;&#229;&#227;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#240;&#229;&#241;&#243;&#240;&#241;:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]&#196;&#251;&#237;&#255;[COLOR_REVERT] ,&#240;&#224;&#241;&#242;&#229;&#242; &#237;&#224; &#234;&#235;&#229;&#242;&#234;&#224;&#245; [LINK=TERRAIN_MARSH]&#225;&#238;&#235;&#238;&#242;&#224;[\LINK] &#232;&#235;&#232; &#226; [LINK=FEATURE_JUNGLE]&#228;&#230;&#243;&#237;&#227;&#235;&#255;&#245;[\LINK].[NEWLINE][NEWLINE][BOLD]&#207;&#240;&#229;&#228;&#251;&#241;&#242;&#238;&#240;&#232;&#255;:[\BOLD][PARAGRAPH:1]&#205;&#224;&#231;&#226;&#224;&#237;&#232;&#229; ''&#196;&#251;&#237;&#255;'' &#237;&#238;&#241;&#255;&#242; &#240;&#224;&#231;&#235;&#232;&#247;&#237;&#251;&#229; &#247;&#235;&#229;&#237;&#251; &#241;&#229;&#236;&#252;&#232; ''&#210;&#251;&#234;&#226;&#229;&#237;&#237;&#251;&#229;''. &#209;&#224;&#236;&#238; &#241;&#235;&#238;&#226;&#238; &#236;&#238;&#230;&#229;&#242; &#238;&#231;&#237;&#224;&#247;&#224;&#242;&#252; &#234;&#224;&#234; &#226;&#241;&#229; &#240;&#224;&#241;&#242;&#229;&#237;&#232;&#229; &#226; &#246;&#229;&#235;&#238;&#236;, &#242;&#224;&#234; &#232; &#239;&#235;&#238;&#228; &#238;&#242;&#228;&#229;&#235;&#252;&#237;&#238;. &#204;&#237;&#238;&#230;&#229;&#241;&#242;&#226;&#238; &#241;&#238;&#240;&#242;&#238;&#226; &#228;&#251;&#237;&#232; &#225;&#251;&#235;&#238; &#226;&#251;&#226;&#229;&#228;&#229;&#237;&#238; &#232;&#231; &#236;&#243;&#241;&#234;&#243;&#241;&#237;&#238;&#233; &#228;&#251;&#237;&#232;. &#208;&#224;&#241;&#242;&#229;&#237;&#232;&#229; &#240;&#224;&#241;&#242;&#229;&#242; &#226; &#226;&#232;&#228;&#229; &#235;&#238;&#231;&#251;. &#213;&#238;&#242;&#252; &#228;&#251;&#237;&#254; &#232; &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#235;&#255;&#254;&#242; &#244;&#240;&#243;&#234;&#242;&#238;&#236;, &#237;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#229; &#226;&#232;&#228;&#251; &#241;&#247;&#232;&#242;&#224;&#254;&#242; &quot;&#234;&#243;&#235;&#232;&#237;&#224;&#240;&#237;&#251;&#236;&#232; &#238;&#226;&#238;&#249;&#224;&#236;&#232;&quot;. &#209;&#224;&#236;&#238; &#241;&#235;&#238;&#226;&#238; ''&#228;&#251;&#237;&#255;'' &#239;&#240;&#238;&#232;&#241;&#245;&#238;&#228;&#232;&#242; &#238;&#242; &#235;&#224;&#242;&#232;&#237;&#241;&#234;&#238;&#227;&#238; ''melopepo'', &#234;&#238;&#242;&#238;&#240;&#238;&#229; &#239;&#240;&#238;&#232;&#241;&#245;&#238;&#228;&#232;&#242; &#238;&#242; &#227;&#240;&#229;&#247;&#229;&#241;&#234;&#238;&#227;&#238; ''melopepon'', &#247;&#242;&#238; &#231;&#237;&#224;&#247;&#232;&#242; &quot;&#228;&#251;&#237;&#255;&quot; .</French>
+		<English>[BOLD]Strategy:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Melons[COLOR_REVERT] grow on [LINK=TERRAIN_MARSH]Marsh[\LINK] Terrain that is either open or overgrown by [LINK=FEATURE_JUNGLE]Jungle[\LINK].[NEWLINE][NEWLINE][BOLD]Background:[\BOLD][PARAGRAPH:1]Melon is a name given to various members of the plant family Cucurbitaceae with sweet flavored, fleshy fruit e.g. gourds or cucurbits. Melon can be referred as a plant or a fruit. Many different cultivars have been produced, particularly of muskmelons. The plant grows as a vine. Although the melon is a fruit, some varieties may be considered "culinary vegetables". The word melon derives from Latin melopepo,  which is the latinization of the Greek (melopepon), meaning "melon",  itself a compound of (melon), "apple"  + p?p?? (pepon), amongst others "a kind of gourd or melon".</English>
+		<French>[BOLD]&#209;&#242;&#240;&#224;&#242;&#229;&#227;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#240;&#229;&#241;&#243;&#240;&#241;:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]&#196;&#251;&#237;&#255;[COLOR_REVERT] ,&#240;&#224;&#241;&#242;&#229;&#242; &#237;&#224; &#234;&#235;&#229;&#242;&#234;&#224;&#245; [LINK=TERRAIN_MARSH]&#225;&#238;&#235;&#238;&#242;&#224;[\LINK] &#232;&#235;&#232; &#226; [LINK=FEATURE_JUNGLE]&#228;&#230;&#243;&#237;&#227;&#235;&#255;&#245;[\LINK].[NEWLINE][NEWLINE][BOLD]&#207;&#240;&#229;&#228;&#251;&#241;&#242;&#238;&#240;&#232;&#255;:[\BOLD][PARAGRAPH:1]&#205;&#224;&#231;&#226;&#224;&#237;&#232;&#229; ''&#196;&#251;&#237;&#255;'' &#237;&#238;&#241;&#255;&#242; &#240;&#224;&#231;&#235;&#232;&#247;&#237;&#251;&#229; &#247;&#235;&#229;&#237;&#251; &#241;&#229;&#236;&#252;&#232; ''&#210;&#251;&#234;&#226;&#229;&#237;&#237;&#251;&#229;''. &#209;&#224;&#236;&#238; &#241;&#235;&#238;&#226;&#238; &#236;&#238;&#230;&#229;&#242; &#238;&#231;&#237;&#224;&#247;&#224;&#242;&#252; &#234;&#224;&#234; &#226;&#241;&#229; &#240;&#224;&#241;&#242;&#229;&#237;&#232;&#229; &#226; &#246;&#229;&#235;&#238;&#236;, &#242;&#224;&#234; &#232; &#239;&#235;&#238;&#228; &#238;&#242;&#228;&#229;&#235;&#252;&#237;&#238;. &#204;&#237;&#238;&#230;&#229;&#241;&#242;&#226;&#238; &#241;&#238;&#240;&#242;&#238;&#226; &#228;&#251;&#237;&#232; &#225;&#251;&#235;&#238; &#226;&#251;&#226;&#229;&#228;&#229;&#237;&#238; &#232;&#231; &#236;&#243;&#241;&#234;&#243;&#241;&#237;&#238;&#233; &#228;&#251;&#237;&#232;. &#208;&#224;&#241;&#242;&#229;&#237;&#232;&#229; &#240;&#224;&#241;&#242;&#229;&#242; &#226; &#226;&#232;&#228;&#229; &#235;&#238;&#231;&#251;. &#213;&#238;&#242;&#252; &#228;&#251;&#237;&#254; &#232; &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#235;&#255;&#254;&#242; &#244;&#240;&#243;&#234;&#242;&#238;&#236;, &#237;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#229; &#226;&#232;&#228;&#251; &#241;&#247;&#232;&#242;&#224;&#254;&#242; "&#234;&#243;&#235;&#232;&#237;&#224;&#240;&#237;&#251;&#236;&#232; &#238;&#226;&#238;&#249;&#224;&#236;&#232;". &#209;&#224;&#236;&#238; &#241;&#235;&#238;&#226;&#238; ''&#228;&#251;&#237;&#255;'' &#239;&#240;&#238;&#232;&#241;&#245;&#238;&#228;&#232;&#242; &#238;&#242; &#235;&#224;&#242;&#232;&#237;&#241;&#234;&#238;&#227;&#238; ''melopepo'', &#234;&#238;&#242;&#238;&#240;&#238;&#229; &#239;&#240;&#238;&#232;&#241;&#245;&#238;&#228;&#232;&#242; &#238;&#242; &#227;&#240;&#229;&#247;&#229;&#241;&#234;&#238;&#227;&#238; ''melopepon'', &#247;&#242;&#238; &#231;&#237;&#224;&#247;&#232;&#242; "&#228;&#251;&#237;&#255;" .</French>
 		<German>[BOLD]Strategie:[\BOLD][PARAGRAPH:1][COLOR_HIGHLIGHT_TEXT]Melonen[COLOR_REVERT] wachsen nur auf [LINK=TERRAIN_MARSH]Sumpfland[\LINK]. Gelegentlich k&#246;nnen besonders gute Anbaugebiete f&#252;r Melonen auch von [LINK=FEATURE_JUNGLE]Dschungel[\LINK] &#252;berwachsen sein.[NEWLINE][NEWLINE][BOLD]Hintergrund:[\BOLD][PARAGRAPH:1]Als Melone bezeichnet man vor allem in subtropischen Gebieten kultivierte Gew&#228;chse mit gro&#223;en, saftreichen Beeren-Fr&#252;chten (botanischen Gem&#252;sen). Sie geh&#246;ren zur Familie der K&#252;rbisgew&#228;chse (Cucurbitaceae), werden also genau genommen als Gem&#252;se bezeichnet. Der deutsche Name ist von dem griechischen Wort f&#252;r "Apfel" abgeleitet. Es wird haupts&#228;chlich zwischen Zuckermelonen und Wassermelonen unterschieden. Melonen werden in der Botanik nicht als Verwandtschaftsgruppe angesehen, die Zuckermelonen (Cucumis melo) sind enger mit den Gurken verwandt als mit den Wassermelonen (Citrullus lanatus). Die Frucht wird aufgrund der harten Schale als Panzerbeere bezeichnet.</German>
-		<Italian>[TAB]Melon is a name given to various members of the plant family Cucurbitaceae with sweet flavored, fleshy fruit e.g. gourds or cucurbits. Melon can be referred as a plant or a fruit. Many different cultivars have been produced, particularly of muskmelons. The plant grows as a vine. Although the melon is a fruit, some varieties may be considered &quot;culinary vegetables&quot;. The word melon derives from Latin melopepo,  which is the latinization of the Greek (melopepon), meaning &quot;melon&quot;,  itself a compound of (melon), &quot;apple&quot;  + p?p?? (pepon), amongst others &quot;a kind of gourd or melon&quot;</Italian>
-		<Spanish>[TAB]Melon is a name given to various members of the plant family Cucurbitaceae with sweet flavored, fleshy fruit e.g. gourds or cucurbits. Melon can be referred as a plant or a fruit. Many different cultivars have been produced, particularly of muskmelons. The plant grows as a vine. Although the melon is a fruit, some varieties may be considered &quot;culinary vegetables&quot;. The word melon derives from Latin melopepo,  which is the latinization of the Greek (melopepon), meaning &quot;melon&quot;,  itself a compound of (melon), &quot;apple&quot;  + p?p?? (pepon), amongst others &quot;a kind of gourd or melon&quot;</Spanish>
+		<Italian>[TAB]Melon is a name given to various members of the plant family Cucurbitaceae with sweet flavored, fleshy fruit e.g. gourds or cucurbits. Melon can be referred as a plant or a fruit. Many different cultivars have been produced, particularly of muskmelons. The plant grows as a vine. Although the melon is a fruit, some varieties may be considered "culinary vegetables". The word melon derives from Latin melopepo,  which is the latinization of the Greek (melopepon), meaning "melon",  itself a compound of (melon), "apple"  + p?p?? (pepon), amongst others "a kind of gourd or melon"</Italian>
+		<Spanish>[TAB]Melon is a name given to various members of the plant family Cucurbitaceae with sweet flavored, fleshy fruit e.g. gourds or cucurbits. Melon can be referred as a plant or a fruit. Many different cultivars have been produced, particularly of muskmelons. The plant grows as a vine. Although the melon is a fruit, some varieties may be considered "culinary vegetables". The word melon derives from Latin melopepo,  which is the latinization of the Greek (melopepon), meaning "melon",  itself a compound of (melon), "apple"  + p?p?? (pepon), amongst others "a kind of gourd or melon"</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BRIGANTINE</Tag>
@@ -1200,7 +1195,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_SMUGGLERS</Tag>
 		<English>The smugglers we have hired await your orders in %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#234;&#238;&#237;&#242;&#240;&#224;&#225;&#224;&#237;&#228;&#232;&#241;&#242;&#251;, &#234;&#238;&#242;&#238;&#240;&#251;&#245; &#226;&#251; &#237;&#224;&#237;&#255;&#235;&#232;, &#230;&#228;&#243;&#242; &#226;&#224;&#248;&#232;&#245; &#243;&#234;&#224;&#231;&#224;&#237;&#232;&#233; &#239;&#238; &#228;&#238;&#241;&#242;&#224;&#226;&#234;&#229; &#234;&#238;&#237;&#242;&#240;&#238;&#225;&#224;&#237;&#228;&#251; &#226; &#227;&#238;&#240;&#238;&#228; %s1_city.</French>
+		<French>Ìèëîðä, [COLOR_SELECTED_TEXT]êîíòðàáàíäèñòû[COLOR_REVERT], êîòîðûõ ìû íåäàâíî íàíÿëè, æäóò âàøèõ ïðèêàçîâ â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Die angeheuerten Schmuggler erwarten in %s1_city Eure Befehle, Mylord.</German>
 		<Italian>The smugglers we have hired await your orders in %s1_city, Mylord.</Italian>
 		<Spanish>The smugglers we have hired await your orders in %s1_city, Mylord.</Spanish>
@@ -1320,7 +1315,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TRAINED_RANGERS</Tag>
 		<English>A new unit of Rangers awaits your commands in %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#237;&#238;&#226;&#251;&#229; &#238;&#242;&#240;&#255;&#228;&#251; &#240;&#229;&#233;&#237;&#228;&#230;&#229;&#240;&#238;&#226;-&#241;&#235;&#229;&#228;&#238;&#239;&#251;&#242;&#238;&#226; &#230;&#228;&#243;&#242; &#226;&#224;&#248;&#232;&#245; &#239;&#240;&#232;&#234;&#224;&#231;&#238;&#226; &#226; &#227;&#238;&#240;&#238;&#228;&#229; %s1_city.</French>
+		<French>Ìèëîðä, íîâûé îòðÿä [COLOR_UNIT_TEXT]ðåéíäæåðîâ[COLOR_REVERT] îæèäàåò âàøèõ ïðèêàçîâ â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Eine neue Einheit Rangers erwartet Ihre Befehle in %s1_city, Mylord.</German>
 		<Italian>A new unit of Rangers awaits your commands in %s1_city, Mylord.</Italian>
 		<Spanish>A new unit of Rangers awaits your commands in %s1_city, Mylord.</Spanish>
@@ -1372,7 +1367,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_HIRED_CONQUISTADORS</Tag>
 		<English>The Conquistadors from Europe have arrived in %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#226; &#227;&#238;&#240;&#238;&#228; %s1_city &#232;&#231; &#197;&#226;&#240;&#238;&#239;&#251; &#239;&#240;&#232;&#225;&#251;&#235;&#232; &#237;&#238;&#226;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;-&#234;&#238;&#237;&#234;&#232;&#241;&#242;&#224;&#228;&#238;&#240;&#251; &#228;&#235;&#255; &#238;&#241;&#226;&#238;&#229;&#237;&#232;&#255; &#232; &#231;&#224;&#226;&#238;&#229;&#226;&#224;&#237;&#232;&#255; &#205;&#238;&#226;&#251;&#245; &#231;&#229;&#236;&#229;&#235;&#252;.</French>
+		<French>Ìèëîðä, [COLOR_UNIT_TEXT]êîíêèñòàäîðû[COLOR_REVERT] èç Åâðîïû ïðèáûëè â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Conquistadores aus Europe sind in %s1_city angekommen, Mylord.</German>
 		<Italian>The Conquistadors from Europe have arrived in %s1_city, Mylord.</Italian>
 		<Spanish>The Conquistadors from Europe have arrived in %s1_city, Mylord.</Spanish>
@@ -1560,7 +1555,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_NATIVE_SLAVE</Tag>
 		<English>The Native Slaves we bought have been delivered to %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#238;&#225;&#240;&#224;&#249;&#229;&#237;&#237;&#251;&#229; &#226; &#240;&#224;&#225;&#241;&#242;&#226;&#238; &#224;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#251; &#239;&#240;&#232;&#225;&#251;&#235;&#232; &#226; &#237;&#224;&#248; &#227;&#238;&#240;&#238;&#228; %s1_city.</French>
+		<French>Ìèëîðä, êóïëåííûå íàìè [COLOR_UNIT_TEXT]òóçåìíûå ðàáû[COLOR_REVERT] áûëè äîñòàâëåíû â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Die Ureinwohnersklaven die wir gekauft haben, wurden nach %s1_city geliefert, Mylord.</German>
 		<Italian>I nativi schiavi che abbiamo comprato sono stati consegnati a %s1_city, Mylord.</Italian>
 		<Spanish>Los esclavos nativos compramos han sido entregados a %s1_city, Mylord.</Spanish>
@@ -1612,7 +1607,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_AFRICAN_SLAVE</Tag>
 		<English>The Slaves we bought from Africa have arrived in %s1_city, Mylord.</English>
-		<French>&#204;&#232;&#235;&#238;&#240;&#228;, &#224;&#244;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#229; &#240;&#224;&#225;&#251; &#228;&#238;&#241;&#242;&#224;&#226;&#235;&#229;&#237;&#251; &#226; &#227;&#238;&#240;&#238;&#228; %s1_city.</French>
+		<French>Ìèëîðä, [COLOR_UNIT_TEXT]ðàáû[COLOR_REVERT], êîòîðûõ ìû êóïèëè â Àôðèêå, ïðèáûëè â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Die Sklaven aus Afrika wurden nach %s1_city geliefert, Mylord.</German>
 		<Italian>Gli schiavi che abbiamo comprato dall'Africa sono arrivati in %s1_city, Mylord.</Italian>
 		<Spanish>Los esclavos que compramos de &#193;frica han llegado %s1_city, Mylord.</Spanish>
@@ -1755,7 +1750,7 @@
 		<Tag>TXT_KEY_UNIT_COASTAL_TRANSPORT_STRATEGY</Tag>
 		<English>[COLOR_HIGHLIGHT_TEXT]Coastal ships [COLOR_REVERT]can be used for transports of goods and peoples near the coast. They are small, but fast and indeed faster and more spacious than wagon trains. They can only be used near the coast but they cannot use ocean fields so that they cannot sail to Europe. The small coastal ship has two slots for goods and peoples, the bigger one has three slots.</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Coastal ships [COLOR_REVERT]can be used for transports of goods and peoples near the coast. They are small, but fast and indeed faster and more spacious than wagon trains. They can only be used near the coast but they cannot use ocean fields so that they cannot sail to Europe. The small coastal ship has two slots for goods and peoples, the bigger one has three slots.</French>
-		<German>[COLOR_HIGHLIGHT_TEXT]K&#252;stensegler[COLOR_REVERT] sind eigens für den k&#252;stennahen Transport von Waren und Menschen gedacht. Sie sind zwar klein, daf&#252;r aber sehr wendig und au&#223;erdem deutlich ger&#228;umiger und schneller als ein Planwagen. Sie k&#246;nnen nur in [COLOR_HIGHLIGHT_TEXT]K&#252;stennähe[COLOR_REVERT] eingesetzt werden. Den Ozean kann man mit ihnen nicht befahren, so dass sie nicht nach Europa segeln k&#246;nnen. Der Kleine K&#252;stensegler hat zwei Frachtpl&#228;tze, der gro&#223;e K&#252;stensegler drei. Beide k&#246;nnen sich nur geringf&#252;gig verteidigen.</German>
+		<German>[COLOR_HIGHLIGHT_TEXT]K&#252;stensegler[COLOR_REVERT] sind eigens f&#252;r den k&#252;stennahen Transport von Waren und Menschen gedacht. Sie sind zwar klein, daf&#252;r aber sehr wendig und au&#223;erdem deutlich ger&#228;umiger und schneller als ein Planwagen. Sie k&#246;nnen nur in [COLOR_HIGHLIGHT_TEXT]K&#252;stenn&#228;he[COLOR_REVERT] eingesetzt werden. Den Ozean kann man mit ihnen nicht befahren, so dass sie nicht nach Europa segeln k&#246;nnen. Der Kleine K&#252;stensegler hat zwei Frachtpl&#228;tze, der gro&#223;e K&#252;stensegler drei. Beide k&#246;nnen sich nur geringf&#252;gig verteidigen.</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Coastal ships [COLOR_REVERT]can be used for transports of goods and peoples near the coast. They are small, but fast and indeed faster and more spacious than wagon trains. They can only be used near the coast but they cannot use ocean fields so that they cannot sail to Europe. The small coastal ship has two slots for goods and peoples.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Coastal ships [COLOR_REVERT]can be used for transports of goods and peoples near the coast. They are small, but fast and indeed faster and more spacious than wagon trains. They can only be used near the coast but they cannot use ocean fields so that they cannot sail to Europe. The small coastal ship has two slots for goods and peoples.</Spanish>
 	</TEXT>
@@ -1763,7 +1758,7 @@
 		<Tag>TXT_KEY_UNIT_COASTAL_SHIPS_PEDIA</Tag>
 		<English>[COLOR_HIGHLIGHT_TEXT]Coastal Shipping [COLOR_REVERT] is - of course - operated near the coast. Small and habile as well as spacious sailling vessels are suitable to transport goods and peoples between the colonies already shortly after the landing in the New World. Due to their small size these coastal vessels cannot sail to Europe or Africa.</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Coastal Shipping [COLOR_REVERT] is - of course - operated near the coast. Small and habile as well as spacious sailling vessels are suitable to transport goods and peoples between the colonies already shortly after the landing in the New World. Due to their small size these coastal vessels cannot sail to Europe or Africa.</French>
-		<German>[COLOR_UNIT_TEXT]K&#252;stenschifffahrt[COLOR_REVERT] wird, wie der Name schon sagt, nur nahe der K&#252;ste betrieben. Kleine und wendige - daf&#252;r aber recht ger&#228;umige Segler eignen sich bestens dazu, bereits sehr fr&#252;h nach der Landung in der neuen Welt Schiffe zu bauen, mit denen Waren schnell zwischen den Kolonien hin- und hertransportiert werden k&#246;nnen, bis ein Straßennetz errichtet werden kann. Aufgrund ihrer geringen Gr&#246;&#223;e können die K&#252;stensegler nicht auf den Ozean hinaus fahren und auch nicht nach Europa oder Afrika segeln. </German>
+		<German>[COLOR_UNIT_TEXT]K&#252;stenschifffahrt[COLOR_REVERT] wird, wie der Name schon sagt, nur nahe der K&#252;ste betrieben. Kleine und wendige - daf&#252;r aber recht ger&#228;umige Segler eignen sich bestens dazu, bereits sehr fr&#252;h nach der Landung in der neuen Welt Schiffe zu bauen, mit denen Waren schnell zwischen den Kolonien hin- und hertransportiert werden k&#246;nnen, bis ein Stra&#223;ennetz errichtet werden kann. Aufgrund ihrer geringen Gr&#246;&#223;e k&#246;nnen die K&#252;stensegler nicht auf den Ozean hinaus fahren und auch nicht nach Europa oder Afrika segeln. </German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Coastal Shipping [COLOR_REVERT] is - of course - operated near the coast. Small and habile as well as spacious sailling vessels are suitable to transport goods and peoples between the colonies already shortly after the landing in the New World. Due to their small size these coastal vessels cannot sail to Europe or Africa.</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Coastal Shipping [COLOR_REVERT] is - of course - operated near the coast. Small and habile as well as spacious sailling vessels are suitable to transport goods and peoples between the colonies already shortly after the landing in the New World. Due to their small size these coastal vessels cannot sail to Europe or Africa.</Spanish>
 	</TEXT>
@@ -1822,7 +1817,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_YIELDS_CONVERSION</Tag>
 		<English>[ICON_BULLET]Converts %s1_symbol_list into %F2_yield</English>
-		<French>[ICON_BULLET]&#207;&#240;&#229;&#238;&#225;&#240;&#224;&#231;&#243;&#229;&#242; %s1_symbol_list &#226; %F2_yield</French>
+		<French>[ICON_BULLET]Ïðåîáðàçóåò %s1_symbol_list â %F2_yield</French>
 		<German>[ICON_BULLET]Wandelt %s1_symbol_list in %F2_yield um</German>
 		<Italian>[ICON_BULLET]Converte %s1_symbol_list in %F2_yield</Italian>
 		<Spanish>[ICON_BULLET]Convierte %s1_symbol_list en %F2_yield</Spanish>
@@ -1830,7 +1825,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_YIELDS_PRODUCED_WITH_CHAR</Tag>
 		<English>Produces: %s1_symbol_list</English>
-		<French>&#207;&#240;&#238;&#232;&#231;&#238;&#228;&#232;&#242;/&#207;: %s1_symbol_list</French>
+		<French>Ïðîèçâîäèò : %s1_symbol_list</French>
 		<German>Produziert: %s1_symbol_list</German>
 		<Italian>Produce: %s1_symbol_list</Italian>
 		<Spanish>Produce: %s1_symbol_list</Spanish>
@@ -1846,7 +1841,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_YIELD_DEMAND</Tag>
 		<English>Demands %s1_symbol_list</English>
-		<French>Demands %s1_symbol_list</French>
+		<French>Ïîòðåáëÿåò %s1_symbol_list</French>
 		<German>Will %s1_symbol_list</German>
 		<Italian>Demands %s1_symbol_list</Italian>
 		<Spanish>Demands %s1_symbol_list</Spanish>
@@ -1854,7 +1849,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_GOODS_DOMESTIC_SOLD</Tag>
 		<English>Goods worth %d2[ICON_GOLD] have been sold on the domestic market of %s1_city.</English>
-		<French>Goods worth %d2[ICON_GOLD] have been sold on the domestic market of %s1_city.</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] : Òîâàðû íà ñóììó %d2[ICON_GOLD] áûëè ïðîäàíû íà âíóòðåííåì ðûíêå.</French>
 		<German>Auf dem Markt von %s1_city wurden G&#252;ter f&#252;r %d2[ICON_GOLD] verkauft.</German>
 		<Italian>On the domestic market of %s1_city goods for %d2[ICON_GOLD] have been sold.</Italian>
 		<Spanish>On the domestic market of %s1_city goods for %d2[ICON_GOLD] have been sold.</Spanish>
@@ -1862,7 +1857,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_INFO_YIELD</Tag>
 		<English>[COLOR_HIGHLIGHT_TEXT]Domestic Demand:[COLOR_REVERT] %d1 [NEWLINE] [COLOR_HIGHLIGHT_TEXT]Domestic Price:[COLOR_REVERT] %d2[ICON_GOLD]</English>
-		<French>[COLOR_HIGHLIGHT_TEXT]Domestic Demand:[COLOR_REVERT] %d1 [NEWLINE] [COLOR_HIGHLIGHT_TEXT]Domestic Price:[COLOR_REVERT] %d2[ICON_GOLD]</French>
+		<French>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Âíóòðåííèé ñïðîñ : [COLOR_REVERT][TAB]%d1[NEWLINE][COLOR_HIGHLIGHT_TEXT]Âíóòðåííÿÿ öåíà : [COLOR_REVERT][TAB]%d2[ICON_GOLD][NEWLINE]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]Heimische Nachfrage:[COLOR_REVERT] %d1 [NEWLINE] [COLOR_HIGHLIGHT_TEXT]Heimischer Preis:[COLOR_REVERT] %d2[ICON_GOLD]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Domestic Demand:[COLOR_REVERT] %d1 [NEWLINE] [COLOR_HIGHLIGHT_TEXT]Domestic Price:[COLOR_REVERT] %d2[ICON_GOLD]</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Domestic Demand:[COLOR_REVERT] %d1 [NEWLINE] [COLOR_HIGHLIGHT_TEXT]Domestic Price:[COLOR_REVERT] %d2[ICON_GOLD]</Spanish>
@@ -1870,7 +1865,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BOUGHT_BISHOP</Tag>
 		<English>The new Bishop has arrived in %s1_city, Mylord.</English>
-		<French>The new Bishop has arrived in %s1_city, Mylord.</French>
+		<French>Ìèëîðä, íîâûé [COLOR_UNIT_TEXT]åïèñêîï[COLOR_REVERT] ïðèáûë â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Der neue Bischof ist in %s1_city angekommen, Mylord.</German>
 		<Italian>The new Bishop has arrived in %s1_city, Mylord.</Italian>
 		<Spanish>The new Bishop has arrived in %s1_city, Mylord.</Spanish>
@@ -1878,7 +1873,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_PLASTERED_ROAD</Tag>
 		<English>Build a Country Road</English>
-		<French>Build a Country Road</French>
+		<French>Ïîñòðîèòü âûìîùåííóþ êàìíåì äîðîãó</French>
 		<German>Landstra&#223;e bauen</German>
 		<Italian>Build a Country Road</Italian>
 		<Spanish>Build a Country Road</Spanish>
@@ -1886,7 +1881,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_ROUTE_PLASTERED_ROAD</Tag>
 		<English>Country Road</English>
-		<French>Country Road</French>
+		<French>Âûìîùåííàÿ êàìíåì äîðîãà</French>
 		<German>Landstra&#223;e</German>
 		<Italian>Country Road</Italian>
 		<Spanish>Country Road</Spanish>
@@ -1894,7 +1889,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST</Tag>
 		<English>Teacher List Popup Screen</English>
-		<French>Teacher List Popup Screen</French>
+		<French>Âñïëûâàþùåå îêíî ñïèñêà ó÷èòåëåé</French>
 		<German>Ausbildungs Popup Screen</German>
 		<Italian>Teacher List Popup Screen</Italian>
 		<Spanish>Teacher List Popup Screen</Spanish>
@@ -1903,8 +1898,7 @@
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST_POPUP_TEXT</Tag>
 		<English>%s1_city can train the following units.
 Select how many units you want to be trained of each profession.</English>
-		<French>%s1_city peut former les unit&#233;s suivantes.
-S&#233;lectionner le nombre d'unit&#233;s que vous souhaitez former pour chaque profession.</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT][NEWLINE][NEWLINE]Ìû ìîæåì îáó÷èòü ñëåäóþùèå îòðÿäû. Âûáåðèòå ïðîôåññèþ è êîëè÷åñòâî þíèòîâ, êîòîðûõ âû õîòåëè áû îáó÷èòü.</French>
 		<German>%s1_city kann die folgenden Einheiten ausbilden.
 Anzahl Einheiten festlegen, die f&#252;r Beruf ausgebildet werden sollen.</German>
 		<Italian>%s1_city can train the following units.
@@ -1915,7 +1909,7 @@ Select how many units you want to be trained of each profession.</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST_POPUP_NO_SCHOOL_TEXT</Tag>
 		<English>%s1_city has no proper education system.</English>
-		<French>%s1_city has no proper education system.</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT][NEWLINE][NEWLINE]Ñèñòåìà îáðàçîâàíèÿ îòñóòñòâóåò!</French>
 		<German>%s1_city hat kein ausreichendes Ausbildungssystem.</German>
 		<Italian>%s1_city has no proper education system.</Italian>
 		<Spanish>%s1_city has no proper education system.</Spanish>
@@ -1923,7 +1917,7 @@ Select how many units you want to be trained of each profession.</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST_POPUP_RESET_ALL_TEXT</Tag>
 		<English>Reset All</English>
-		<French>Reset All</French>
+		<French>Î÷èñòèòü âñå</French>
 		<German>Alles zur&#252;cksetzen</German>
 		<Italian>Reset All</Italian>
 		<Spanish>Reset All</Spanish>
@@ -1931,7 +1925,7 @@ Select how many units you want to be trained of each profession.</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST_POPUP_RESET_ALL_HELP</Tag>
 		<English>Clear all repeats and set all units to 0.</English>
-		<French>Clear all repeats and set all units to 0.</French>
+		<French>Î÷èñòèòå âñå ïîâòîðû è óñòàíîâèòå äëÿ âñåõ þíèòîâ çíà÷åíèå 0.</French>
 		<German>Alle Wiederholungen auf 0 setzen.</German>
 		<Italian>Clear all repeats and set all units to 0.</Italian>
 		<Spanish>Clear all repeats and set all units to 0.</Spanish>
@@ -1939,7 +1933,7 @@ Select how many units you want to be trained of each profession.</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST_POPUP_REPEAT_TEXT</Tag>
 		<English>Repeat</English>
-		<French>Repeat</French>
+		<French>Ïîâòîðèòü</French>
 		<German>Wiederholen</German>
 		<Italian>Repeat</Italian>
 		<Spanish>Repeat</Spanish>
@@ -1960,7 +1954,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_TEACHER_LIST_NO_TEACHER</Tag>
 		<English>%s1_unit: no teacher</English>
-		<French>%s1_unit: no teacher</French>
+		<French>%s1_unit : [COLOR_WARNING_TEXT]ÍÅÒ[COLOR_REVERT] ó÷èòåëÿ</French>
 		<German>%s1_unit: kein Lehrer</German>
 		<Italian>%s1_unit: no teacher</Italian>
 		<Spanish>%s1_unit: no teacher</Spanish>
@@ -1968,7 +1962,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_CUSTOM_HOUSE</Tag>
 		<English>Custom House Popup Screen</English>
-		<French>Custom House Popup Screen</French>
+		<French>Âñïëûâàþùåå îêíî òàìîæíè</French>
 		<German>Zollhaus Einstellungen</German>
 		<Italian>Custom House Popup Screen</Italian>
 		<Spanish>Custom House Popup Screen</Spanish>
@@ -1976,7 +1970,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_EDIT_CUSTOM_HOUSE_TEXT</Tag>
 		<English>Custom House</English>
-		<French>Custom House</French>
+		<French>Òàìîæíÿ</French>
 		<German>Zollhaus</German>
 		<Italian>Custom House</Italian>
 		<Spanish>Custom House</Spanish>
@@ -1984,7 +1978,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_CUSTOM_HOUSE_POPUP_TEXT</Tag>
 		<English>Select goods that will be sold by Custom House, and select mimimum amount of a specific yield to enable Custom House to sell such yield in city %s1_city</English>
-		<French>Select goods that will be sold by Custom House, and select mimimum amount of a specific yield to enable Custom House to sell such yield in city %s1_city</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT][NEWLINE][NEWLINE]Âûáåðèòå òîâàðû, êîòîðûå áóäóò ïðîäàâàòüñÿ ìåñòíîé òàìîæíåé (íåáîëüøèìè ïàðòèÿìè) è èõ ìèíèìàëüíûé îñòàòîê íà ñêëàäå, êîòîðûé òàìîæíÿ íå áóäåò ðåàëèçîâûâàòü. Îäíàêî ïðè ïåðåïîëíåííîì ñêëàäå ÷àñòü ëþáîãî òîâàðà ìîæåò áûòü ïðîäàíà.</French>
 		<German>W&#228;hle G&#252;ter, die auf dem heimischen Markt verkauft werden sollen, sowie eine Mindestschwelle ab der das Zollhaus in %s1_city verkaufen soll.</German>
 		<Italian>Select goods that will be sold by Custom House, and select mimimum amount of a specific yield to enable Custom House to sell such yield in city %s1_city</Italian>
 		<Spanish>Select goods that will be sold by Custom House, and select mimimum amount of a specific yield to enable Custom House to sell such yield in city %s1_city</Spanish>
@@ -1992,7 +1986,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_CUSTOM_HOUSE_POPUP_TEXT_NO_NEW_CAPACITY</Tag>
 		<English>New Capacity not activated ! Settings will have no effect.</English>
-		<French>New Capacity not activated ! Settings will have no effect.</French>
+		<French>Íîâàÿ åìêîñòü íå àêòèâèðîâàíà! Íàñòðîéêè íå áóäóò èìåòü íèêàêîãî çíà÷åíèÿ.</French>
 		<German>New Capacity nicht aktiviert ! Einstellungen haben keine Wirkung.</German>
 		<Italian>New Capacity not activated ! Settings will have no effect.</Italian>
 		<Spanish>New Capacity not activated ! Settings will have no effect.</Spanish>
@@ -2000,7 +1994,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_CUSTOM_HOUSE_NOT_BUILT_YET_POPUP_TEXT</Tag>
 		<English>You have not built a Custom House in %s1_city yet. Settings will be stored, but they will have no effect until you do build the Custom House.</English>
-		<French>You have not built a Custom House in %s1_city yet. Settings will be stored, but they will have no effect until you do build the Custom House.</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT][NEWLINE][NEWLINE]Âû åùå íå ïîñòðîèëè çäàíèå òàìîæíè. Íàñòðîéêè áóäóò ñîõðàíåíû, íî îíè íå áóäóò äåéñòâîâàòü äî òåõ ïîð, ïîêà âû íå ïîñòðîèòå òàìîæíþ.</French>
 		<German>Es gibt noch kein Zollhaus in %s1_city. Einstellungen werden zwar gespeichert, sind aber noch nicht wirksam.</German>
 		<Italian>You have not built a Custom House in %s1_city yet. Settings will be stored, but they will have no effect until you do build the Custom House.</Italian>
 		<Spanish>You have not built a Custom House in %s1_city yet. Settings will be stored, but they will have no effect until you do build the Custom House.</Spanish>
@@ -2008,7 +2002,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_NEVER_SELL</Tag>
 		<English>Never Sell</English>
-		<French>Never Sell</French>
+		<French>Íèêîãäà íå ïðîäàâàòü</French>
 		<German>Nicht verkaufen</German>
 		<Italian>Mai vendere</Italian>
 		<Spanish>Nunca Vender</Spanish>
@@ -2016,7 +2010,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 		<TEXT>
 		<Tag>TXT_KEY_GOODS_SOLD_CUSTOM_HOUSE</Tag>
 		<English>The custom house in %s3_city has sold %d1_number%F2_yield_icon for %d4[ICON_GOLD].</English>
-		<French>The custom house in %s3_city has sold %d1_number%F2_yield_icon for %d4[ICON_GOLD].</French>
+		<French>[COLOR_SELECTED_TEXT]%s3_city[COLOR_REVERT] : Òàìîæíÿ ïðîäàëà %d1_number%F2_yield_icon çà %d4[ICON_GOLD].</French>
 		<German>Das Zollhaus in %s3_city hat %d1_number%F2_yield_icon f&#252;r %d4[ICON_GOLD] verkauft.</German>
 		<Italian>The custom house in %s3_city has sold %d1_number%F2_yield_icon for %d4[ICON_GOLD].</Italian>
 		<Spanish>The custom house in %s3_city has sold %d1_number%F2_yield_icon for %d4[ICON_GOLD].</Spanish>
@@ -2024,7 +2018,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_NATIVES_NOT_WILLING_TO_TALK</Tag>
 		<English>Sire, the Natives in %s1_city are not willing to talk with us. Only angry faces stare at our men. [NEWLINE] We should come back when our relations have improved.</English>
-		<French>Sire, the Natives in %s1_city are not willing to talk with us. Only angry faces stare at our men. [NEWLINE] We should come back when our relations have improved.</French>
+		<French>Ìèëîðä, èíäåéöû èç [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] áîëüøå íå õîòÿò ñ íàìè ðàçãîâàðèâàòü. Çëûå ëèöà ñìîòðÿò íà íàøèõ ëþäåé èç-çà ÷àñòîêîëà, à èç ïîñåëåíèÿ äîíîñÿòñÿ çâóêè áîåâûõ áàðàáàíîâ.[NEWLINE]Ìû ìîæåì ïîïðîáîâàòü âåðíóòüñÿ, êîãäà íàøè îòíîøåíèÿ óëó÷øàòñÿ.</French>
 		<German>Sire, die Wilden in %s1_city weigern sich mit uns zu sprechen. Lediglich w&#252;tende Gesicher begegnen uns. [NEWLINE] Wir sollten zur&#252;ckkehren, wenn die Beziehungen sich wieder gebessert haben.</German>
 		<Italian>Sire, the Natives in %s1_city are not willing to talk with us. Only angry faces stare at our men. [NEWLINE] We should come back when our relations have improved.</Italian>
 		<Spanish>Sire, the Natives in %s1_city are not willing to talk with us. Only angry faces stare at our men. [NEWLINE] We should come back when our relations have improved.</Spanish>
@@ -2032,7 +2026,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_WORLDBUILDER_RAR_AMERAYCA</Tag>
 		<English>Religion and Revolution (Gigantic): Optimized for playing Religion and Revolution. Not geographically or historically correct. Extremely big.</English>
-		<French>Religion and Revolution (Gigantic): Optimized for playing Religion and Revolution. Not geographically or historically correct. Extremely big.</French>
+		<French>Amerayca (110x215): Íå âåðíî íè ãåîãðàôè÷åñêè, íè èñòîðè÷åñêè..</French>
 		<German>Religion and Revolution (Gigantic): Optimized for playing Religion and Revolution. Not geographically or historically corret. Extremely big.</German>
 		<Italian>Religion and Revolution (Gigantic): Optimized for playing Religion and Revolution. Not geographically or historically corret. Extremely big.</Italian>
 		<Spanish>Religion and Revolution (Gigantic): Optimized for playing Religion and Revolution. Not geographically or historically corret. Extremely big.</Spanish>
@@ -2040,7 +2034,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_WORLDBUILDER_THE_NEW_WORLD</Tag>
 		<English>Religion and Revolution (Gigantic): Geographically correct map of the New World. Extremely big.</English>
-		<French>Religion and Revolution (Gigantic): Geographically correct map of the New World. Extremely big.</French>
+		<French>Íîâûé ìèð (110x215): ãåîãðàôè÷åñêè êîððåêòíàÿ êàðòà Íîâîãî Ñâåòà</French>
 		<German>Religion and Revolution (Gigantic): Geographically correct map of the New World. Extremely big.</German>
 		<Italian>Religion and Revolution (Gigantic): Geographically correct map of the New World. Extremely big.</Italian>
 		<Spanish>Religion and Revolution (Gigantic): Geographically correct map of the New World. Extremely big.</Spanish>
@@ -2048,7 +2042,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NOT_FOUND_CITY</Tag>
 		<English>[ICON_BULLET]Can Not Found a New Settlement</English>
-		<French>[ICON_BULLET]Can Not Found a New Settlement</French>
+		<French>[ICON_BULLET]Íå ìîæåò îñíîâûâàòü íîâûå ïîñåëåíèÿ</French>
 		<German>[ICON_BULLET]Kann keine neue Siedlung gr&#252;nden</German>
 		<Italian>[ICON_BULLET]Pu&#242; fondare un nuovo insediamento</Italian>
 		<Spanish>[ICON_BULLET]Puede fundar un nuevo asentamiento</Spanish>
@@ -2056,7 +2050,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_MARKET</Tag>
 		<English>Domestic Market</English>
-		<French>Domestic Market</French>
+		<French>Âíóòðåííèé ðûíîê</French>
 		<German>Heimischer Markt</German>
 		<Italian>Domestic Market</Italian>
 		<Spanish>Domestic Market</Spanish>
@@ -2064,7 +2058,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_DEMAND</Tag>
 		<English>Demand</English>
-		<French>Demand</French>
+		<French>Ïîòðåáíîñòü</French>
 		<German>Bedarf</German>
 		<Italian>Domanda</Italian>
 		<Spanish>Demanda</Spanish>
@@ -2072,7 +2066,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_PRICE</Tag>
 		<English>Price</English>
-		<French>Price</French>
+		<French>Öåíà</French>
 		<German>Preis</German>
 		<Italian>Prezzo</Italian>
 		<Spanish>Precio</Spanish>
@@ -2080,7 +2074,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_MARKET_POPUP</Tag>
 		<English>Domestic Market (%s1_city)</English>
-		<French>Domestic Market (%s1_city)</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT][NEWLINE][NEWLINE]Âíóòðåííèé ðûíîê :</French>
 		<German>Heimischer Markt (%s1_city)</German>
 		<Italian>Domestic Market (%s1_city)</Italian>
 		<Spanish>Mercado Interior (%s1_city)</Spanish>
@@ -2088,7 +2082,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_STORED</Tag>
 		<English>Stored</English>
-		<French>Stored</French>
+		<French>Õðàíèòñÿ</French>
 		<German>Lager</German>
 		<Italian>Stored</Italian>
 		<Spanish>Stored</Spanish>
@@ -2096,7 +2090,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GAMEOPTION_NO_MORE_VARIABLES_HIDDEN</Tag>
 		<English>No variables hidden</English>
-		<French>&#205;&#232;&#234;&#224;&#234;&#232;&#245; &#241;&#234;&#240;&#251;&#242;&#251;&#245; &#239;&#229;&#240;&#229;&#236;&#229;&#237;&#237;&#251;&#245;</French>
+		<French>Íåò ñêðûòûõ äàííûõ</French>
 		<German>Keine versteckten Variablen mehr</German>
 		<Italian>No more variables hidden</Italian>
 		<Spanish>No more variables hidden</Spanish>
@@ -2112,7 +2106,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_FROM_HANDICAP</Tag>
 		<English>%D1 from Difficulty Level</English>
-		<French>%D1 from Difficulty Level</French>
+		<French>%D1: (îò óðîâíÿ ñëîæíîñòè)</French>
 		<German>%D1 durch Schwierigkeitsgrad</German>
 		<Italian>%D1 per il livello di difficolt&#224;</Italian>
 		<Spanish>%D1 por nivel de dificultad</Spanish>
@@ -2120,7 +2114,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_SAME_RELIGION</Tag>
 		<English>%D1: "We care for our brothers and sisters of the faith."</English>
-		<French>%D1: "We care for our brothers and sisters of the faith."</French>
+		<French>%D1: "Ìû çàáîòèìñÿ î íàøèõ áðàòüÿõ è ñåñòðàõ ïî âåðå."</French>
 		<German>%D1: "Wir stehen zu unseren Glaubensbr&#252;dern und -schwestern."</German>
 		<Italian>%D1: "Ci preoccupiamo dei nostri fratelli e delle nostre sorelle."</Italian>
 		<Spanish>%D1: "Nos preocupamos por nuestros hermanos y hermanas de fe."</Spanish>
@@ -2128,7 +2122,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_DIFFERENT_RELIGION</Tag>
 		<English>%D1: "We are upset that you have fallen under the sway of a heathen religion."</English>
-		<French>%D1: "We are upset that you have fallen under the sway of a heathen religion."</French>
+		<French>%D1: "Ìû ðàññòðîåíû òåì, ÷òî âû ïîïàëè ïîä âëèÿíèå ÿçû÷íèêîâ!"</French>
 		<German>%D1: "Wir sind entsetzt, dass Ihr in die F&#228;nge einer heidnischen Religion geraten seid!"</German>
 		<Italian>%D1: "Siamo amareggiati del fatto che siate caduti schiavi di una religione empia."</Italian>
 		<Spanish>%D1: "Nos trastorna que hay&#225;is ca&#237;do bajo el influjo de una religi&#243;n infiel."</Spanish>
@@ -2152,7 +2146,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_BASE_ATTITUDE</Tag>
 		<English>%D1: (Base Attitude) </English>
-		<French>%D1: (Base Attitude) </French>
+		<French>%D1: (íà÷àëüíîå îòíîøåíèå)</French>
 		<German>%D1: (Grundhaltung)</German>
 		<Italian>%D1: (atteggiamento iniziali)</Italian>
 		<Spanish>%D1: (actitud base)</Spanish>
@@ -2160,7 +2154,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_TOTAL_ATTITUDE</Tag>
 		<English>%D1: (Total Attitude) </English>
-		<French>%D1: (Total Attitude) </French>
+		<French>%D1: (îáùåå îòíîøåíèå)</French>
 		<German>%D1: (Gesamthaltung)</German>
 		<Italian>%D1: (Total Attitude)</Italian>
 		<Spanish>%D1: (Total Attitude)</Spanish>
@@ -2168,7 +2162,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_NATIVE_ATTITUDE</Tag>
 		<English>%D1: "Your strange customs intrigue us"</English>
-		<French>%D1: "Your strange customs intrigue us"</French>
+		<French>%D1: "Âàøè ñòðàííûå îáû÷àè çàèíòðèãîâàëè íàñ."</French>
 		<German>%D1: "Eure seltsamen Sitten verwirren uns"</German>
 		<Italian>%D1: "Your strange customs intrigue us"</Italian>
 		<Spanish>%D1: "Your strange customs intrigue us"</Spanish>
@@ -2176,7 +2170,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_LOST_WAR_ATTITUDE</Tag>
 		<English>%D1: (Lost War attitude) </English>
-		<French>%D1: (Lost War attitude) </French>
+		<French>%D1: "Ìû ïðîèãðàëè âàì â ïðîøëîé âîéíå."</French>
 		<German>%D1: (Verlorene Kriege Haltung)</German>
 		<Italian>%D1: (Lost War attitude)</Italian>
 		<Spanish>%D1: (Lost War attitude)</Spanish>
@@ -2184,7 +2178,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_TEAMSIZE_ATTITUDE</Tag>
 		<English>%D1: "You have too many allies" </English>
-		<French>%D1: "You have too many allies" </French>
+		<French>%D1: "Ó âàñ î÷åíü ìíîãî ñîþçíèêîâ".</French>
 		<German>%D1: "Ihr habt zu viele Verb&#252;ndete"</German>
 		<Italian>%D1: "You have too many allies"</Italian>
 		<Spanish>%D1: "You have too many allies"</Spanish>
@@ -2192,7 +2186,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ATTITUDE_SAME_TEAM</Tag>
 		<English>%D1: "We're allies" </English>
-		<French>%D1: "We're allies" </French>
+		<French>%D1: "Ìû ñîþçíèêè!"</French>
 		<German>%D1: "Wir sind Verb&#252;ndete"</German>
 		<Italian>%D1: "We're allies"</Italian>
 		<Spanish>%D1: "We're allies"</Spanish>
@@ -2200,7 +2194,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_TAX_BAR</Tag>
 		<English>Yields traded (%d1/%d2%F3) [NEWLINE]Tax increase chance: %d4.%d5 % </English>
-		<French>Yields traded (%d1/%d2%F3) [NEWLINE]Tax increase chance: %d4.%d5 % </French>
+		<French>Òîâàðû, ïðîäàííûå â Åâðîïå è Àôðèêå (ó÷èòûâàåòñÿ òîëüêî 10% îò öåíû) : %d1/%d2%F3[NEWLINE][NEWLINE]Åñòü [COLOR_WARNING_TEXT]%d4.%d5%[COLOR_REVERT] øàíñ, ÷òî Åãî Âåëè÷åñòâî óâåëè÷èò ñòàâêó íàëîãà â ñëåäóþùåì õîäó.</French>
 		<German>G&#252;ter gehandelt (%d1/%d2%F3) [NEWLINE]Chance auf Steuererh&#246;hung: %d4.%d5 %</German>
 		<Italian>Yields traded (%d1/%d2%F3)[NEWLINE]Tax increase chance: %d4.%d5 %</Italian>
 		<Spanish>Yields traded (%d1/%d2%F3)[NEWLINE]Tax increase chance: %d4.%d5 %</Spanish>
@@ -2208,7 +2202,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_CURRENT_ERA</Tag>
 		<English>[COLOR_FONT_CREAM]Era:[COLOR_REVERT] %s1[NEWLINE]</English>
-		<French>[COLOR_FONT_CREAM]Era:[COLOR_REVERT] %s1[NEWLINE]</French>
+		<French>[COLOR_FONT_CREAM]Ýïîõà : [COLOR_REVERT]%s1[NEWLINE]</French>
 		<German>[COLOR_FONT_CREAM]Zeitalter:[COLOR_REVERT] %s1[NEWLINE]</German>
 		<Italian>[COLOR_FONT_CREAM]Era:[COLOR_REVERT] %s1[NEWLINE]</Italian>
 		<Spanish>[COLOR_FONT_CREAM]&#201;poca:[COLOR_REVERT] %s1[NEWLINE]</Spanish>
@@ -2224,7 +2218,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_ADVISOR_STATE_NATIVE</Tag>
 		<English>Native info</English>
-		<French>Native info</French>
+		<French>Èíôîðìàöèÿ îá èíäåéöàõ</French>
 		<German>Informationen zu den Ureinwohnern</German>
 		<Italian>Native info</Italian>
 		<Spanish>Native info</Spanish>
@@ -2320,7 +2314,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
         <Tag>TXT_KEY_PLOT_DAMAGE</Tag>
         <English>Damage per Turn: %d1_Amt%%</English>
-		<French>Damage per Turn: %d1_Amt%%</French>
+		<French>Ïîâðåæäåíèé çà õîä : %d1_Amt%%</French>
         <German>Schaden pro Runde: %d1_Amt%%</German>
         <Italian>Danno per turno: %d1_Amt%%</Italian>
         <Spanish>Da&#241;o por turno: %d1_Amt%%</Spanish>
@@ -2328,7 +2322,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_MOVEMENT_COST</Tag>
 		<English>Movement Cost: %d1[ICON_MOVES]</English>
-		<French>Movement Cost: %d1[ICON_MOVES]</French>
+		<French>Ñòîèìîñòü ïåðåäâèæåíèÿ : %d1[ICON_MOVES]</French>
 		<German>Fortbewegungskosten: %d1[ICON_MOVES]</German>
 		<Italian>Costo movimento: %d1[ICON_MOVES]</Italian>
 		<Spanish>Coste del movimiento: %d1 [ICON_MOVES]</Spanish>
@@ -2384,7 +2378,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SEA_EXPLORER</Tag>
 		<English>Sea Explorer</English>
-		<French>Sea Explorer</French>
+		<French>Èññëåäîâàòåëü ìîðåé</French>
 		<German>Entdecker der Meere</German>
 		<Italian>Sea Explorer</Italian>
 		<Spanish>Sea Explorer</Spanish>
@@ -2432,7 +2426,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_AZTEC_SACRIFICIAL_ALTAR</Tag>
 		<English>Sacrificial Altar</English>
-		<French>Sacrificial Altar</French>
+		<French>Æåðòâåííûé àëòàðü</French>
 		<German>Opferaltar</German>
 		<Italian>Altare sacrificale</Italian>
 		<Spanish>Altar de sacrificios:Altares de sacrificios</Spanish>
@@ -2480,7 +2474,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_NATIVE_TRADE_FINISHED</Tag>
 		<English>The Natives delivered the promised amount of %d1_yield_amount%F3_yield_icon to %s2_city.</English>
-		<French>The Natives delivered the promised amount of %d1_yield_amount%F3_yield_icon to %s2_city.</French>
+		<French>Ìèëîðä, èíäåéöû äîñòàâèëè îáåùàííûå %d1_yield_amount%F3_yield_icon â [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT].</French>
 		<German>Die Ureinwohner haben die versprochenen %d1_yield_amount%F3_yield_icon nach %s2_city geliefert.</German>
 		<Italian>The Natives delivered the promised amount of %d1_yield_amount%F3_yield_icon to %s2_city.</Italian>
 		<Spanish>The Natives delivered the promised amount of %d1_yield_amount%F3_yield_icon to %s2_city.</Spanish>
@@ -2512,7 +2506,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_EUROPEAN_ATTITUDE_GOOD</Tag>
 		<English>[ICON_BULLET]Strengthens Relations and ends all wars with Europeans.</English>
-		<French>[ICON_BULLET]Strengthens Relations and ends all wars with Europeans.</French>
+		<French>[ICON_BULLET]Çàêàí÷èâàåò âñå âîéíû ñ åâðîïåéöàìè[NEWLINE][ICON_BULLET]Óëó÷øàåò îòíîøåíèÿ ñ åâðîïåéöàìè</French>
 		<German>[ICON_BULLET]St&#228;rkt Beziehungen und beendet alle Kriege mit Europ&#228;ern.</German>
 		<Italian>[ICON_BULLET]Strengthens Relations and ends all wars with Europeans.</Italian>
 		<Spanish>[ICON_BULLET]Strengthens Relations and ends all wars with Europeans.</Spanish>
@@ -2520,7 +2514,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 		<TEXT>
 		<Tag>TXT_KEY_FATHER_EUROPEAN_ATTITUDE_BAD</Tag>
 		<English>[ICON_BULLET]Weakens Relations with Europeans.</English>
-		<French>[ICON_BULLET]Weakens Relations with Europeans.</French>
+		<French>[ICON_BULLET]Îòíîøåíèÿ ñ åâðîïåéöàìè óõóäøàþòñÿ</French>
 		<German>[ICON_BULLET]Schw&#228;cht Beziehungen zu Europ&#228;ern.</German>
 		<Italian>[ICON_BULLET]Weakens Relations with Europeans.</Italian>
 		<Spanish>[ICON_BULLET]Weakens Relations with Europeans.</Spanish>
@@ -2528,7 +2522,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_KING_ATTITUDE_GOOD</Tag>
 		<English>[ICON_BULLET]Strengthens Relations with Kings.</English>
-		<French>[ICON_BULLET]Strengthens Relations with Kings.</French>
+		<French>[ICON_BULLET]Óëó÷øàåò îòíîøåíèÿ ñ Êîðîëÿìè</French>
 		<German>[ICON_BULLET]St&#228;rkt Beziehungen mit K&#246;nigen.</German>
 		<Italian>[ICON_BULLET]Strengthens Relations with Kings.</Italian>
 		<Spanish>[ICON_BULLET]Strengthens Relations with Kings.</Spanish>
@@ -2536,7 +2530,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 		<TEXT>
 		<Tag>TXT_KEY_FATHER_KING_ATTITUDE_BAD</Tag>
 		<English>[ICON_BULLET]Weakens Relations with Kings.</English>
-		<French>[ICON_BULLET]Weakens Relations with Kings.</French>
+		<French>[ICON_BULLET]Îòíîøåíèÿ ñ Êîðîëÿìè óõóäøàþòñÿ</French>
 		<German>[ICON_BULLET]Schw&#228;cht Beziehungen mit K&#246;nigen.</German>
 		<Italian>[ICON_BULLET]Weakens Relations with Kings.</Italian>
 		<Spanish>[ICON_BULLET]Weakens Relations with Kings.</Spanish>
@@ -2640,7 +2634,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_REQUIRES_RIVER</Tag>
 		<English>[COLOR_WARNING_TEXT]Requires[COLOR_REVERT] River</English>
-		<French>[COLOR_WARNING_TEXT]Requires[COLOR_REVERT] River</French>
+		<French>[COLOR_WARNING_TEXT]Òðåáóåòñÿ[COLOR_REVERT] ðåêà</French>
 		<German>[COLOR_WARNING_TEXT]Erfordert[COLOR_REVERT] einen Fluss</German>
 		<Italian>[COLOR_WARNING_TEXT]Richiede[COLOR_REVERT] un fiume</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Requiere[COLOR_REVERT] un r&#237;o</Spanish>
@@ -2724,7 +2718,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TRAIN</Tag>
 		<English>Carriage:Carriages</English>
-		<French>Carriage:Carriages</French>
+		<French>Îáîçû:Îáîçû</French>
 		<German>
 			<Text>Fuhrwerk:Fuhrwerke</Text>
 			<Gender>Male</Gender>
@@ -2752,7 +2746,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TRAIN_STATION</Tag>
 		<English>Waystation</English>
-		<French>Waystation</French>
+		<French>Ñòàíöèÿ</French>
 		<German>Postreiter- und Pferdewechselstation</German>
 		<Italian>Waystation</Italian>
 		<Spanish>Waystation</Spanish>
@@ -2824,7 +2818,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_NATIVE_SLAVE</Tag>
 		<English>You have discovered a runaway slave from a native tribe!</English>
-		<French>You have discovered a runaway slave from a native tribe!</French>
+		<French>Âû îáíàðóæèëè [COLOR_UNIT_TEXT]áåãëîãî ðàáà[COLOR_REVERT] èç èíäåéñêîãî ïëåìåíè.</French>
 		<German>Ihr habt einen Ureinwohnersklaven entdeckt, der von seinem Stamm geflohen ist!</German>
 		<Italian>You have discovered a runaway slave from a native tribe!</Italian>
 		<Spanish>You have discovered a runaway slave from a native tribe!</Spanish>
@@ -2832,7 +2826,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_NATIVE_MERC</Tag>
 		<English>You have discovered a proud native warrior who offers to join you!</English>
-		<French>You have discovered a proud native warrior who offers to join you!</French>
+		<French>Âû âñòðåòèëè ãîðäîãî [COLOR_UNIT_TEXT]èíäåéñêîãî âîèíà[COLOR_REVERT], êîòîðûé æåëàåò ïðèñîåäèíèòüñÿ ê âàì!</French>
 		<German>Ihr habt einen stolzen Ureinwohnerkrieger entdeckt, der sich euch anschliesst!</German>
 		<Italian>You have discovered a proud native warrior who offers to join you!</Italian>
 		<Spanish>You have discovered a proud native warrior who offers to join you!</Spanish>
@@ -2840,7 +2834,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_COLONIST</Tag>
 		<English>You have discovered a lost colonist from a former failed colony!</English>
-		<French>You have discovered a lost colonist from a former failed colony!</French>
+		<French>Âû îáíàðóæèëè ïðîïàâøåãî [COLOR_UNIT_TEXT]êîëîíèñòà[COLOR_REVERT] èç êîëîíèè, êîòîðóþ ñîæãëè èíäåéöû!</French>
 		<German>Ihr habt einen verlorenen Kolonisten einer gescheiterten Kolonie entdeckt!</German>
 		<Italian>You have discovered a lost colonist from a former failed colony!</Italian>
 		<Spanish>You have discovered a lost colonist from a former failed colony!</Spanish>
@@ -2848,7 +2842,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CONQUISTADOR</Tag>
 		<English>You have discovered a lost conquistador who was separated from his fellows!</English>
-		<French>You have discovered a lost conquistador who was separated from his fellows!</French>
+		<French>Âû îáíàðóæèëè ïðîïàâøåãî [COLOR_UNIT_TEXT]êîíêèñòàäîðà[COLOR_REVERT], êîòîðûé áûë ðàçëó÷åí ñî ñâîèìè ñîáðàòüÿìè!</French>
 		<German>Ihr habt einen Conquistador entdeckt, der von seiner Truppe getrennt wurde!</German>
 		<Italian>You have discovered a lost conquistador who was separated from his fellows!</Italian>
 		<Spanish>You have discovered a lost conquistador who was separated from his fellows!</Spanish>
@@ -2856,7 +2850,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CHRISTIAN_MISSIONARY</Tag>
 		<English>You have discovered a lost missionary!</English>
-		<French>You have discovered a lost missionary!</French>
+		<French>Âû îáíàðóæèëè ïðîïàâøåãî [COLOR_UNIT_TEXT]ìèññèîíåðà[COLOR_REVERT], êîòîðûé ñîãëàñåí ïðèñîåäèíèòüñÿ ê íàì!</French>
 		<German>Ihr habt einen verlaufenen Missionar entdeckt!</German>
 		<Italian>You have discovered a lost missionary!</Italian>
 		<Spanish>You have discovered a lost missionary!</Spanish>
@@ -2864,7 +2858,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SHIPWRECKED</Tag>
 		<English>You have discovered a survivor from a shipwreck!</English>
-		<French>You have discovered a survivor from a shipwreck!</French>
+		<French>Ìû îáíàðóæèëè [COLOR_UNIT_TEXT]âûæèâøåãî[COLOR_REVERT] ïîñëå êîðàáëåêðóøåíèÿ!</French>
 		<German>Ihr habt einen &#220;berlebenden eines Schiffsungl&#252;cks entdeckt!</German>
 		<Italian>You have discovered a survivor from a shipwreck!</Italian>
 		<Spanish>You have discovered a survivor from a shipwreck!</Spanish>
@@ -2872,7 +2866,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_GOLD_SEA</Tag>
 		<English>You have discovered some gold in a shipwreck!</English>
-		<French>You have discovered some gold in a shipwreck!</French>
+		<French>Âû íàøëè çîëîòî ñðåäè îáëîìêîâ êîðàáëÿ!</French>
 		<German>Ihr habt etwas Gold in den &#220;berresten eines verungl&#252;ckten Schiffes entdeckt!</German>
 		<Italian>You have discovered some gold in a shipwreck!</Italian>
 		<Spanish>You have discovered some gold in a shipwreck!</Spanish>
@@ -2880,7 +2874,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_MAP_SEA</Tag>
 		<English>You have discovered a map in a shipwreck!</English>
-		<French>You have discovered a map in a shipwreck!</French>
+		<French>Âû íàøëè êàðòó ñðåäè îáëîìêîâ çàòîíóâøåãî êîðàáëÿ!</French>
 		<German>Ihr habt eine Karte in den den &#220;berresten eines verungl&#252;ckten Schiffes entdeckt!</German>
 		<Italian>You have discovered a map in a shipwreck!</Italian>
 		<Spanish>You have discovered a map in a shipwreck!</Spanish>
@@ -2888,7 +2882,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_EXPERIENCE_SEA</Tag>
 		<English>The crew of your ship has gained some experience!</English>
-		<French>The crew of your ship has gained some experience!</French>
+		<French>Ýêèïàæ âàøåãî êîðàáëÿ ïîëó÷èë íåìíîãî îïûòà!</French>
 		<German>Die Crew eures Schiffes hat etwas Erfahrung gewonnen!</German>
 		<Italian>The crew of your ship has gained some experience!!</Italian>
 		<Spanish>The crew of your ship has gained some experience!</Spanish>
@@ -2936,7 +2930,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODS_SOLD_CUSTOM_HOUSE_SINGLE_MESSAGE</Tag>
 		<English>The Custom House of %s1_city has sold goods for %d2[ICON_GOLD].</English>
-		<French>The Custom House of %s1_city has sold goods for %d2[ICON_GOLD].</French>
+		<French>[COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] : Òàìîæíÿ ïðîäàëà òîâàðîâ íà %d2[ICON_GOLD].</French>
 		<German>Das Zollhaus von %s1_city hat Waren im Wert von %d2[ICON_GOLD] verkauft.</German>
 		<Italian>The Custom House of %s1_city has sold goods for %d2[ICON_GOLD].</Italian>
 		<Spanish>The Custom House of %s1_city has sold goods for %d2[ICON_GOLD].</Spanish>
@@ -2944,7 +2938,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TERRAIN_NATIVE</Tag>
 		<English>[ICON_BULLET]Native to %s1_Desc Terrain</English>
-		<French>[ICON_BULLET]Native to %s1_Desc Terrain</French>
+		<French>[ICON_BULLET]Óðîæåíåö %s1_Desc</French>
 		<German>[ICON_BULLET]Native to %s1_Desc Terrain</German>
 		<Italian>[ICON_BULLET]Native to %s1_Desc Terrain</Italian>
 		<Spanish>[ICON_BULLET]Native to %s1_Desc Terrain</Spanish>
@@ -2984,7 +2978,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ANIMAL</Tag>
 		<English>[ICON_BULLET]Wild Animal</English>
-		<French>[ICON_BULLET]Wild Animal</French>
+		<French>[ICON_BULLET]Äèêîå æèâîòíîå</French>
 		<German>[ICON_BULLET]Wildes Tier</German>
 		<Italian>[ICON_BULLET]Wild Animal</Italian>
 		<Spanish>[ICON_BULLET]Wild Animal</Spanish>
@@ -2992,7 +2986,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ANIMAL_CANNOT_ENTER_PLAYER_TERRITORY</Tag>
 		<English>[ICON_BULLET]Cannot enter Player territories</English>
-		<French>[ICON_BULLET]Cannot enter Player territories</French>
+		<French>[ICON_BULLET]Íå ìîæåò çàõîäèòü íà òåððèòîðèþ èãðîêà</French>
 		<German>[ICON_BULLET]Kann das Gebiet des Spielers nicht betreten</German>
 		<Italian>[ICON_BULLET]Cannot enter Player territories</Italian>
 		<Spanish>[ICON_BULLET]Cannot enter Player territories</Spanish>
@@ -3000,7 +2994,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ANIMAL_KILLING_REWARD</Tag>
 		<English>[ICON_BULLET]Small reward when killed</English>
-		<French>[ICON_BULLET]Small reward when killed</French>
+		<French>[ICON_BULLET]Íåáîëüøàÿ íàãðàäà çà óáèéñòâî</French>
 		<German>[ICON_BULLET]Kleine Belohung durch T&#246;tung</German>
 		<Italian>[ICON_BULLET]Small reward when killed</Italian>
 		<Spanish>[ICON_BULLET]Small reward when killed</Spanish>
@@ -3008,7 +3002,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TERRAIN_NATIVE</Tag>
 		<English>[ICON_BULLET]Native to %s1_Desc Terrain</English>
-		<French>[ICON_BULLET]Native to %s1_Desc Terrain</French>
+		<French>[ICON_BULLET]Óðîæåíåö %s1_Desc</French>
 		<German>[ICON_BULLET]Beheimatet auf %s1_Desc Terrain</German>
 		<Italian>[ICON_BULLET]Native to %s1_Desc Terrain</Italian>
 		<Spanish>[ICON_BULLET]Native to %s1_Desc Terrain</Spanish>
@@ -3024,7 +3018,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_ANIMAL_REWARD</Tag>
 		<English>The remnants of the %s1_animal you have killed are worth %d2[ICON_GOLD] !</English>
-		<French>The remnants of the %s1_animal you have killed are worth %d2[ICON_GOLD] !</French>
+		<French>[COLOR_POSITIVE_TEXT]Óäà÷íàÿ îõîòà! [COLOR_REVERT]Øêóðó [COLOR_UNIT_TEXT]%s1_animal[COLOR_REVERT] óäàëîñü ïðîäàòü çà %d2[ICON_GOLD]!</French>
 		<German>Die K&#246;rperteile des get&#246;teten %s1_animal sind %d2[ICON_GOLD] wert !</German>
 		<Italian>The remnants of the %s1_animal you have killed are worth %d2[ICON_GOLD] !</Italian>
 		<Spanish>The remnants of the %s1_animal you have killed are worth %d2[ICON_GOLD] !</Spanish>
@@ -3032,7 +3026,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_ANIMALS_SPOTTED</Tag>
 		<English>Wild animals have been spotted near %s1_CityName!</English>
-		<French>Wild animals have been spotted near %s1_CityName!</French>
+		<French>[COLOR_WARNING_TEXT]%s1_CityName : [COLOR_REVERT]Æèòåëè æàëóþòñÿ íà äèêèõ æèâîòíûõ, áðîäÿùèõ ïîáëèçîñòè îò ãîðîäà!</French>
 		<German>Ein Kundschafter meldet wilde Tiere in der N&#228;he von %s1_CityName.</German>
 		<Italian>Wild animals have been spotted near %s1_CityName!</Italian>
 		<Spanish>Wild animals have been spotted near %s1_CityName!</Spanish>
@@ -3040,7 +3034,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_BARBARIAN</Tag>
 		<English>Wild Animals</English>
-		<French>Wild Animals</French>
+		<French>Äèêèå æèâîòíûå</French>
 		<German>Wilde Tiere</German>
 		<Italian>Wild Animals</Italian>
 		<Spanish>Wild Animals</Spanish>
@@ -3383,11 +3377,11 @@ Multiple repeating units is possible and an equal number will be trained of each
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_LYNX_PEDIA</Tag>
-		<English>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range— in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</English>
-		<French>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range— in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</French>
+		<English>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range&#151; in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</English>
+		<French>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range&#151; in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</French>
 		<German>[TAB]Die Luchse (Lynx) sind eine Gattung in der Familie der Katzen. Es werden vier Arten zu dieser Gattung gez&#228;hlt, die alle auf der Nordhalbkugel vorkommen. Der Kanadische Luchs lebt in Kanada, in Alaska, Nord-Oregon, Nord-Idaho und im Gebiet der Rocky Mountains (Wyoming, Nord-Colorado). Er fehlt in Alaska lediglich im Yukon-Kuskokwim-Delta und im S&#252;den der Alaska-Halbinsel sowie der n&#246;rdlichen K&#252;ste des nordamerikanischen Festlands. Luchse sind mittelgro&#223;e, hochbeinige Katzen. Ihre Krallen k&#246;nnen sie einziehen. Der kurze Schwanz hat ein schwarzes Ende. Luchse weisen einen Backenbart auf. Auf den Spitzen der Ohren sind schwarze Haarpinsel vorhanden, die R&#252;ckseite der Ohren ist schwarz mit einem wei&#223;en oder grauwei&#223;en Fleck der mehr oder weniger stark ausgedehnt ist. Die Fellf&#228;rbung ist variabel und reicht von sandfarben &#252;ber rotbraun und braun bis grau. Oft ist das Fell auch gefleckt. Luchse besitzen 28 bis 30 Z&#228;hne. Luchse sind einzelg&#228;ngerisch, d&#228;mmerungsaktiv und territorial. Sie sind spezialisierte J&#228;ger. In &#228;lterer Literatur findet man die drei erstgenannten Arten manchmal zu einer einzigen Art zusammengefasst, dem "Nordluchs". Der Karakal wird manchmal als "W&#252;stenluchs" bezeichnet, geh&#246;rt aber zu einer anderen Katzengattung. Es ist bislang nicht abschlie&#223;end gekl&#228;rt, ob Luchse ihren Ursprung in Nordamerika oder in Eurasien und Afrika hatten. Jagende Kanadische Luchse legen zwischen 0,775 und 1,46 Kilometer pro Stunde zur&#252;ck. Die typische Streckenl&#228;nge betr&#228;gt pro Tag etwa acht bis neun Kilometer. Sie wenden eine Reihe sehr unterschiedlicher Jagdmethoden an. Auf Neufundland ist der Kanadische Luchs &#252;berwiegend ein &#252;berraschungs- oder Lauerj&#228;ger. Bei 60 Prozent der get&#246;teten Beutetiere hatte er der Beute zuvor aufgelauert. Im Yukon ist sowohl diese Lauerjagd als auch ein aktives Suchen nach Beute gleicherma&#223;en zu beobachten. </German>
-		<Italian>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range— in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</Italian>
-		<Spanish>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range— in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</Spanish>
+		<Italian>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range&#151; in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</Italian>
+		<Spanish>[TAB]A lynx (plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wildcats. The name "lynx" originated in Middle English via Latin from Greek, derived from the Indo-European root "leuk-", meaning "light, brightness", in reference to the luminescence of its reflective eyes. There is considerable confusion about the best way to classify felids at present, and some authorities classify them as part of the genus Felis.[PARAGRAPH:2]Neither the caracal, sometimes called the Persian lynx or African lynx, nor the jungle cat, called the swamp lynx, is a member of the Lynx genus.[PARAGRAPH:2]Lynx have short tails and the characteristic tufts of black hair on the tips of their ears. They have a ruff under the neck, which has black bars, is not very visible, and resembles a bow tie. They have large, padded paws for walking on snow, and long whiskers on the face.[PARAGRAPH:2]Their body colour varies from medium brown, to goldish, to beige-white, and is occasionally marked with dark brown spots, especially on the limbs. All species of lynx also have white fur on their chests, bellies and on the insides of their legs, which are extensions of the chest and belly fur. Also, the lynx's colouring, fur height and paw size varies by its climate range&#151; in the Southwestern United States, the fur and colour are short-haired, dark and the paws are smaller and less padded as the lynx ranges to its colder northern climates, the fur gets progressively thicker (for warmth), the colour gets lighter (for camouflage) and its paws enlarge and become more padded (for snowy environments). The paws may become larger than a human hand or foot.[PARAGRAPH:2]The smallest species are the bobcat and the Canada lynx, while the largest is the Eurasian lynx, with considerable variations within species.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HUMPBACK_WHALE_PEDIA</Tag>
@@ -3656,7 +3650,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_NATIONAL_WONDER</Tag>
 		<English>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]National Wonder[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]National Wonder[COLOR_REVERT]</French>
+		<French>[ICON_BULLET][COLOR_CYAN]Íàöèîíàëüíîå ÷óäî[COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Nationales Wunder[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]National Wonder[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_HIGHLIGHT_TEXT]National Wonder[COLOR_REVERT]</Spanish>
@@ -3664,7 +3658,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_RUMORS_EL_DORADO</Tag>
 		<English>Rumors are spreading in Europe that you found the mythical city of El Dorado!</English>
-		<French>Rumors are spreading in Europe that you found the mythical city of El Dorado!</French>
+		<French>Ïî âñåé Åâðîïå ðàñïðîñòðàíÿþòñÿ ñëóõè, ÷òî âû íàøëè ìèôè÷åñêèé ãîðîä [COLOR_SELECTED_TEXT]Ýëüäîðàäî[COLOR_REVERT]!</French>
 		<German>Ger&#252;chte breiten sich in Europa aus, dass ihr die mystische Stadt El Dorado gefunden habt!</German>
 		<Italian>Rumors are spreading in Europe that you found the mythical city of El Dorado!</Italian>
 		<Spanish>Rumors are spreading in Europe that you found the mythical city of El Dorado!</Spanish>
@@ -3672,7 +3666,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUMORS_EL_DORADO</Tag>
 		<English>Rumors about El Dorado</English>
-		<French>Rumors about El Dorado</French>
+		<French>Ñëóõè îá Ýëüäîðàäî</French>
 		<German>Ger&#252;chte &#252;ber El Dorado</German>
 		<Italian>Rumors about El Dorado</Italian>
 		<Spanish>Rumors about El Dorado</Spanish>
@@ -3680,7 +3674,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_RUMORS_FOUNTAIN_OF_YOUTH</Tag>
 		<English>Rumors are spreading in Europe that you found a map to the mythical Fountain of Youth!</English>
-		<French>Rumors are spreading in Europe that you found a map to the mythical Fountain of Youth!</French>
+		<French>Ïî Åâðîïå õîäÿò ñëóõè, ÷òî âû íàøëè êàðòó, íà êîòîðîé óêàçàíî ðàñïîëîæåíèå ìèôè÷åñêîãî [COLOR_SELECTED_TEXT]Ôîíòàíà ìîëîäîñòè[COLOR_REVERT]!</French>
 		<German>Ger&#252;chte breiten sich in Europa aus, dass ihr den mystischen Jungbrunnen gefunden habt!</German>
 		<Italian>Rumors are spreading in Europe that you found a map to the mythical Fountain of Youth!</Italian>
 		<Spanish>Rumors are spreading in Europe that you found a map to the mythical Fountain of Youth!</Spanish>
@@ -3688,7 +3682,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUMORS_FOUNTAIN_OF_YOUTH</Tag>
 		<English>Rumors about the Fountain of Youth</English>
-		<French>Rumors about the Fountain of Youth</French>
+		<French>Ñëóõè î Ôîíòàíå ìîëîäîñòè</French>
 		<German>Ger&#252;chte &#252;ber den Jungbrunnen</German>
 		<Italian>Rumors about the Fountain of Youth</Italian>
 		<Spanish>Rumors about the Fountain of Youth</Spanish>
@@ -3696,7 +3690,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_RUMORS_PIRATE_TREASURE</Tag>
 		<English>Rumors are spreading in Europe that you found a map to a huge Pirate Treasure!</English>
-		<French>Rumors are spreading in Europe that you found a map to a huge Pirate Treasure!</French>
+		<French>Ïî Åâðîïå õîäÿò ñëóõè, ÷òî âû íàøëè êàðòó ñ óêàçàíèåì ìåñòà, ãäå çàðûò [COLOR_SELECTED_TEXT]ïèðàòñêèé êëàä[COLOR_REVERT]!</French>
 		<German>Ger&#252;chte breiten sich in Europa aus, dass ihr eine Karte zu einem riesigen Piratenschatz gefunden habt!</German>
 		<Italian>Rumors are spreading in Europe that you found a map to a huge Pirate Treasure!</Italian>
 		<Spanish>Rumors are spreading in Europe that you found a map to a huge Pirate Treasure!</Spanish>
@@ -3832,7 +3826,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_FORT</Tag>
 		<English>Build a [LINK=IMPROVEMENT_FORT]Fort[\LINK]</English>
-		<French>Build a [LINK=IMPROVEMENT_FORT]Fort[\LINK]</French>
+		<French>Ïîñòðîèòü [LINK=IMPROVEMENT_FORT]ôîðò[\LINK]</French>
 		<German>[LINK=IMPROVEMENT_FORT]Fort[\LINK] bauen</German>
 		<Italian>Build a [LINK=IMPROVEMENT_FORT]Fort[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_FORT]Fort[\LINK]</Spanish>
@@ -3840,7 +3834,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_MONASTERY</Tag>
 		<English>Build a [LINK=IMPROVEMENT_MONASTERY]Monastery[\LINK]</English>
-		<French>Build a [LINK=IMPROVEMENT_MONASTERY]Monastery[\LINK]</French>
+		<French>Ïîñòðîèòü [LINK=IMPROVEMENT_MONASTERY]ìîíàñòûðü[\LINK]</French>
 		<German>[LINK=IMPROVEMENT_MONASTERY]Kloster[\LINK] bauen</German>
 		<Italian>Build a [LINK=IMPROVEMENT_MONASTERY]Monastery[\LINK]</Italian>
 		<Spanish>Build a [LINK=IMPROVEMENT_MONASTERY]Monastery[\LINK]</Spanish>
@@ -3848,7 +3842,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_FORT_FEATURES</Tag>
 		<English>[ICON_BULLET]Protects an area against Raiding Natives, Wild Animals and other enemies.</English>
-		<French>[ICON_BULLET]Protects an area against Raiding Natives, Wild Animals and other enemies.</French>
+		<French>[ICON_BULLET]Ïîçâîëÿåò çàùèòèòü òåððèòîðèþ îò íàáåãîâ òóçåìöåâ, äèêèõ æèâîòíûõ è äðóãèõ âðàãîâ.</French>
 		<German>[ICON_BULLET]Sch&#252;tzt ein Gebiet gegen Ureinwohner&#252;berf&#228;lle, Wilde Tiere und andere Gegner.</German>
 		<Italian>[ICON_BULLET]Protects an area against Raiding Natives, Wild Animals and other enemies.</Italian>
 		<Spanish>[ICON_BULLET]Protects an area against Raiding Natives, Wild Animals and other enemies.</Spanish>
@@ -3856,7 +3850,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_MONASTERY_FEATURES</Tag>
 		<English>[ICON_BULLET]Might convert Natives walking by or convince them to bring presents to your cities.</English>
-		<French>[ICON_BULLET]Might convert Natives walking by or convince them to bring presents to your cities.</French>
+		<French>[ICON_BULLET]Ìîæåò îáðàòèòü èíäåéöåâ â âàøó âåðó èëè óáåäèòü èõ ïðèíåñòè ïîäàðêè â âàøè ãîðîäà.</French>
 		<German>[ICON_BULLET]Kann in manchen F&#228;llen Ureinwohner konvertieren oder sie &#252;berzeugen Geschenke zu liefern.</German>
 		<Italian>[ICON_BULLET]Might convert Natives walking by or convince them to bring presents to your cities.</Italian>
 		<Spanish>[ICON_BULLET]Might convert Natives walking by or convince them to bring presents to your cities.</Spanish>
@@ -3864,7 +3858,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_NATIVE_RAID_ATTACKED_FORT</Tag>
 		<English>Your Fort was attacked by some Natives on a Raid.</English>
-		<French>Your Fort was attacked by some Natives on a Raid.</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Íàø ôîðò áûë àòàêîâàí çëîáíûìè èíäåéöàìè.</French>
 		<German>Euer Fort wurde durch einen Ureinwohner&#252;berfall angegriffen.</German>
 		<Italian>Your Fort was attacked by some Natives on a Raid.</Italian>
 		<Spanish>Your Fort was attacked by some Natives on a Raid.</Spanish>
@@ -3872,7 +3866,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_NATIVE_RAID_ATTACKED_FORT_BUT_DEFEATED</Tag>
 		<English>The Troops in your Fort defeated some Natives on a Raid.</English>
-		<French>The Troops in your Fort defeated some Natives on a Raid.</French>
+		<French>[COLOR_POSITIVE_TEXT]Ïîáåäà, Ìèëîðä! [COLOR_REVERT]Âîéñêà íàøåãî ôîðòà îòáèëè íàáåã èíäåéöåâ ñ áîëüøèì óðîíîì äëÿ íèõ.</French>
 		<German>Euer Fort hat einen Ureinwohner&#252;berfall abgewehrt.</German>
 		<Italian>The Troops in your Fort defeated some Natives on a Raid.</Italian>
 		<Spanish>The Troops in your Fort defeated some Natives on a Raid.</Spanish>
@@ -3880,7 +3874,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_DESTROYED_GOOD</Tag>
 		<English>A fort has fired at enemy troops and destroyed them!</English>
-		<French>A fort has fired at enemy troops and destroyed them!</French>
+		<French>[COLOR_POSITIVE_TEXT]Ïîáåäà, Ìèëîðä! [COLOR_REVERT]Íàø ôîðò îáñòðåëÿë âðàæåñêèå âîéñêà è óíè÷òîæèë èõ!</French>
 		<German>Ein Fort hat auf feindliche Truppen gefeuert und diese vernichtet!</German>
 		<Italian>A fort has fired at enemy troops and destroyed them!</Italian>
 		<Spanish>A fort has fired at enemy troops and destroyed them!</Spanish>
@@ -3888,7 +3882,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_DESTROYED_BAD</Tag>
 		<English>A fort has fired at our troops and destroyed them!</English>
-		<French>A fort has fired at our troops and destroyed them!</French>
+		<French>[COLOR_WARNING_TEXT]Ïîðàæåíèå, Ìèëîðä! [COLOR_REVERT]Ôîðò îáñòðåëÿë íàøè âîéñêà è óíè÷òîæèë èõ!</French>
 		<German>Ein Fort hat auf unsere Truppen gefeuert und diese vernichtet!</German>
 		<Italian>A fort has fired at our troops and destroyed them!</Italian>
 		<Spanish>A fort has fired at our troops and destroyed them!</Spanish>
@@ -3896,7 +3890,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_HIT_LAND_GOOD</Tag>
 		<English>A fort has fired at enemy troops and damaged them!</English>
-		<French>A fort has fired at enemy troops and damaged them!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Íàø ôîðò îáñòðåëÿë âðàæåñêèå âîéñêà è íàíåñ èì ñóùåñòâåííûé ðîí!</French>
 		<German>Ein Fort hat auf feindliche Truppen gefeuert und diesen Schaden zugef&#252;gt!</German>
 		<Italian>A fort hasfired at enemy troops and damaged them!</Italian>
 		<Spanish>A fort has fired at enemy troops and damaged them!</Spanish>
@@ -3904,7 +3898,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_HIT_LAND_BAD</Tag>
 		<English>A fort has fired at our troops and damaged them!</English>
-		<French>A fort has fired at our troops and damaged them!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Ôîðò îáñòðåëÿë íàøè âîéñêà. Ìû ïîíåñëè ïîòåðè.</French>
 		<German>Ein Fort hat auf unsere Truppen gefeuert und diesen Schaden zugef&#252;gt!</German>
 		<Italian>A fort has fired at our troops and damaged them!</Italian>
 		<Spanish>A fort has fired at our troops and damaged them!</Spanish>
@@ -3912,7 +3906,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_MISS_LAND_BAD</Tag>
 		<English>A fort has fired at enemy troops but missed them!</English>
-		<French>A fort has fired at enemy troops but missed them!</French>
+		<French>[COLOR_WARNING_TEXT]Ïëîõèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Îáñòðåë âðàæåñêèõ âîéñê íàøèì ôîðòîì íå ïðè÷èíèë èì íèêàêîãî âðåäà .</French>
 		<German>Ein Fort hat auf feindliche Truppen gefeuert, diese jedoch verfehlt!</German>
 		<Italian>A fort has fired at enemy troops but missed them!</Italian>
 		<Spanish>A fort has fired at enemy troops but missed them!</Spanish>
@@ -3920,7 +3914,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_MISS_LAND_GOOD</Tag>
 		<English>A fort has fired at our troops but missed them!</English>
-		<French>A fort has fired at our troops but missed them!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Íàøè âîéñêà áûëè îáñòðåëÿíû ôîðòîì, íî ìû ñóìåëè èçáåæàòü ïîòåðü.</French>
 		<German>Ein Fort hat auf unsere Truppen gefeuert, diese jedoch verfehlt!</German>
 		<Italian>A fort has fired at our troops but missed them!</Italian>
 		<Spanish>A fort has fired at our troops but missed them!</Spanish>
@@ -3928,7 +3922,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_FORT_IMPROVEMENT_KILLED_ANIMAL</Tag>
 		<English>A troops in a fort have killed a wandering animal! The remnants are worth %d1[ICON_GOLD]!</English>
-		<French>A troops in a fort have killed a wandering animal! The remnants are worth %d1[ICON_GOLD]!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Ãàðíèçîí ôîðòà óáèë îïàñíîå æèâîòíîå, ïðîíèêøåå âíóòðü! Çà åãî øêóðó ìû âûðó÷èëè %d1[ICON_GOLD]!</French>
 		<German>Die Truppen eines Forts haben ein herumwanderndes Tier get&#246;tet, dessen K&#246;rperteile %d2[ICON_GOLD] wert sind !</German>
 		<Italian>A troops in a fort have killed a wandering animal! The remnants are worth %d1[ICON_GOLD]!</Italian>
 		<Spanish>A troops in a fort have killed a wandering animal! The remnants are worth %d1[ICON_GOLD]!</Spanish>
@@ -3936,7 +3930,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MONASTERY_IMPROVEMENT_APEASED_RAIDING_NATIVE</Tag>
 		<English>A Monastery successfully appeased some young Natives on a Raid!</English>
-		<French>A Monastery successfully appeased some young Natives on a Raid!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Ìîíàñòûðü óñïåøíî óäåðæàë íåêîòîðûõ ìîëîäûõ òóçåìöåâ îò íàáåãà!</French>
 		<German>Ein Kolster hat erfolgreich eine Ureinwohner auf einem Raubzug befriedet.</German>
 		<Italian>A Monastery successfully appeased some young Natives on a Raid!</Italian>
 		<Spanish>A Monastery successfully appeased some young Natives on a Raid!</Spanish>
@@ -3944,7 +3938,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MONASTERY_IMPROVEMENT_GOT_PRESENT</Tag>
 		<English>Natives brought presents to a Monastery worth %d1[ICON_GOLD]!</English>
-		<French>Natives brought presents to a Monastery worth %d1[ICON_GOLD]!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Èíäåéöû ïðèíåñëè ìîíàñòûðþ äàðû íà %d1[ICON_GOLD]!</French>
 		<German>Ureinwohner haben einem Kloster Geschenke im Wert von %d1[ICON_GOLD] gebracht!</German>
 		<Italian>Natives brought presents to a Monastery worth %d1[ICON_GOLD]!</Italian>
 		<Spanish>Natives brought presents to a Monastery worth %d1[ICON_GOLD]!</Spanish>
@@ -3952,7 +3946,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_MONASTERY_IMPROVEMENT_CONVERTED_NATIVE</Tag>
 		<English>A Monastery successfully converted a wandering Native!</English>
-		<French>A Monastery successfully converted a wandering Native!</French>
+		<French>[COLOR_POSITIVE_TEXT]Õîðîøèå íîâîñòè, Ìèëîðä! [COLOR_REVERT]Ìîíàñòûðü îáðàòèë ïðîåçæàâøåãî ìèìî èíäåéöà â íàøó âåðó!</French>
 		<German>Ein Kloster hat erfolgreich einen herumwandernden Ureinwohner konvertiert!</German>
 		<Italian>A Monastery successfully converted a wandering Native!</Italian>
 		<Spanish>A Monastery successfully converted a wandering Native!</Spanish>
@@ -3960,7 +3954,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_DRAIN_MARSH</Tag>
 		<English>Drain Marsh</English>
-		<French>Drain Marsh</French>
+		<French>Îñóøèòü áîëîòî</French>
 		<German>Sumpf trockenlegen</German>
 		<Italian>Drain Marsh</Italian>
 		<Spanish>Drain Marsh</Spanish>
@@ -4112,7 +4106,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_HIRED_PIRATES</Tag>
 		<English>The pirates we have hired await your orders in %s1_city, Mylord.</English>
-		<French>The pirates we have hired await your orders in %s1_city, Mylord.</French>
+		<French>Ìèëîðä, [COLOR_UNIT_TEXT]ïèðàòû[COLOR_REVERT], êîòîðûõ ìû íàíÿëè, îæèäàþò ïðèêàçîâ â ãàâàíè [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Die angeheuerten Piraten erwarten in %s1_city Eure Befehle, Mylord.</German>
 		<Italian>The pirates we have hired await your orders in %s1_city, Mylord.</Italian>
 		<Spanish>The pirates we have hired await your orders in %s1_city, Mylord.</Spanish>
@@ -4144,7 +4138,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_GOLD_BY_ENTERTAINMENT</Tag>
 		<English>The %s1_building of %s2_city has generated %d3[ICON_GOLD].</English>
-		<French>The %s1_building of %s2_city has generated %d3[ICON_GOLD].</French>
+		<French>[COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT] : %d3[ICON_GOLD] áûëî ñãåíåðèðîâàíî â %s1_building</French>
 		<German>Das Geb&#228;ude %s1_building von %s2_city hat %d3[ICON_GOLD] Gewinn erwirtschaftet.</German>
 		<Italian>The %s1_building of %s2_city has generated %d3[ICON_GOLD].</Italian>
 		<Spanish>The %s1_building of %s2_city has generated %d3[ICON_GOLD].</Spanish>
@@ -4152,7 +4146,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_ENTERTAINMENT_BUILDING</Tag>
 		<English>[ICON_BULLET]Generates [ICON_GOLD] from %F1_yield</English>
-		<French>[ICON_BULLET]Generates [ICON_GOLD] from %F1_yield</French>
+		<French>[ICON_BULLET]Ãåíåðèðóåò [ICON_GOLD] èç %F1_yield</French>
 		<German>[ICON_BULLET]Erwirtschaftet [ICON_GOLD] durch %F1_yield</German>
 		<Italian>[ICON_BULLET]Generates [ICON_GOLD] from %F1_yield</Italian>
 		<Spanish>[ICON_BULLET]Generates [ICON_GOLD] from %F1_yield</Spanish>
@@ -4160,7 +4154,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_ENTERTAINMENT_BUILDING_INCREASED</Tag>
 		<English>[ICON_BULLET]Increases generation of [ICON_GOLD] from %F1_yield</English>
-		<French>[ICON_BULLET]Increases generation of [ICON_GOLD] from %F1_yield</French>
+		<French>[ICON_BULLET]Óâåëè÷èâàåò ãåíåðàöèþ [ICON_GOLD] èç %F1_yield íà %d2_increase%%</French>
 		<German>[ICON_BULLET]Erh&#246;ht die Rate von [ICON_GOLD] durch %F1_yield</German>
 		<Italian>[ICON_BULLET]Increases generation of [ICON_GOLD] from %F1_yield</Italian>
 		<Spanish>[ICON_BULLET]Increases generation of [ICON_GOLD] from %F1_yield</Spanish>
@@ -4264,7 +4258,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CONTINENTAL_GUARD</Tag>
 		<English>Continental Guard:Continental Guards</English>
-		<French>Continental Guard:Continental Guards</French>
+		<French>Êîíòèíåíòàëüíàÿ ãâàðäèÿ</French>
 		<German>Kontinentalgarde:Kontinentalgarde</German>
 		<Italian>Continental Guard:Continental Guards</Italian>
 		<Spanish>Continental Guard:Continental Guards</Spanish>
@@ -4288,7 +4282,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_ACQUIRED_CONTINENTAL_GUARD</Tag>
 		<English>With the help of our European allies, we have successfully trained a Continental Guard in %s1_city, Mylord.</English>
-		<French>With the help of our European allies, we have successfully trained a Continental Guard in %s1_city, Mylord.</French>
+		<French>Ìèëîðä, áëàãîäàðÿ ïîìîùè íàøèõ åâðîïåéñêèõ ñîþçíèêîâ â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] ìû óñïåøíî îáó÷èëè [COLOR_UNIT_TEXT]êîíòèíåíòàëüíóþ ãâàðäèþ[COLOR_REVERT].</French>
 		<German>Mit der Hilfe unserer europ&#228;ischen Alliierten haben wir erfolgreich eine Kontinentalgarde in %s1_city ausgebildet, Mylord</German>
 		<Italian>With the help of our European allies, we have successfully trained a Continental Guard in %s1_city, Mylord.</Italian>
 		<Spanish>With the help of our European allies, we have successfully trained a Continental Guard in %s1_city, Mylord.</Spanish>
@@ -4296,7 +4290,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_ACQUIRED_MORTAR</Tag>
 		<English>The Mortar we have bought from our European allies has arrived in %s1_city, Mylord.</English>
-		<French>The Mortar we have bought from our European allies has arrived in %s1_city, Mylord.</French>
+		<French>Ìèëîðä, [COLOR_UNIT_TEXT]ìîðòèðà[COLOR_REVERT], êóïëåííàÿ ó íàøèõ åâðîïåéñêèõ ñîþçíèêîâ, ïðèáûëà â [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</French>
 		<German>Der M&#246;rser, den wir von unseren europ&#228;ischen Alliierten gekauft haben, ist in %s1_city angekommen, Mylord</German>
 		<Italian>The Mortar we have bought from our European allies has arrived in %s1_city, Mylord.</Italian>
 		<Spanish>The Mortar we have bought from our European allies has arrived in %s1_city, Mylord.</Spanish>
@@ -4616,7 +4610,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_MARKET_BUILDING</Tag>
 		<English>[ICON_BULLET]Generates [ICON_GOLD] by selling goods on domestic market.</English>
-		<French>[ICON_BULLET]Generates [ICON_GOLD] by selling goods on domestic market.</French>
+		<French>[ICON_BULLET]Ãåíåðèðóåò [ICON_GOLD] ïðè ïðîäàæå òîâàðîâ íà Âíóòðåííåì ðûíêå</French>
 		<German>[ICON_BULLET]Erwirtschaftet [ICON_GOLD] durch Verkauf von Waren an die Einwohner der Stadt</German>
 		<Italian>[ICON_BULLET]Generates [ICON_GOLD] by selling goods on domestic market.</Italian>
 		<Spanish>[ICON_BULLET]Generates [ICON_GOLD] by selling goods on domestic market.</Spanish>
@@ -4624,7 +4618,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_MARKET_BUILDING_INCREASED</Tag>
 		<English>[ICON_BULLET]Increases demand for goods on domestic market.</English>
-		<French>[ICON_BULLET]Increases demand for goods on domestic market.</French>
+		<French>[ICON_BULLET]óâåëè÷èâàåò ñïðîñ íà òîâàðû íà Âíóòðåííåì ðûíêå</French>
 		<German>[ICON_BULLET]Erh&#246;ht die Nachfrage nach Waren in der Stadt</German>
 		<Italian>[ICON_BULLET]Increases demand for goods on domestic market.</Italian>
 		<Spanish>[ICON_BULLET]Increases demand for goods on domestic market.</Spanish>
@@ -4640,7 +4634,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_EXTRA_TRADE_MODIFIER</Tag>
 		<English>[ICON_BULLET]%D1%% better prices from Bargaining</English>
-		<French>[ICON_BULLET]%D1%% better prices from Bargaining</French>
+		<French>[ICON_BULLET]%D1%% ê öåíå ïðè òîðãå, óñêîðåíèå ðàáîòû Òîðãîâûõ ïîñòîâ</French>
 		<German>[ICON_BULLET]%D1%% bessere Preise durch Feilschen</German>
 		<Italian>[ICON_BULLET]%D1%% better prices from Bargaining</Italian>
 		<Spanish>[ICON_BULLET]%D1%% better prices from Bargaining</Spanish>
@@ -4694,9 +4688,7 @@ Multiple repeating units is possible and an equal number will be trained of each
 		<English>Import feeder
 Turn import on at 75%
 Turn import off at 100%</English>
-		<French>Gestionnaire d'importation
-D&#233;marre l'importation &#224; 75%
-Arr&#234;te l'importation &#224; 100%</French>
+		<French>[COLOR_HIGHLIGHT_TEXT]Ôèäåð èìïîðòà[COLOR_REVERT][PARAGRAPH:2]Âêëþ÷èòü èìïîðò ïðè 75%[NEWLINE]Âûêëþ÷èòü èìïîðò ïðè 100%[NEWLINE]Àâòîìàòè÷åñêîå ïîääåðæàíèå íèæíåãî ñ÷åò÷èêà</French>
 		<German>Import feeder
 Schaltet Import bei 75% an
 Schaltet Import bei 100% aus</German>
@@ -4710,7 +4702,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_LEVIED_MILITIA_FOR_PROTECTION</Tag>
 		<English>Mylord, the city %s1_city has levied a Settler's Militia because they felt unprotected. [NEWLINE]To do so, they have taken food from the Storage and Money from the Treasury.</English>
-		<French>Mylord, the city %s1_city has levied a Settler's Militia because they felt unprotected. [NEWLINE]To do so, they have taken food from the Storage and Money from the Treasury.</French>
+		<French>Ìèëîðä! Æèòåëè ãîðîäà [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] ÷óâñòâîâàëè ñåáÿ áåççàùèòíûìè è ïîòîìó ñàìè îðãàíèçîâàëè îòðÿä [COLOR_UNIT_TEXT]âîîðóæåííûõ êîëîíèñòîâ[COLOR_REVERT]. [NEWLINE]Äëÿ îáåñïå÷åíèÿ îòðÿäà îíè âçÿëè åäó ñî ñêëàäà è äåíüãè èç êàçíû ãîðîäà.</French>
 		<German>Mylord, die Stadt %s1_city hat eine Siedlermiliz ausgehoben, weil sie sich unzureichend gesch&#252;tzt f&#252;hlte. [NEWLINE]Daf&#252;r haben Sie Nahrung aus den Lagern und Gold aus der Schatzkammer entnommen.</German>
 		<Italian>Mylord, the city %s1_city has levied a Settler's Militia because they felt unprotected. [NEWLINE]To do so, they have taken food from the Storage and Money from the Treasury.</Italian>
 		<Spanish>Mylord, the city %s1_city has levied a Settler's Militia because they felt unprotected. [NEWLINE]To do so, they have taken food from the Storage and Money from the Treasury.</Spanish>
@@ -4718,7 +4710,7 @@ Turn import off at 100%</Spanish>
 		<TEXT>
 		<Tag>TXT_KEY_CITY_UNREST_BECAUSE_MISSING_PROTECTION</Tag>
 		<English>Mylord, there is unrest in city %s1_city because the population feels unprotected.</English>
-		<French>Mylord, there is unrest in city %s1_city because the population feels unprotected.</French>
+		<French>[COLOR_NEGATIVE_TEXT]Áåäà, Ìèëîðä![COLOR_REVERT] Â ãîðîäå [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] áåñïîðÿäêè. Èç-çà îòñóòñòâèÿ âîéñê æèòåëè ÷óâñòâóþò ñåáÿ áåççàùèòíûìè.</French>
 		<German>Mylord, in %s1_city gibt es Unruhen, weil die B&#252;rger sich nicht ausreichend gesch&#252;tzt f&#252;hlen.</German>
 		<Italian>Mylord, there is unrest in city %s1_city because the population feels unprotected.</Italian>
 		<Spanish>Mylord, there is unrest in city %s1_city because the population feels unprotected.</Spanish>
@@ -4726,7 +4718,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_PAYED_CHURCH_DEMAND</Tag>
 		<English>Word about your generous donation to the Mother Church is spread.</English>
-		<French>Word about your generous donation to the Mother Church is spread.</French>
+		<French>Âñå òîëüêî è ãîâîðÿò î âàøåì ùåäðîì ïîæåðòâîâàíèè Ìàòåðè-Öåðêâè.</French>
 		<German>Die Kunde &#252;ber eure grossz&#252;gige Spende an die Heilige Mutter Kirche verbreitet sich.</German>
 		<Italian>Word about your generous donation to the Mother Church is spread.</Italian>
 		<Spanish>Word about your generous donation to the Mother Church is spread.</Spanish>
@@ -4734,7 +4726,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_REWARD_ATTITUDE_KING</Tag>
 		<English>[NEWLINE]The King is very pleased by the increase of prestige for his Nation through your actions.</English>
-		<French>[NEWLINE]The King is very pleased by the increase of prestige for his Nation through your actions.</French>
+		<French>[NEWLINE]Åãî Âåëè÷åñòâî î÷åíü ðàä, ÷òî áëàãîäàðÿ âàøèì äåéñòâèÿì ïðåñòèæ åãî íàöèè âûðîñ.</French>
 		<German>[NEWLINE]Der K&#246;nig ist sehr erfreut &#252;ber den Ruhm, den Eure Taten seiner Nation bescheren.</German>
 		<Italian>[NEWLINE]The King is very pleased by the increase of prestige for his Nation through your actions.</Italian>
 		<Spanish>[NEWLINE]The King is very pleased by the increase of prestige for his Nation through your actions.</Spanish>
@@ -4742,7 +4734,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_REWARD_ATTITUDE_EUROPEANS</Tag>
 		<English>[NEWLINE]Your prestige at other European Nations has grown.</English>
-		<French>[NEWLINE]Your prestige at other European Nations has grown.</French>
+		<French>[NEWLINE]Âàø àâòîðèòåò â äðóãèõ ñòðàíàõ Åâðîïû âûðîñ.</French>
 		<German>[NEWLINE]Euer Ansehen bei anderen europ&#228;ischen Nationen ist gestiegen.</German>
 		<Italian>[NEWLINE]Your prestige at other Europeans Nations has grown.</Italian>
 		<Spanish>[NEWLINE]Your prestige at other Europeans Nations has grown.</Spanish>
@@ -4750,7 +4742,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_REWARD_IMMIGRATION</Tag>
 		<English>[NEWLINE]Immigration of faithful christians to your colony has increased.</English>
-		<French>[NEWLINE]Immigration of faithful christians to your colony has increased.</French>
+		<French>[NEWLINE]Ýìèãðàöèÿ âåðóþùèõ õðèñòèàí â âàøó êîëîíèþ óâåëè÷èëàñü.</French>
 		<German>[NEWLINE]Die Immigration gl&#228;ubiger Christen in die Kolonien ist gestiegen.</German>
 		<Italian>[NEWLINE]Immigration of faithful christians to your colony has increased.</Italian>
 		<Spanish>[NEWLINE]Immigration of faithful christiansto your colony has increased.</Spanish>
@@ -4758,7 +4750,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_REWARD_MISSIONARY</Tag>
 		<English>[NEWLINE]A Missionary hearing those words has spontaneously decided to join your cause.</English>
-		<French>[NEWLINE]A Missionary hearing those words has spontaneously decided to join your cause.</French>
+		<French>[NEWLINE]Óñëûøàâ ýòè ñëîâà, ìèññèîíåð ðåøèë ïðèñîåäèíèòüñÿ ê íàøåìó äåëó.</French>
 		<German>[NEWLINE]Ein Missionar, der diese Worte h&#246;rte, hat spontan entschieden sich eurer Sache anzuschliessen.</German>
 		<Italian>[NEWLINE]A Missionary hearing those words has spontaneously decided to join your cause.</Italian>
 		<Spanish>[NEWLINE]A Missionary hearing those words has spontaneously decided to join your cause.</Spanish>
@@ -4766,7 +4758,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_PAYED_CHURCH_REWARD_PREACHER</Tag>
 		<English>[NEWLINE]A Preacher hearing those words has spontaneously decided to join your cause.</English>
-		<French>[NEWLINE]A Preacher hearing those words has spontaneously decided to join your cause.</French>
+		<French>[NEWLINE]Óñëûøàâ ýòè ñëîâà, ïðîïîâåäíèê ðåøèë ïðèñîåäèíèòüñÿ ê íàøåìó äåëó.</French>
 		<German>[NEWLINE]Ein Prediger, der diese Worte h&#246;rte, hat spontan entschieden sich eurer Sache anzuschliessen.</German>
 		<Italian>[NEWLINE]A Preacher hearing those words has spontaneously decided to join your cause.</Italian>
 		<Spanish>[NEWLINE]A Preacher hearing those words has spontaneously decided to join your cause.</Spanish>
@@ -4774,7 +4766,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_REFUSED_CHURCH_DEMAND</Tag>
 		<English>Word about your refusal to help the poor and desperate is spread.</English>
-		<French>Word about your refusal to help the poor and desperate is spread.</French>
+		<French>Ïî âñåé ñòðàíå ðàçëåòåëñÿ ñëóõ î âàøåì îòêàçå ïîìîãàòü áåäíûì è îò÷àÿâøèìñÿ.</French>
 		<German>Die Kunde &#252;ber eure Weigerung den Armen und Hilfsbed&#252;rftigen zu spenden verpreitet sich.</German>
 		<Italian>Word about your refusal to help the poor and desperate is spread.</Italian>
 		<Spanish>Word about your refusal to help the poor and desperate is spread.</Spanish>
@@ -4782,7 +4774,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_PENALTY_ATTITUDE_KING</Tag>
 		<English>[NEWLINE]The King is very unpleased by the loss of prestige for his Nation through your actions.</English>
-		<French>[NEWLINE]The King is very unpleased by the loss of prestige for his Nation through your actions.</French>
+		<French>[NEWLINE]Åãî Âåëè÷åñòâî êðàéíå íåäîâîëåí ïîòåðåé ïðåñòèæà åãî íàöèè èç-çà âàøèõ äåéñòâèé.</French>
 		<German>[NEWLINE]Der K&#246;nig ist sehr unerfreut &#252;ber den Verlust an Ansehen, den Eure Taten seiner Nation bescheren.</German>
 		<Italian>[NEWLINE]The King is very pleased by the loss of prestige for his Nation through your actions.</Italian>
 		<Spanish>[NEWLINE]The King is very pleased by the loss of prestige for his Nation through your actions.</Spanish>
@@ -4790,7 +4782,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_PENALTY_ATTITUDE_EUROPEANS</Tag>
 		<English>[NEWLINE]Your prestige at other European Nations has suffered.</English>
-		<French>[NEWLINE]Your prestige at other European Nations has suffered.</French>
+		<French>[NEWLINE]Âàø ïðåñòèæ ñðåäè äðóãèõ åâðîïåéñêèõ ñòðàí ïîíèçèëñÿ.</French>
 		<German>[NEWLINE]Euer Ansehen bei anderen europ&#228;ischen Nationen ist gefallen.</German>
 		<Italian>[NEWLINE]Your prestige at other Europeans Nations has suffered.</Italian>
 		<Spanish>[NEWLINE]Your prestige at other Europeans Nations has suffered.</Spanish>
@@ -4798,7 +4790,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_PENALTY_UNREST</Tag>
 		<English>[NEWLINE]The faithful citizens in your capitol are marching on the streets.</English>
-		<French>[NEWLINE]The faithful citizens in your capitol are marching on the streets.</French>
+		<French>[NEWLINE]Âåðíûå õðèñòèàíå ìàðøèðóþò ïî óëèöàì ñòîëèöû.</French>
 		<German>[NEWLINE]Die Gl&#228;ubigen demonstrieren auf den Strassen der Hauptstadt gegen Eure Handlung.</German>
 		<Italian>[NEWLINE]The faithful citizens in your capitol are marching on the streets.</Italian>
 		<Spanish>[NEWLINE]The faithful citizens in your capitol are marching on the streets.</Spanish>
@@ -4806,7 +4798,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_CHURCH_PENALTY_IMMIGRATION</Tag>
 		<English>[NEWLINE]Immigration of faithful christians to your colony has decreased.</English>
-		<French>[NEWLINE]Immigration of faithful christians to your colony has decreased.</French>
+		<French>[NEWLINE]Â âàøè êîëîíèè ýìèãðèðóåò ìåíüøå ïðàâåäíûõ õðèñòèàí.</French>
 		<German>[NEWLINE]Die Immigration gl&#228;ubiger Christen in die Kolonien ist gesunken.</German>
 		<Italian>[NEWLINE]Immigration of faithful christians to your colony has decreased.</Italian>
 		<Spanish>[NEWLINE]Immigration of faithful christiansto your colony has decreased.</Spanish>
@@ -4814,7 +4806,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_AFRICA</Tag>
 		<English>Sail to Africa</English>
-		<French>Sail to Africa</French>
+		<French>Ïëûòü â Àôðèêó</French>
 		<German>Nach Afrika segeln</German>
 		<Italian>Fai vela per l'Africa</Italian>
 		<Spanish>Navegar a Africa</Spanish>
@@ -4822,7 +4814,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_AFRICA_HELP</Tag>
 		<English>The ship sails off the map and can be accessed through the Africa Screen.</English>
-		<French>The ship sails off the map and can be accessed through the Africa Screen.</French>
+		<French>Êîðàáëü â àâòîìàòè÷åñêîì ðåæèìå äîñòèãàåò êëåòîê "Ïóòü â Åâðîïó" è ÷åðåç íåñêîëüêî õîäîâ ïîÿâëÿåòñÿ íà ýêðàíå Àôðèêè</French>
 		<German>Das Schiff segelt &#252;ber die Karte hinaus und ist dann &#252;ber den Afrika-Bildschirm verf&#252;gbar.</German>
 		<Italian>La nave salpa al di fuori della mappa; puoi accedervi attraverso la schermata Africa.</Italian>
 		<Spanish>El barco navega hasta salir del mapa, pero se puede acceder a &#233;l mediante la pantalla de Africa.</Spanish>
@@ -4838,7 +4830,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_EUROPE_PRICE_HELP</Tag>
 		<English>[NEWLINE]Europe: </English>
-		<French>[NEWLINE]Europe: </French>
+		<French>[NEWLINE]    Åâðîïà[TAB][TAB]</French>
 		<German>[NEWLINE]Europa: </German>
 		<Italian>[NEWLINE]Europe: </Italian>
 		<Spanish>[NEWLINE]Europe: </Spanish>
@@ -4846,7 +4838,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_AFRICA_PRICE_HELP</Tag>
 		<English>[NEWLINE]Africa: </English>
-		<French>[NEWLINE]Africa: </French>
+		<French>[NEWLINE]    Àôðèêà[TAB][TAB]</French>
 		<German>[NEWLINE]Afrika: </German>
 		<Italian>[NEWLINE]Africa: </Italian>
 		<Spanish>[NEWLINE]Africa: </Spanish>
@@ -4854,7 +4846,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_PORT_ROYAL</Tag>
 		<English>Sail to Port Royal</English>
-		<French>Sail to Port Royal</French>
+		<French>Ïëûòü â Ïîðò Ðîéàë</French>
 		<German>Nach Port Royal segeln</German>
 		<Italian>Fai vela per Port Royal</Italian>
 		<Spanish>Navegar a Port Royal</Spanish>
@@ -4862,7 +4854,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_COMMAND_SAIL_TO_PORT_ROYAL_HELP</Tag>
 		<English>The ship sails off the map and can be accessed through the Port Royal Screen.</English>
-		<French>The ship sails off the map and can be accessed through the Port Royal Screen.</French>
+		<French>Êîðàáëü â àâòîìàòè÷åñêîì ðåæèìå äîñòèãàåò êëåòîê "Ïóòü â Åâðîïó" è ÷åðåç íåñêîëüêî õîäîâ ïîÿâëÿåòñÿ íà ýêðàíå Ïîðò Ðîéàëà</French>
 		<German>Das Schiff segelt &#252;ber die Karte hinaus und ist dann &#252;ber den Port Royal-Bildschirm verf&#252;gbar.</German>
 		<Italian>La nave salpa al di fuori della mappa; puoi accedervi attraverso la schermata Port Royal.</Italian>
 		<Spanish>El barco navega hasta salir del mapa, pero se puede acceder a &#233;l mediante la pantalla de Port Royal.</Spanish>
@@ -4878,7 +4870,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_PORT_ROYAL_PRICE_HELP</Tag>
 		<English>[NEWLINE]Port Royal: </English>
-		<French>[NEWLINE]Port Royal: </French>
+		<French>[NEWLINE]    Ïîðò Ðîéàë[TAB]</French>
 		<German>[NEWLINE]Port Royal: </German>
 		<Italian>[NEWLINE]Port Royal: </Italian>
 		<Spanish>[NEWLINE]Port Royal: </Spanish>
@@ -4886,7 +4878,7 @@ Turn import off at 100%</Spanish>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_BRIBE_RATE</Tag>
 		<English>Tax Rate: %d1%% </English>
-		<French>Tax Rate: %d1%% </French>
+		<French>Ñòàâêà íàëîãà : %d1%%</French>
 		<German>Steuersatz: %d1%%</German>
 		<Italian>Percentuale tasse: %d1%%</Italian>
 		<Spanish>Carga impositiva: %d1%%</Spanish>

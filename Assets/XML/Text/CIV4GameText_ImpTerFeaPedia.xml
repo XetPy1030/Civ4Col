@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Sid Meier's Civilization 4 -->
-<!-- -->
-<!-- Game Text - ImprovementPedia -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_LAND_WORKED_PEDIA</Tag>
@@ -434,7 +431,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_QUOTE</Tag>
 		<English>Quote</English>
-		<French>&#214;&#232;&#242;&#224;&#242;&#224;</French>
+		<French>Öèòàòà</French>
 		<German>Zitat</German>
 		<Italian>Citazione</Italian>
 		<Spanish>Cita</Spanish>
@@ -442,7 +439,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_STRATEGY</Tag>
 		<English>Strategy</English>
-		<French>&#206;&#239;&#232;&#241;&#224;&#237;&#232;&#229;</French>
+		<French>Ñòðàòåãèÿ</French>
 		<German>Strategie</German>
 		<Italian>Strategia</Italian>
 		<Spanish>Estrategia</Spanish>
@@ -450,7 +447,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MIGRATES</Tag>
 		<English>[ICON_BULLET]Migrates from Europe</English>
-		<French>[ICON_BULLET]&#204;&#232;&#227;&#240;&#232;&#240;&#243;&#229;&#242; &#232;&#231; &#197;&#226;&#240;&#238;&#239;&#251; </French>
+		<French>[ICON_BULLET]Ìèãðèðóåò èç Åâðîïû</French>
 		<German>[ICON_BULLET]Migriert aus Europa</German>
 		<Italian>[ICON_BULLET]Migrates from Europe</Italian>
 		<Spanish>[ICON_BULLET]Migrates from Europe</Spanish>
@@ -458,7 +455,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BUYABLE_IN_EUROPE</Tag>
 		<English>[ICON_BULLET]Buyable in Europe</English>
-		<French>[ICON_BULLET]&#207;&#238;&#234;&#243;&#239;&#224;&#229;&#242;&#241;&#255; &#226; &#197;&#226;&#240;&#238;&#239;&#229; </French>
+		<French>[ICON_BULLET]Ìîæíî êóïèòü â Åâðîïå</French>
 		<German>[ICON_BULLET]Kaufbar in Europa</German>
 		<Italian>[ICON_BULLET]Buyable in Europe</Italian>
 		<Spanish>[ICON_BULLET]Buyable in Europe</Spanish>
@@ -466,7 +463,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TAUGHT_BY_NATIVES</Tag>
 		<English>[ICON_BULLET]Trained by Natives</English>
-		<French>[ICON_BULLET]&#206;&#225;&#243;&#247;&#224;&#229;&#242;&#241;&#255; &#232;&#237;&#228;&#229;&#233;&#246;&#224;&#236;&#232; </French>
+		<French>[ICON_BULLET]Îáó÷àåòñÿ ó èíäåéöåâ</French>
 		<German>[ICON_BULLET]Ausbildbar durch Ureinwohner</German>
 		<Italian>[ICON_BULLET]Trained by Natives</Italian>
 		<Spanish>[ICON_BULLET]Trained by Natives</Spanish>

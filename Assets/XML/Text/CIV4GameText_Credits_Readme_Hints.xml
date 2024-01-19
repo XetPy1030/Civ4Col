@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text - New -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_</Tag>
-		<English></English>
-		<French></French>
-		<German></German>
-		<Italian></Italian>
-		<Spanish></Spanish>
+		<English />
+		<French />
+		<German />
+		<Italian />
+		<Spanish />
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_HEAD</Tag>
 		<English>RaR - Credits</English>
-		<French>RaR - Credits</French>
+		<French>We The People - Áëàãîäàðíîñòè</French>
 		<German>RaR - Credits</German>
 		<Italian>RaR - Credits</Italian>
 		<Spanish>RaR - Credits</Spanish>
@@ -459,11 +454,11 @@ You can contact TAC via civforum http://www.civforum.de/showthread.php?t=56991 o
 You can contact RaR at CivFanatics: http://forums.civfanatics.com/forumdisplay.php?f=455[NEWLINE][NEWLINE]
 		</Spanish>
 	</TEXT>
-	<!-- Readme -->
+	
 	<TEXT>
 		<Tag>TXT_KEY_README_BUTTON</Tag>
 		<English>RaR concept</English>
-		<French>RaR concept</French>
+		<French>Êîíöåïöèÿ WtP</French>
 		<German>RaR-Konzept</German>
 		<Italian>RaR concept</Italian>
 		<Spanish>RaR concept</Spanish>
@@ -483,11 +478,7 @@ You can contact RaR at CivFanatics: http://forums.civfanatics.com/forumdisplay.p
 Thus we have chosen "The Authentic Colonization" (TAC) as base for this project and added many many cool features and improvements to it.[NEWLINE]
 Enjoy![NEWLINE]
 		</English>
-		<French>[H1]Bienvenue dans "Religion and Revolution" - RaR ![\H1][NEWLINE]
-[H2]L'id&#233;e derri&#232;re "Religion and Revolution" est simple : nous voulons cr&#233;er le plus grand et le meilleur mod pour CivCol ![\H2][NEWLINE]
-C'est pourquoi nous avons choisi de prendre "The Authentic Colonization" TAC comme base en y ajoutant de nouveaux &#233;l&#233;ments et am&#233;liorations.[NEWLINE]
-Faites-vous plaisir ![NEWLINE]
-		</French>
+		<French>[H1]Äîáðî ïîæàëîâàòü â ìîä "We the People" — WtP![\H1][NEWLINE][H2]Èäåÿ "We the People" ïðîñòà: ìû õîòèì ñîçäàòü ñàìûé áîëüøîé è ëó÷øèé CivCol-Mod![\H2][NEWLINE]Ïîýòîìó ìû âûáðàëè "The Authentic Colonization" (TAC) è "Religion and Revolution" (RaR) â êà÷åñòâå îñíîâû äëÿ ýòîãî ïðîåêòà è äîáàâèëè ìíîæåñòâî èíòåðåñíûõ ôóíêöèé è óëó÷øåíèé.[NEWLINE][NEWLINE]Íàñëàæäàéòåñü![NEWLINE]</French>
 		<German>[H1]Willkommen zu "Religion and Revolution" - RaR ![\H1][NEWLINE]
 [H2]Die Grundidee zu "Religion and Revolution" ist einfach: Wir wollen die gr&#246;sste und beste CivCol-Mod aller Zeiten schaffen ![\H2][NEWLINE]
 Deshalb haben wir uns f&#252;r "The Authentic Colonization" (TAC) als Basis entschlossen und viele neue Features und Verbesserungen hinzugef&#252;gt.[NEWLINE]
@@ -504,7 +495,7 @@ Thus we have chosen "The Authentic Colonization" (TAC) as base for this project 
 Enjoy![NEWLINE]
 		</Spanish>
 	</TEXT>
-	<!-- Hints -->
+	
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_1</Tag>
 		<English>Once vigorous measures appear to be the only means left of bringing the Americans to a due submission to the mother country, the colonies will submit.[NEWLINE]--- George III, King of Great Britain (1760-1820)</English>

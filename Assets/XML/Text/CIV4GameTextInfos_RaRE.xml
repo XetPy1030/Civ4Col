@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text Infos -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_DLL_FLAG_ERROR</Tag>
 		<English>DLL incompatible with the savegame. The DLL needs to be recompiled with the same flags as was used when the game was saved.[NEWLINE]Required Flags:</English>
-		<French>DLL &#237;&#229;&#241;&#238;&#226;&#236;&#229;&#241;&#242;&#232;&#236;&#224; &#241; &#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#237;&#238;&#233; &#232;&#227;&#240;&#238;&#233;. DLL &#237;&#229;&#238;&#225;&#245;&#238;&#228;&#232;&#236;&#238; &#239;&#229;&#240;&#229;&#234;&#238;&#236;&#239;&#232;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#241; &#242;&#229;&#236;&#232; &#230;&#229; &#244;&#235;&#224;&#227;&#224;&#236;&#232;, &#234;&#238;&#242;&#238;&#240;&#251;&#229; &#232;&#241;&#239;&#238;&#235;&#252;&#231;&#238;&#226;&#224;&#235;&#232;&#241;&#252; &#239;&#240;&#232; &#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#232; &#232;&#227;&#240;&#251;.[NEWLINE]&#238;&#225;&#255;&#231;&#224;&#242;&#229;&#235;&#252;&#237;&#251;&#229; &#244;&#235;&#224;&#227;&#232;:</French>
+		<French>DLL несовместима с сохраненной игрой. DLL необходимо перекомпилировать с теми же флагами, которые использовались при сохранении игры.[NEWLINE]Обязательные флаги:</French>
 		<German>DLL incompatible with the savegame. The DLL needs to be recompiled with the same flags as was used when the game was saved.[NEWLINE]Required Flags:</German>
 		<Italian>DLL incompatible with the savegame. The DLL needs to be recompiled with the same flags as was used when the game was saved.[NEWLINE]Required Flags:</Italian>
 		<Spanish>DLL incompatible with the savegame. The DLL needs to be recompiled with the same flags as was used when the game was saved.[NEWLINE]Required Flags:</Spanish>
@@ -72,7 +67,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAN_MOVE_PEAK</Tag>
 		<English>[ICON_BULLET]Can move on mountain peaks</English>
-		<French>[ICON_BULLET]&#236;&#238;&#230;&#229;&#242; &#228;&#226;&#232;&#227;&#224;&#242;&#252;&#241;&#255; &#239;&#238; &#227;&#238;&#240;&#237;&#251;&#236; &#226;&#229;&#240;&#248;&#232;&#237;&#224;&#236;</French>
+		<French>[ICON_BULLET]Может передвигаться по клеткам гор</French>
 		<German>[ICON_BULLET]Kann Berge &#252;berqueren</German>
 		<Italian>[ICON_BULLET]Can move on mountain peaks</Italian>
 		<Spanish>[ICON_BULLET]Can move on mountain peaks</Spanish>

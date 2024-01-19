@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text - New -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_PROFESSION_IDLE_CITIZEN</Tag>
@@ -5748,7 +5743,7 @@
 <TEXT>
     <Tag>TXT_KEY_LEADER_DE_SA</Tag>
     <English>Mem de S&#225;</English>
-    <French>&#204;&#229;&#236; &#228;&#229; &#209;&#225;</French>
+    <French>Ìåì äè Ñà</French>
     <German>Mem de S&#225;</German>
     <Italian>Mem de S&#225;</Italian>
     <Spanish>Mem de S&#225;</Spanish>
@@ -5756,7 +5751,7 @@
 <TEXT>
     <Tag>TXT_KEY_LEADER_PORTUGUESE_KING</Tag>
     <English>King of Portugal</English>
-    <French>&#202;&#238;&#240;&#238;&#235;&#252; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#232;</French>
+    <French>Êîðîëü Ïîðòóãàëèè</French>
     <German>K&#246;nig von Portugal</German>
     <Italian>Re di Portogallo</Italian>
     <Spanish>King of Portugal</Spanish>
@@ -5764,7 +5759,7 @@
 <TEXT>
     <Tag>TXT_KEY_LEADER_SOUSA</Tag>
     <English>Martim Afonso de Sousa</English>
-    <French>&#204;&#224;&#240;&#242;&#232;&#236; &#192;&#244;&#238;&#237;&#241;&#243; &#228;&#229; &#209;&#238;&#243;&#231;&#224;</French>
+    <French>Ìàðòèí Àôîíñó äå Ñîóçà</French>
     <German>Martim Afonso de Sousa</German>
     <Italian>MMartim Afonso de Sousa</Italian>
     <Spanish>Martim Afonso de Sousa</Spanish>
@@ -11188,7 +11183,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_EXPLORATION</Tag>
 		<English>Exploration Points</English>
-		<French>&#208;&#224;&#231;&#226;&#229;&#228;&#239;&#243;&#237;&#234;&#242;&#251;</French>
+		<French>Î÷êè ðàçâåäêè</French>
 		<German>Erkundungspunkte</German>
 		<Italian>
 			<Text>Punti esplorazione</Text>
@@ -11204,7 +11199,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_RELIGION</Tag>
 		<English>Religion Points</English>
-		<French>&#208;&#229;&#235;&#232;&#227;&#232;&#238;&#231;&#237;&#251;&#229; &#239;&#243;&#237;&#234;&#242;&#251;</French>
+		<French>Ðåëèãèîçíûå î÷êè</French>
 		<German>Religionspunkte</German>
 		<Italian>
 			<Text>Punti religione</Text>
@@ -11220,7 +11215,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_TRADE</Tag>
 		<English>Trade Points</English>
-		<French>&#210;&#238;&#240;&#227;&#238;&#226;&#251;&#229; &#239;&#243;&#237;&#234;&#242;&#251;</French>
+		<French>Òîðãîâûå î÷êè</French>
 		<German>Handelspunkte</German>
 		<Italian>
 			<Text>Punti commercio</Text>
@@ -11236,7 +11231,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_MILITARY</Tag>
 		<English>Military Points</English>
-		<French>&#194;&#238;&#229;&#237;&#237;&#251;&#229; &#239;&#243;&#237;&#234;&#242;&#251;</French>
+		<French>Âîåííûå î÷êè</French>
 		<German>Milit&#228;rpunkte</German>
 		<Italian>
 			<Text>Punti esercito</Text>
@@ -11252,7 +11247,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_POINT_POLITICAL</Tag>
 		<English>Political Points</English>
-		<French>&#207;&#238;&#235;&#232;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#239;&#243;&#237;&#234;&#242;&#251;</French>
+		<French>Ïîëèòè÷åñêèå î÷êè</French>
 		<German>Politikpunkte</German>
 		<Italian>
 			<Text>Punti politica</Text>
@@ -14218,7 +14213,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HESSIAN</Tag>
 		<English>Hessian:Hessians</English>
-		<French>Hessian:Hessians</French>
+		<French>Ãåññåíñêèå íàåìíèêè</French>
 		<German>Hessischer S&#246;ldner:Hessische S&#246;ldner</German>
 		<Italian>Hessian:Hessians</Italian>
 		<Spanish>Hessian:Hessians</Spanish>
@@ -14606,7 +14601,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_RELIEF_BATTALION</Tag>
 		<English>Relief Battalion</English>
-		<French>Relief Battalion</French>
+		<French>Ðåçåðâíûé áàòàëüîí</French>
 		<German>Reservebataillon</German>
 		<Italian>Relief Battalion</Italian>
 		<Spanish>Relief Battalion</Spanish>
@@ -15138,7 +15133,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SAILING1</Tag>
 		<English>Naval Warfare I</English>
-		<French>Naval Warfare I</French>
+		<French>Âîåííî-ìîðñêèå ìàíåâðû I</French>
 		<German>Seekrieg I</German>
 		<Italian>Guerra Marittima I</Italian>
 		<Spanish>Guerra Naval I</Spanish>
@@ -15146,7 +15141,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SAILING2</Tag>
 		<English>Naval Warfare II</English>
-		<French>Naval Warfare II</French>
+		<French>Âîåííî-ìîðñêèå ìàíåâðû II</French>
 		<German>Seekrieg II</German>
 		<Italian>Guerra Marittima II</Italian>
 		<Spanish>Guerra Naval II</Spanish>
@@ -15154,7 +15149,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SAILING3</Tag>
 		<English>Naval Warfare III</English>
-		<French>Naval Warfare III</French>
+		<French>Âîåííî-ìîðñêèå ìàíåâðû III</French>
 		<German>Seekrieg III</German>
 		<Italian>Guerra Marittima III</Italian>
 		<Spanish>Guerra Naval III</Spanish>
@@ -15162,7 +15157,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SAILING4</Tag>
 		<English>Naval Warfare IV</English>
-		<French>Naval Warfare IV</French>
+		<French>Âîåííî-ìîðñêèå ìàíåâðû IV</French>
 		<German>Seekrieg IV</German>
 		<Italian>Guerra Marittima IV</Italian>
 		<Spanish>Guerra Naval IV</Spanish>
@@ -15170,7 +15165,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SAILING5</Tag>
 		<English>Naval Warfare V</English>
-		<French>Naval Warfare V</French>
+		<French>Âîåííî-ìîðñêèå ìàíåâðû V</French>
 		<German>Seekrieg V</German>
 		<Italian>Guerra Marittima V</Italian>
 		<Spanish>Guerra Naval V</Spanish>
@@ -15178,7 +15173,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SAILING6</Tag>
 		<English>Naval Warfare VI</English>
-		<French>Naval Warfare VI</French>
+		<French>Âîåííî-ìîðñêèå ìàíåâðû VI</French>
 		<German>Seekrieg VI</German>
 		<Italian>Guerra Marittima VI</Italian>
 		<Spanish>Guerra Naval VI</Spanish>
@@ -15186,7 +15181,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_DISCOVERER</Tag>
 		<English>Great Discoverer</English>
-		<French>Great Discoverer</French>
+		<French>Âåëèêèé èññëåäîâàòåëü</French>
 		<German>Gro&#223;er Entdecker</German>
 		<Italian>Great Discoverer</Italian>
 		<Spanish>Great Discoverer</Spanish>
@@ -15194,7 +15189,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_NAVAL_TRADE1</Tag>
 		<English>Merchant Vessel I</English>
-		<French>Merchant Vessel I</French>
+		<French>Òîðãîâîå ñóäíî I</French>
 		<German>Handelsschiff I</German>
 		<Italian>Nave mercantile I</Italian>
 		<Spanish>Buque mercante I</Spanish>
@@ -15202,7 +15197,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_NAVAL_TRADE2</Tag>
 		<English>Merchant Vessel II</English>
-		<French>Merchant Vessel II</French>
+		<French>Òîðãîâîå ñóäíî II</French>
 		<German>Handelsschiff II</German>
 		<Italian>Nave mercantile II</Italian>
 		<Spanish>Buque mercante II</Spanish>

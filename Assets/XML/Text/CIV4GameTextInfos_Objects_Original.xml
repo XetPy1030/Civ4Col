@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by EXTREME (Firaxis Games) -->
-<!-- Sid Meier's Civilization 4 -->
-<!-- Copyright Firaxis Games 2005 -->
-<!-- -->
-<!-- Game Text Objects -->
+<?xml version='1.0' encoding='windows-1251'?>
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_LAND_WORKED</Tag>
@@ -104,7 +99,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_PLANTATION</Tag>
 		<English>Plantation</English>
-		<French>&#207;&#235;&#224;&#237;&#242;&#224;&#246;&#232;&#255;</French>
+		<French>Плантация</French>
 		<German>
 			<Text>Plantage</Text>
 			<Gender>Female</Gender>
@@ -728,7 +723,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_ICE</Tag>
 		<English>Polar Ice</English>
-		<French>&#207;&#238;&#235;&#255;&#240;&#237;&#251;&#233; &#235;&#229;&#228;</French>
+		<French>Полярный лед</French>
 		<German>
 			<Text>Polareis</Text>
 			<Gender>Male</Gender>
@@ -964,7 +959,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TERRAIN_ICE</Tag>
 		<English>Polar Ice</English>
-		<French>&#207;&#238;&#235;&#255;&#240;&#237;&#251;&#233; &#235;&#229;&#228;</French>
+		<French>Полярный лед</French>
 		<German>
 			<Text>Polareis</Text>
 			<Gender>Male</Gender>
@@ -1248,7 +1243,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TIME</Tag>
 		<English>Score Victory after Turn Limit</English>
-		<French>&#206;&#247;&#234;&#232; &#239;&#238;&#225;&#229;&#228;&#251; &#239;&#238;&#241;&#235;&#229; &#239;&#240;&#229;&#228;&#229;&#235;&#224; &#245;&#238;&#228;&#238;&#226;</French>
+		<French>Победа до истечения лимита ходов</French>
 		<German>
 			<Text>Punktesieg nach Rundenlimit</Text>
 			<Gender>Male</Gender>
@@ -4308,7 +4303,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_TERRAIN_SNOW</Tag>
 		<English>Permafrost</English>
-		<French>&#194;&#229;&#247;&#237;&#224;&#255; &#236;&#229;&#240;&#231;&#235;&#238;&#242;&#224;</French>
+		<French>Вечная мерзлота</French>
 		<German>
 			<Text>Permafrost</Text>
 			<Gender>Male</Gender>
